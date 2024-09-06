@@ -1,0 +1,6554 @@
+[
+ {
+   "City Name": "KABUL",
+   "Airport Name": "KABUL",
+   "Country": "AFGHANISTAN",
+   "elevationInFt": 5871,
+   "Geographic Location": "3434N 6913E"
+ },
+ {
+   "City Name": "ANCHORAGE INTL",
+   "Airport Name": "ANCHORAGE INTL",
+   "Country": "ALASKA",
+   "elevationInFt": 144,
+   "Geographic Location": "6110N 15000W"
+ },
+ {
+   "City Name": "ANCHORAGE ELMENDORF",
+   "Airport Name": "ELMENDORF",
+   "Country": "ALASKA",
+   "elevationInFt": 213,
+   "Geographic Location": "6115N 14948W"
+ },
+ {
+   "City Name": "COLD BAY",
+   "Airport Name": "COLD BAY",
+   "Country": "ALASKA",
+   "elevationInFt": 98,
+   "Geographic Location": "5512N 16243W"
+ },
+ {
+   "City Name": "FAIRBANKS",
+   "Airport Name": "FAIRBANKS INTL",
+   "Country": "ALASKA",
+   "elevationInFt": 434,
+   "Geographic Location": "6449N 14751W"
+ },
+ {
+   "City Name": "SHEYMA",
+   "Airport Name": "SHEYMA",
+   "Country": "ALASKA",
+   "elevationInFt": 97,
+   "Geographic Location": "5243N 17407W"
+ },
+ {
+   "City Name": "TIRANA",
+   "Airport Name": "RINAS",
+   "Country": "ALBANIA",
+   "elevationInFt": 118,
+   "Geographic Location": "4125N 1943E"
+ },
+ {
+   "City Name": "ADRAR",
+   "Airport Name": "TOUAT",
+   "Country": "ALGERIA",
+   "elevationInFt": 915,
+   "Geographic Location": "2750N 0011W"
+ },
+ {
+   "City Name": "ALGIERS",
+   "Airport Name": "HOUARI BOUMEDIENNE",
+   "Country": "ALGERIA",
+   "elevationInFt": 82,
+   "Geographic Location": "3642N 0313E"
+ },
+ {
+   "City Name": "ANNABA",
+   "Airport Name": "EL MELLAH",
+   "Country": "ALGERIA",
+   "elevationInFt": 16,
+   "Geographic Location": "3649N 0749E"
+ },
+ {
+   "City Name": "CONSTANTINE",
+   "Airport Name": "AIN-EL-BEY",
+   "Country": "ALGERIA",
+   "elevationInFt": 2303,
+   "Geographic Location": "3617N 0637E"
+ },
+ {
+   "City Name": "EL GOLEA",
+   "Airport Name": "EL GOLEA",
+   "Country": "ALGERIA",
+   "elevationInFt": 1306,
+   "Geographic Location": "3034N 0252E"
+ },
+ {
+   "City Name": "GHARDAIA",
+   "Airport Name": "GHARDAIA",
+   "Country": "ALGERIA",
+   "elevationInFt": 1512,
+   "Geographic Location": "3223N 0349E"
+ },
+ {
+   "City Name": "HASSI MESSAOUD",
+   "Airport Name": "OUED IRARA",
+   "Country": "ALGERIA",
+   "elevationInFt": 463,
+   "Geographic Location": "3140N 0609E"
+ },
+ {
+   "City Name": "IN SALAH",
+   "Airport Name": "IN SALAH",
+   "Country": "ALGERIA",
+   "elevationInFt": 883,
+   "Geographic Location": "2715N 0231E"
+ },
+ {
+   "City Name": "ORAN",
+   "Airport Name": "ES SENIA",
+   "Country": "ALGERIA",
+   "elevationInFt": 295,
+   "Geographic Location": "3538N 0037E"
+ },
+ {
+   "City Name": "TAMANRASSET",
+   "Airport Name": "TAMANRASSET",
+   "Country": "ALGERIA",
+   "elevationInFt": 4518,
+   "Geographic Location": "2249N 0528E"
+ },
+ {
+   "City Name": "ZARAZAITINE",
+   "Airport Name": "IN AMENAS",
+   "Country": "ALGERIA",
+   "elevationInFt": 1847,
+   "Geographic Location": "2803N 0938E"
+ },
+ {
+   "City Name": "LUANDA",
+   "Airport Name": "LUANDA",
+   "Country": "ANGOLA",
+   "elevationInFt": 243,
+   "Geographic Location": "0851S 1314E"
+ },
+ {
+   "City Name": "BUENOS AIRES",
+   "Airport Name": "EZEIZA",
+   "Country": "ARGENTINA",
+   "elevationInFt": 66,
+   "Geographic Location": "3449S 5832W"
+ },
+ {
+   "City Name": "COMODORO RIVADAVIA",
+   "Airport Name": "COMODORO RIVADAVIA",
+   "Country": "ARGENTINA",
+   "elevationInFt": 190,
+   "Geographic Location": "4547S 6728W"
+ },
+ {
+   "City Name": "CORDOBA",
+   "Airport Name": "CORDOBA",
+   "Country": "ARGENTINA",
+   "elevationInFt": 1604,
+   "Geographic Location": "3119S 6413W"
+ },
+ {
+   "City Name": "MAR DE PLATA",
+   "Airport Name": "MAR DE PLATA",
+   "Country": "ARGENTINA",
+   "elevationInFt": 66,
+   "Geographic Location": "3756S 5735W"
+ },
+ {
+   "City Name": "ASCENSION",
+   "Airport Name": "WIDEAWAKE",
+   "Country": "ASCENSION IS.",
+   "elevationInFt": 273,
+   "Geographic Location": "0758S 1424W"
+ },
+ {
+   "City Name": "ADELAIDE",
+   "Airport Name": "ADELAIDE INTL.",
+   "Country": "AUSTRALIA",
+   "elevationInFt": 20,
+   "Geographic Location": "3457S 13832E"
+ },
+ {
+   "City Name": "ALICE SPRINGS",
+   "Airport Name": "ALICE SPRINGS",
+   "Country": "AUSTRALIA",
+   "elevationInFt": 1789,
+   "Geographic Location": "2349S 13354E"
+ },
+ {
+   "City Name": "AVALON",
+   "Airport Name": "AVALON",
+   "Country": "AUSTRALIA",
+   "elevationInFt": 35,
+   "Geographic Location": "3802S 14428E"
+ },
+ {
+   "City Name": "BRISBANE",
+   "Airport Name": "BRISBANE",
+   "Country": "AUSTRALIA",
+   "elevationInFt": 13,
+   "Geographic Location": "2723S 15307E"
+ },
+ {
+   "City Name": "CAIRNS",
+   "Airport Name": "CAIRNS",
+   "Country": "AUSTRALIA",
+   "elevationInFt": 10,
+   "Geographic Location": "1653S 1454E"
+ },
+ {
+   "City Name": "CANBERRA",
+   "Airport Name": "CANBERRA",
+   "Country": "AUSTRALIA",
+   "elevationInFt": 1888,
+   "Geographic Location": "3519S 14912E"
+ },
+ {
+   "City Name": "COOLANGATTA",
+   "Airport Name": "COOLANGATTA",
+   "Country": "AUSTRALIA",
+   "elevationInFt": 21,
+   "Geographic Location": "2810S 15330E"
+ },
+ {
+   "City Name": "DARWIN",
+   "Airport Name": "DARWIN INTL.",
+   "Country": "AUSTRALIA",
+   "elevationInFt": 102,
+   "Geographic Location": "1225S 13053E"
+ },
+ {
+   "City Name": "KARRATHA",
+   "Airport Name": "DAMPIER",
+   "Country": "AUSTRALIA",
+   "elevationInFt": 29,
+   "Geographic Location": "2043S 11646E"
+ },
+ {
+   "City Name": "KATHERINE",
+   "Airport Name": "TINDAL",
+   "Country": "AUSTRALIA",
+   "elevationInFt": 431,
+   "Geographic Location": "1431S 13223E"
+ },
+ {
+   "City Name": "MEEKATHARRA",
+   "Airport Name": "MEEKATHARRA",
+   "Country": "AUSTRALIA",
+   "elevationInFt": 1713,
+   "Geographic Location": "2637S 11833E"
+ },
+ {
+   "City Name": "MELBOURNE",
+   "Airport Name": "MELBOURNE INTL.",
+   "Country": "AUSTRALIA",
+   "elevationInFt": 434,
+   "Geographic Location": "3741S 14451E"
+ },
+ {
+   "City Name": "MOUNT ISA",
+   "Airport Name": "MOUNT ISA",
+   "Country": "AUSTRALIA",
+   "elevationInFt": 1121,
+   "Geographic Location": "2040S 13929E"
+ },
+ {
+   "City Name": "NORFOLK ISLAND",
+   "Airport Name": "NORFOLK ISLAND",
+   "Country": "AUSTRALIA",
+   "elevationInFt": 371,
+   "Geographic Location": "2903S 16756E"
+ },
+ {
+   "City Name": "PEARCE",
+   "Airport Name": "PEARCE",
+   "Country": "AUSTRALIA",
+   "elevationInFt": 149,
+   "Geographic Location": "3140S 11601E"
+ },
+ {
+   "City Name": "PERTH",
+   "Airport Name": "PERTH INTL.",
+   "Country": "AUSTRALIA",
+   "elevationInFt": 67,
+   "Geographic Location": "3156S 11558E"
+ },
+ {
+   "City Name": "PORT HEDLAND",
+   "Airport Name": "PORT HEDLAND",
+   "Country": "AUSTRALIA",
+   "elevationInFt": 33,
+   "Geographic Location": "2023S 11838E"
+ },
+ {
+   "City Name": "ROCKHAMPTON",
+   "Airport Name": "ROCKHAMPTON",
+   "Country": "AUSTRALIA",
+   "elevationInFt": 34,
+   "Geographic Location": "2323S 15028E"
+ },
+ {
+   "City Name": "SYDNEY",
+   "Airport Name": "KINGFORD SMITH",
+   "Country": "AUSTRALIA",
+   "elevationInFt": 21,
+   "Geographic Location": "3357S 15110E"
+ },
+ {
+   "City Name": "TOWNSVILLE",
+   "Airport Name": "TOWNSVILLE",
+   "Country": "AUSTRALIA",
+   "elevationInFt": 18,
+   "Geographic Location": "1915S 14646E"
+ },
+ {
+   "City Name": "INNSBRUCK",
+   "Airport Name": "INNSBRUCK",
+   "Country": "AUSTRIA",
+   "elevationInFt": 1906,
+   "Geographic Location": "4716N 1121E"
+ },
+ {
+   "City Name": "KLAGENFURT",
+   "Airport Name": "KLAGENFURT",
+   "Country": "AUSTRIA",
+   "elevationInFt": 1470,
+   "Geographic Location": "4639N 1420E"
+ },
+ {
+   "City Name": "LINZ",
+   "Airport Name": "LINZ",
+   "Country": "AUSTRIA",
+   "elevationInFt": 978,
+   "Geographic Location": "4814N 1411E"
+ },
+ {
+   "City Name": "SALZBURG",
+   "Airport Name": "SALZBURG",
+   "Country": "AUSTRIA",
+   "elevationInFt": 1411,
+   "Geographic Location": "4748N 1300E"
+ },
+ {
+   "City Name": "VIENNA",
+   "Airport Name": "SCHWECHAT",
+   "Country": "AUSTRIA",
+   "elevationInFt": 600,
+   "Geographic Location": "4807N 1633E"
+ },
+ {
+   "City Name": "BAKU",
+   "Airport Name": "BINA",
+   "Country": "AZERBAIJAN",
+   "elevationInFt": 0,
+   "Geographic Location": "4029N 5004E"
+ },
+ {
+   "City Name": "LAJES",
+   "Airport Name": "LAJES",
+   "Country": "AZORES",
+   "elevationInFt": 180,
+   "Geographic Location": "3845N 2706W"
+ },
+ {
+   "City Name": "PONTA DELGARDO",
+   "Airport Name": "PONTA DELGARDO",
+   "Country": "AZORES",
+   "elevationInFt": 259,
+   "Geographic Location": "3744N 2542W"
+ },
+ {
+   "City Name": "SANTA MARIA",
+   "Airport Name": "SANTA MARIA",
+   "Country": "AZORES",
+   "elevationInFt": 308,
+   "Geographic Location": "3658N 2510W"
+ },
+ {
+   "City Name": "FREEPORT",
+   "Airport Name": "FREEPORT",
+   "Country": "BAHAMAS",
+   "elevationInFt": 7,
+   "Geographic Location": "2633N 7842W"
+ },
+ {
+   "City Name": "NASSAU",
+   "Airport Name": "NASSAU INTL",
+   "Country": "BAHAMAS",
+   "elevationInFt": 7,
+   "Geographic Location": "2502N 7728W"
+ },
+ {
+   "City Name": "BAHRAIN",
+   "Airport Name": "BAHRAIN INTL",
+   "Country": "BAHRAIN",
+   "elevationInFt": 6,
+   "Geographic Location": "2616N 5038E"
+ },
+ {
+   "City Name": "CHITTAGONG",
+   "Airport Name": "CHITTAGONG",
+   "Country": "BANGLADESH",
+   "elevationInFt": 12,
+   "Geographic Location": "2215N 9150E"
+ },
+ {
+   "City Name": "DHAKA TEZGAON",
+   "Airport Name": "TEZGAON",
+   "Country": "BANGLADESH",
+   "elevationInFt": 24,
+   "Geographic Location": "2346N 9023E"
+ },
+ {
+   "City Name": "DHAKA INTL",
+   "Airport Name": "ZIA INTL.",
+   "Country": "BANGLADESH",
+   "elevationInFt": 26,
+   "Geographic Location": "2351N 9024E"
+ },
+ {
+   "City Name": "BARBADOS",
+   "Airport Name": "GRANTLY ADAMS INTL",
+   "Country": "BARBADOS",
+   "elevationInFt": 169,
+   "Geographic Location": "1304N 5930W"
+ },
+ {
+   "City Name": "MINSK",
+   "Airport Name": "MINSK-2",
+   "Country": "BELARUS",
+   "elevationInFt": 669,
+   "Geographic Location": "5353N 2801E"
+ },
+ {
+   "City Name": "ANTWERP",
+   "Airport Name": "DEURNE",
+   "Country": "BELGIUM",
+   "elevationInFt": 39,
+   "Geographic Location": "5111N 0428E"
+ },
+ {
+   "City Name": "BRUSSELS",
+   "Airport Name": "BRUSSELS NATIONAL",
+   "Country": "BELGIUM",
+   "elevationInFt": 184,
+   "Geographic Location": "5054N 0429E"
+ },
+ {
+   "City Name": "CHARLEROI",
+   "Airport Name": "BRUSSELS SOUTH",
+   "Country": "BELGIUM",
+   "elevationInFt": 614,
+   "Geographic Location": "5028N 0427E"
+ },
+ {
+   "City Name": "LIEGE",
+   "Airport Name": "BIERSET",
+   "Country": "BELGIUM",
+   "elevationInFt": 659,
+   "Geographic Location": "5038N 0527E"
+ },
+ {
+   "City Name": "OSTEND",
+   "Airport Name": "OSTEND",
+   "Country": "BELGIUM",
+   "elevationInFt": 13,
+   "Geographic Location": "5112N 0252E"
+ },
+ {
+   "City Name": "BELIZE",
+   "Airport Name": "PHILLIP S.W. GOLDSON INTL",
+   "Country": "BELIZE",
+   "elevationInFt": 15,
+   "Geographic Location": "1732N 8818W"
+ },
+ {
+   "City Name": "COTONOU",
+   "Airport Name": "CADJEHOUN",
+   "Country": "BENIN",
+   "elevationInFt": 16,
+   "Geographic Location": "0621N 0223E"
+ },
+ {
+   "City Name": "BERMUDA",
+   "Airport Name": "BERMUDA",
+   "Country": "BERMUDA",
+   "elevationInFt": 11,
+   "Geographic Location": "3222N 6442W"
+ },
+ {
+   "City Name": "FRANCISTOWN",
+   "Airport Name": "FRANCISTOWN",
+   "Country": "BOTSWANA",
+   "elevationInFt": 3283,
+   "Geographic Location": "2110S 2729E"
+ },
+ {
+   "City Name": "GABORONE NOTWANE",
+   "Airport Name": "NOTWANE",
+   "Country": "BOTSWANA",
+   "elevationInFt": 3218,
+   "Geographic Location": "2439S 2556E"
+ },
+ {
+   "City Name": "GABORONE INTL",
+   "Airport Name": "SERETSE KHAMA INTL.",
+   "Country": "BOTSWANA",
+   "elevationInFt": 3299,
+   "Geographic Location": "2433S 2555E"
+ },
+ {
+   "City Name": "GHANZI",
+   "Airport Name": "GHANZI",
+   "Country": "BOTSWANA",
+   "elevationInFt": 3729,
+   "Geographic Location": "2142S 2140E"
+ },
+ {
+   "City Name": "SELEBI-PHIKWE",
+   "Airport Name": "SELEBI-PHIKWE",
+   "Country": "BOTSWANA",
+   "elevationInFt": 2925,
+   "Geographic Location": "2203S 2749E"
+ },
+ {
+   "City Name": "BELO HORIZONTE",
+   "Airport Name": "TRANCREDO NEVES",
+   "Country": "BRAZIL",
+   "elevationInFt": 2587,
+   "Geographic Location": "1951S 4357W"
+ },
+ {
+   "City Name": "BRASILIA",
+   "Airport Name": "BRASILIA",
+   "Country": "BRAZIL",
+   "elevationInFt": 3474,
+   "Geographic Location": "1551S 4754W"
+ },
+ {
+   "City Name": "CAMPINAS",
+   "Airport Name": "VIRACOPOS",
+   "Country": "BRAZIL",
+   "elevationInFt": 2170,
+   "Geographic Location": "2300S 4708W"
+ },
+ {
+   "City Name": "FERNANDO DE NOROHNA",
+   "Airport Name": "FERNANDO DE NOROHNA",
+   "Country": "BRAZIL",
+   "elevationInFt": 180,
+   "Geographic Location": "0351S 3225W"
+ },
+ {
+   "City Name": "FLORIANPOLIS",
+   "Airport Name": "HERCILIO LUZ",
+   "Country": "BRAZIL",
+   "elevationInFt": 17,
+   "Geographic Location": "2740S 3831W"
+ },
+ {
+   "City Name": "MACEIO",
+   "Airport Name": "PALMARES",
+   "Country": "BRAZIL",
+   "elevationInFt": 387,
+   "Geographic Location": "0931S 3574W"
+ },
+ {
+   "City Name": "NATAL",
+   "Airport Name": "AUGUSTO SEVERO",
+   "Country": "BRAZIL",
+   "elevationInFt": 167,
+   "Geographic Location": "0554S 3514W"
+ },
+ {
+   "City Name": "PORTO ALEGRE",
+   "Airport Name": "SALGADO FILHO",
+   "Country": "BRAZIL",
+   "elevationInFt": 10,
+   "Geographic Location": "2959S 5110W"
+ },
+ {
+   "City Name": "RECIFE",
+   "Airport Name": "GUARARAPES",
+   "Country": "BRAZIL",
+   "elevationInFt": 33,
+   "Geographic Location": "0807S 3455W"
+ },
+ {
+   "City Name": "RIO DE JANEIRO",
+   "Airport Name": "GALEAO INTL",
+   "Country": "BRAZIL",
+   "elevationInFt": 30,
+   "Geographic Location": "2249S 4315W"
+ },
+ {
+   "City Name": "SALVADOR",
+   "Airport Name": "DOIS DE JULHO",
+   "Country": "BRAZIL",
+   "elevationInFt": 63,
+   "Geographic Location": "1254S 3819W"
+ },
+ {
+   "City Name": "SAO JOSE DOS CAMPOS",
+   "Airport Name": "SAO JOSE DOS CAMPOS",
+   "Country": "BRAZIL",
+   "elevationInFt": 2120,
+   "Geographic Location": "2313S 4552W"
+ },
+ {
+   "City Name": "SAO PAULO",
+   "Airport Name": "GUARULHAS",
+   "Country": "BRAZIL",
+   "elevationInFt": 2459,
+   "Geographic Location": "2326S 4629W"
+ },
+ {
+   "City Name": "BURGAS",
+   "Airport Name": "BURGAS",
+   "Country": "BULGARIA",
+   "elevationInFt": 135,
+   "Geographic Location": "4234N 2730E"
+ },
+ {
+   "City Name": "SOFIA",
+   "Airport Name": "SOFIA",
+   "Country": "BULGARIA",
+   "elevationInFt": 1742,
+   "Geographic Location": "4242N 2325E"
+ },
+ {
+   "City Name": "VARNA",
+   "Airport Name": "VARNA",
+   "Country": "BULGARIA",
+   "elevationInFt": 230,
+   "Geographic Location": "4314N 2749E"
+ },
+ {
+   "City Name": "BOBO-DIOULASSO",
+   "Airport Name": "BOBO-DIOULASSO",
+   "Country": "BURKINA",
+   "elevationInFt": 1509,
+   "Geographic Location": "1110N 0419W"
+ },
+ {
+   "City Name": "OUAGADOUGOU",
+   "Airport Name": "OUAGADOUGOU",
+   "Country": "BURKINA",
+   "elevationInFt": 1037,
+   "Geographic Location": "1221N 0131W"
+ },
+ {
+   "City Name": "BUJUMBURA",
+   "Airport Name": "BUJUMBURA",
+   "Country": "BURUNDI",
+   "elevationInFt": 2582,
+   "Geographic Location": "0319S 2919E"
+ },
+ {
+   "City Name": "PHNOM-PENH",
+   "Airport Name": "POCHENTONG",
+   "Country": "CAMBODIA",
+   "elevationInFt": 39,
+   "Geographic Location": "1133N 10451E"
+ },
+ {
+   "City Name": "DOUALA",
+   "Airport Name": "DOUALA",
+   "Country": "CAMEROON",
+   "elevationInFt": 33,
+   "Geographic Location": "0401N 0943E"
+ },
+ {
+   "City Name": "GAROUA",
+   "Airport Name": "GAROUA",
+   "Country": "CAMEROON",
+   "elevationInFt": 794,
+   "Geographic Location": "0920N 1323E"
+ },
+ {
+   "City Name": "YAOUNDE",
+   "Airport Name": "NSIMALEN",
+   "Country": "CAMEROON",
+   "elevationInFt": 2276,
+   "Geographic Location": "0343N 1133E"
+ },
+ {
+   "City Name": "ABBOTSFORD",
+   "Airport Name": "ABBOTSFORD",
+   "Country": "CANADA",
+   "elevationInFt": 190,
+   "Geographic Location": "4901N 12222W"
+ },
+ {
+   "City Name": "BAGOTVILLE",
+   "Airport Name": "BAGOTVILLE",
+   "Country": "CANADA",
+   "elevationInFt": 190,
+   "Geographic Location": "4802N 7100W"
+ },
+ {
+   "City Name": "CALGARY",
+   "Airport Name": "CALGARY INTL",
+   "Country": "CANADA",
+   "elevationInFt": 3557,
+   "Geographic Location": "5106N 11401W"
+ },
+ {
+   "City Name": "CHURCHILL",
+   "Airport Name": "CHURCHILL",
+   "Country": "CANADA",
+   "elevationInFt": 94,
+   "Geographic Location": "5844N 9404W"
+ },
+ {
+   "City Name": "EDMONTON",
+   "Airport Name": "EDMONTON INTL",
+   "Country": "CANADA",
+   "elevationInFt": 2373,
+   "Geographic Location": "5319N 11335W"
+ },
+ {
+   "City Name": "FREDERICTON",
+   "Airport Name": "FREDERICTON",
+   "Country": "CANADA",
+   "elevationInFt": 67,
+   "Geographic Location": "4552N 6632W"
+ },
+ {
+   "City Name": "GANDER",
+   "Airport Name": "GANDER",
+   "Country": "CANADA",
+   "elevationInFt": 496,
+   "Geographic Location": "4857N 5434W"
+ },
+ {
+   "City Name": "GOOSE",
+   "Airport Name": "GOOSE",
+   "Country": "CANADA",
+   "elevationInFt": 160,
+   "Geographic Location": "5319N 6025W"
+ },
+ {
+   "City Name": "HALIFAX",
+   "Airport Name": "HALIFAX INTL",
+   "Country": "CANADA",
+   "elevationInFt": 476,
+   "Geographic Location": "4453N 6331W"
+ },
+ {
+   "City Name": "HALIFAX",
+   "Airport Name": "SHEARWATER",
+   "Country": "CANADA",
+   "elevationInFt": 167,
+   "Geographic Location": "4438N 6330W"
+ },
+ {
+   "City Name": "HAMILTON",
+   "Airport Name": "HAMILTON",
+   "Country": "CANADA",
+   "elevationInFt": 780,
+   "Geographic Location": "4310N 7956W"
+ },
+ {
+   "City Name": "IQUALUIT",
+   "Airport Name": "IQUALUIT",
+   "Country": "CANADA",
+   "elevationInFt": 110,
+   "Geographic Location": "6345N 6833W"
+ },
+ {
+   "City Name": "KUUJJUAG",
+   "Airport Name": "KUUJJUAG",
+   "Country": "CANADA",
+   "elevationInFt": 122,
+   "Geographic Location": "5806N 6826W"
+ },
+ {
+   "City Name": "MONCTON",
+   "Airport Name": "MONCTON",
+   "Country": "CANADA",
+   "elevationInFt": 232,
+   "Geographic Location": "4607N 6441W"
+ },
+ {
+   "City Name": "MONT JOLI",
+   "Airport Name": "MONT JOLI",
+   "Country": "CANADA",
+   "elevationInFt": 172,
+   "Geographic Location": "4836N 6812W"
+ },
+ {
+   "City Name": "MONTREAL DORVAL",
+   "Airport Name": "DORVAL",
+   "Country": "CANADA",
+   "elevationInFt": 117,
+   "Geographic Location": "4528N 7345W"
+ },
+ {
+   "City Name": "MONTREAL MIRABEL",
+   "Airport Name": "MIRABEL",
+   "Country": "CANADA",
+   "elevationInFt": 270,
+   "Geographic Location": "4541N 7402W"
+ },
+ {
+   "City Name": "NORTH BAY",
+   "Airport Name": "NORTH BAY",
+   "Country": "CANADA",
+   "elevationInFt": 1216,
+   "Geographic Location": "4622N 7925W"
+ },
+ {
+   "City Name": "OTTAWA",
+   "Airport Name": "OTTAWA",
+   "Country": "CANADA",
+   "elevationInFt": 374,
+   "Geographic Location": "4519N 7540W"
+ },
+ {
+   "City Name": "QUEBEC",
+   "Airport Name": "QUEBEC",
+   "Country": "CANADA",
+   "elevationInFt": 243,
+   "Geographic Location": "4648N 7123W"
+ },
+ {
+   "City Name": "REGINA",
+   "Airport Name": "REGINA",
+   "Country": "CANADA",
+   "elevationInFt": 1894,
+   "Geographic Location": "5026N 10440W"
+ },
+ {
+   "City Name": "SASSKATOON",
+   "Airport Name": "SASSKATOON",
+   "Country": "CANADA",
+   "elevationInFt": 1653,
+   "Geographic Location": "5210N 10642W"
+ },
+ {
+   "City Name": "SEPT ILES",
+   "Airport Name": "SEPT ILES",
+   "Country": "CANADA",
+   "elevationInFt": 180,
+   "Geographic Location": "5013N 6616W"
+ },
+ {
+   "City Name": "ST. JOHNS",
+   "Airport Name": "ST. JOHNS",
+   "Country": "CANADA",
+   "elevationInFt": 460,
+   "Geographic Location": "4737N 5245W"
+ },
+ {
+   "City Name": "STEPHENVILLE",
+   "Airport Name": "STEPHENVILLE",
+   "Country": "CANADA",
+   "elevationInFt": 84,
+   "Geographic Location": "4832N 5833W"
+ },
+ {
+   "City Name": "SYDNEY",
+   "Airport Name": "SYDNEY",
+   "Country": "CANADA",
+   "elevationInFt": 203,
+   "Geographic Location": "4610N 6003W"
+ },
+ {
+   "City Name": "THOMPSON",
+   "Airport Name": "THOMPSON",
+   "Country": "CANADA",
+   "elevationInFt": 729,
+   "Geographic Location": "5548N 9725W"
+ },
+ {
+   "City Name": "TORONTO",
+   "Airport Name": "TORONTO",
+   "Country": "CANADA",
+   "elevationInFt": 569,
+   "Geographic Location": "4341N 7938W"
+ },
+ {
+   "City Name": "URANIUM CITY",
+   "Airport Name": "URANIUM CITY",
+   "Country": "CANADA",
+   "elevationInFt": 1044,
+   "Geographic Location": "5934N 10829W"
+ },
+ {
+   "City Name": "VAL D'OR",
+   "Airport Name": "VAL D'OR",
+   "Country": "CANADA",
+   "elevationInFt": 1106,
+   "Geographic Location": "4803N 7747W"
+ },
+ {
+   "City Name": "VANCOUVER",
+   "Airport Name": "VANCOUVER",
+   "Country": "CANADA",
+   "elevationInFt": 9,
+   "Geographic Location": "4911N 12310W"
+ },
+ {
+   "City Name": "WHITEHOUSE",
+   "Airport Name": "WHITEHOUSE",
+   "Country": "CANADA",
+   "elevationInFt": 2305,
+   "Geographic Location": "6043N 13504W"
+ },
+ {
+   "City Name": "WINDSOR",
+   "Airport Name": "WINDSOR",
+   "Country": "CANADA",
+   "elevationInFt": 622,
+   "Geographic Location": "4216N 8258W"
+ },
+ {
+   "City Name": "WINNIPEG",
+   "Airport Name": "WINNIPEG",
+   "Country": "CANADA",
+   "elevationInFt": 783,
+   "Geographic Location": "4955N 9714W"
+ },
+ {
+   "City Name": "YARMOUTH",
+   "Airport Name": "YARMOUTH",
+   "Country": "CANADA",
+   "elevationInFt": 141,
+   "Geographic Location": "4350N 6605W"
+ },
+ {
+   "City Name": "YELLOWKNIFE",
+   "Airport Name": "YELLOWKNIFE",
+   "Country": "CANADA",
+   "elevationInFt": 675,
+   "Geographic Location": "6228N 11427W"
+ },
+ {
+   "City Name": "FUERTEVENTURA",
+   "Airport Name": "FUERTEVENTURA",
+   "Country": "CANARY IS.",
+   "elevationInFt": 75,
+   "Geographic Location": "2827N 1352W"
+ },
+ {
+   "City Name": "GRAN CANARIA",
+   "Airport Name": "LAS PALMAS",
+   "Country": "CANARY IS.",
+   "elevationInFt": 75,
+   "Geographic Location": "2756N 1523W"
+ },
+ {
+   "City Name": "LA PALMA",
+   "Airport Name": "LA PALMA",
+   "Country": "CANARY IS.",
+   "elevationInFt": 95,
+   "Geographic Location": "2837N 1745W"
+ },
+ {
+   "City Name": "LANZAROTE",
+   "Airport Name": "LANZAROTE",
+   "Country": "CANARY IS.",
+   "elevationInFt": 46,
+   "Geographic Location": "2856N 1336W"
+ },
+ {
+   "City Name": "TENERIFE NORTE",
+   "Airport Name": "NORTE",
+   "Country": "CANARY IS.",
+   "elevationInFt": 2073,
+   "Geographic Location": "2829N 1620W"
+ },
+ {
+   "City Name": "TENERIFE REINA SOFIA",
+   "Airport Name": "REINA SOFIA",
+   "Country": "CANARY IS.",
+   "elevationInFt": 210,
+   "Geographic Location": "2803N 1634W"
+ },
+ {
+   "City Name": "SAL",
+   "Airport Name": "AMILCAR CABRAI",
+   "Country": "CAPE VERDE REPUBLIC",
+   "elevationInFt": 177,
+   "Geographic Location": "1645N 2257W"
+ },
+ {
+   "City Name": "GRAND CAYMAN",
+   "Airport Name": "OWEN ROBERTS",
+   "Country": "CAYMAN ISLANDS",
+   "elevationInFt": 8,
+   "Geographic Location": "1918N 8122W"
+ },
+ {
+   "City Name": "BAMGUI",
+   "Airport Name": "M'POKO",
+   "Country": "CENTRAL AFRICAN REPUBLIC",
+   "elevationInFt": 1204,
+   "Geographic Location": "0424N 1831E"
+ },
+ {
+   "City Name": "CONCEPCION",
+   "Airport Name": "CARRIEL SUR",
+   "Country": "CHILE",
+   "elevationInFt": 5240,
+   "Geographic Location": "3646S 7304W"
+ },
+ {
+   "City Name": "PUNTA ARENAS",
+   "Airport Name": "PRES. IBANEZ",
+   "Country": "CHILE",
+   "elevationInFt": 142,
+   "Geographic Location": "5300S 7051W"
+ },
+ {
+   "City Name": "SANTIAGO",
+   "Airport Name": "A M BENITEZ",
+   "Country": "CHILE",
+   "elevationInFt": 1554,
+   "Geographic Location": "3323S 7047W"
+ },
+ {
+   "City Name": "BEIJING",
+   "Airport Name": "CAPITAL",
+   "Country": "CHINA",
+   "elevationInFt": 115,
+   "Geographic Location": "4004N 11635E"
+ },
+ {
+   "City Name": "CHENGDU",
+   "Airport Name": "SHUANGLIU",
+   "Country": "CHINA",
+   "elevationInFt": 1624,
+   "Geographic Location": "3035N 10357E"
+ },
+ {
+   "City Name": "GUANGZHOU/CANTON",
+   "Airport Name": "BAIYUN",
+   "Country": "CHINA",
+   "elevationInFt": 36,
+   "Geographic Location": "2311N 11316E"
+ },
+ {
+   "City Name": "KUNMING",
+   "Airport Name": "WUJIABA",
+   "Country": "CHINA",
+   "elevationInFt": 6217,
+   "Geographic Location": "2500N 10245E"
+ },
+ {
+   "City Name": "LANZHOU",
+   "Airport Name": "ZHONGCHUAN",
+   "Country": "CHINA",
+   "elevationInFt": 6391,
+   "Geographic Location": "3631N 10337E"
+ },
+ {
+   "City Name": "SHANGHAI",
+   "Airport Name": "HONGQIAC",
+   "Country": "CHINA",
+   "elevationInFt": 10,
+   "Geographic Location": "3112N 12120E"
+ },
+ {
+   "City Name": "SHENZHEN",
+   "Airport Name": "HUANGTIAN",
+   "Country": "CHINA",
+   "elevationInFt": 13,
+   "Geographic Location": "2238N 11349E"
+ },
+ {
+   "City Name": "TAIYUAN",
+   "Airport Name": "WUSU",
+   "Country": "CHINA",
+   "elevationInFt": 2566,
+   "Geographic Location": "3745N 11237E"
+ },
+ {
+   "City Name": "TIANJIN",
+   "Airport Name": "ZHANGGUIZHUANG",
+   "Country": "CHINA",
+   "elevationInFt": 10,
+   "Geographic Location": "3907N 11721E"
+ },
+ {
+   "City Name": "URUMQI",
+   "Airport Name": "DIWOPU",
+   "Country": "CHINA",
+   "elevationInFt": 2129,
+   "Geographic Location": "4354N 8729E"
+ },
+ {
+   "City Name": "XI'AN",
+   "Airport Name": "XIANYANG",
+   "Country": "CHINA",
+   "elevationInFt": 1572,
+   "Geographic Location": "3426N 10845E"
+ },
+ {
+   "City Name": "BARRANQUILLA",
+   "Airport Name": "CORTISSOZ",
+   "Country": "COLOMBIA",
+   "elevationInFt": 94,
+   "Geographic Location": "1054N 7447W"
+ },
+ {
+   "City Name": "BOGOTA",
+   "Airport Name": "ELDORADO",
+   "Country": "COLOMBIA",
+   "elevationInFt": 8355,
+   "Geographic Location": "0442N 7409W"
+ },
+ {
+   "City Name": "CALI",
+   "Airport Name": "ALFONSO BONILLA ARAGON",
+   "Country": "COLOMBIA",
+   "elevationInFt": 3162,
+   "Geographic Location": "0333N 7623W"
+ },
+ {
+   "City Name": "CARTEGENA",
+   "Airport Name": "R. NUNEZ",
+   "Country": "COLOMBIA",
+   "elevationInFt": 5,
+   "Geographic Location": "1027N 7513W"
+ },
+ {
+   "City Name": "SAN ANDRES",
+   "Airport Name": "SAN ANDRES",
+   "Country": "COLOMBIA",
+   "elevationInFt": 20,
+   "Geographic Location": "1235N 8143W"
+ },
+ {
+   "City Name": "DZAOUDZI",
+   "Airport Name": "PAMANZI",
+   "Country": "COMORES & MAYOTTE ISLANDS",
+   "elevationInFt": 23,
+   "Geographic Location": "1248S 4517E"
+ },
+ {
+   "City Name": "MORONI HAHAIA",
+   "Airport Name": "HAHAIA",
+   "Country": "COMORES & MAYOTTE ISLANDS",
+   "elevationInFt": 89,
+   "Geographic Location": "1132S 4316E"
+ },
+ {
+   "City Name": "MORONI ICONI",
+   "Airport Name": "ICONI",
+   "Country": "COMORES & MAYOTTE ISLANDS",
+   "elevationInFt": 30,
+   "Geographic Location": "1142S 4314E"
+ },
+ {
+   "City Name": "BRAZZAVILLE",
+   "Airport Name": "MAYA MAYA",
+   "Country": "CONGO",
+   "elevationInFt": 1047,
+   "Geographic Location": "0415S 1515E"
+ },
+ {
+   "City Name": "POINTE NOIRE",
+   "Airport Name": "POINTE NOIRE",
+   "Country": "CONGO",
+   "elevationInFt": 56,
+   "Geographic Location": "0449S 1153E"
+ },
+ {
+   "City Name": "DUBROVNIK",
+   "Airport Name": "DUBROVNIK",
+   "Country": "CROATIA",
+   "elevationInFt": 528,
+   "Geographic Location": "4234N 1816E"
+ },
+ {
+   "City Name": "RIJEKA",
+   "Airport Name": "KRK",
+   "Country": "CROATIA",
+   "elevationInFt": 279,
+   "Geographic Location": "4513N 1435E"
+ },
+ {
+   "City Name": "SPLIT",
+   "Airport Name": "SPLIT",
+   "Country": "CROATIA",
+   "elevationInFt": 79,
+   "Geographic Location": "4332N 1618E"
+ },
+ {
+   "City Name": "ZADAR",
+   "Airport Name": "ZADAR",
+   "Country": "CROATIA",
+   "elevationInFt": 289,
+   "Geographic Location": "4406N 1522E"
+ },
+ {
+   "City Name": "ZAGREB",
+   "Airport Name": "ZAGREB",
+   "Country": "CROATIA",
+   "elevationInFt": 351,
+   "Geographic Location": "4545N 1604E"
+ },
+ {
+   "City Name": "CAMAGUEY",
+   "Airport Name": "IGNACIO AGRAMONTE",
+   "Country": "CUBA",
+   "elevationInFt": 407,
+   "Geographic Location": "2125N 7752W"
+ },
+ {
+   "City Name": "CAYO LARGO DEL SUR",
+   "Airport Name": "CAYO LARGO DEL SUR",
+   "Country": "CUBA",
+   "elevationInFt": 8,
+   "Geographic Location": "2137N 8132W"
+ },
+ {
+   "City Name": "HAVANA",
+   "Airport Name": "JOSE MARTI INTL",
+   "Country": "CUBA",
+   "elevationInFt": 210,
+   "Geographic Location": "2300N 8225W"
+ },
+ {
+   "City Name": "VARADERO",
+   "Airport Name": "VARADERO",
+   "Country": "CUBA",
+   "elevationInFt": 213,
+   "Geographic Location": "2308N 8118W"
+ },
+ {
+   "City Name": "LARNACA",
+   "Airport Name": "LARNACA",
+   "Country": "CYPRUS",
+   "elevationInFt": 8,
+   "Geographic Location": "3453N 3338E"
+ },
+ {
+   "City Name": "PAPHOS",
+   "Airport Name": "PAPHOS INTL",
+   "Country": "CYPRUS",
+   "elevationInFt": 41,
+   "Geographic Location": "3443N 3229E"
+ },
+ {
+   "City Name": "PRAGUE",
+   "Airport Name": "RUZYNE",
+   "Country": "CZECH REPUBLIC",
+   "elevationInFt": 1247,
+   "Geographic Location": "5006N 1416E"
+ },
+ {
+   "City Name": "AALBORG",
+   "Airport Name": "AALBORG",
+   "Country": "DENMARK",
+   "elevationInFt": 10,
+   "Geographic Location": "5706N 0951E"
+ },
+ {
+   "City Name": "BILLUND",
+   "Airport Name": "BILLUND",
+   "Country": "DENMARK",
+   "elevationInFt": 247,
+   "Geographic Location": "5544N 0909E"
+ },
+ {
+   "City Name": "BORNHOLM",
+   "Airport Name": "RONNE",
+   "Country": "DENMARK",
+   "elevationInFt": 52,
+   "Geographic Location": "5504N 1446E"
+ },
+ {
+   "City Name": "COPENHAGEN KASTRUP",
+   "Airport Name": "KASTRUP",
+   "Country": "DENMARK",
+   "elevationInFt": 17,
+   "Geographic Location": "5537N 1239E"
+ },
+ {
+   "City Name": "COPENHAGEN ROSKILDE",
+   "Airport Name": "ROSKILDE",
+   "Country": "DENMARK",
+   "elevationInFt": 145,
+   "Geographic Location": "5535N 1208E"
+ },
+ {
+   "City Name": "ESBJERG",
+   "Airport Name": "ESBJERG",
+   "Country": "DENMARK",
+   "elevationInFt": 97,
+   "Geographic Location": "5532N 0833E"
+ },
+ {
+   "City Name": "ODENSE",
+   "Airport Name": "ODENSE",
+   "Country": "DENMARK",
+   "elevationInFt": 56,
+   "Geographic Location": "5529N 1020E"
+ },
+ {
+   "City Name": "TIRSTRUP",
+   "Airport Name": "TIRSTRUP",
+   "Country": "DENMARK",
+   "elevationInFt": 82,
+   "Geographic Location": "5618N 1037E"
+ },
+ {
+   "City Name": "DJIBOUTI",
+   "Airport Name": "AMBOULI",
+   "Country": "DJIBOUTI",
+   "elevationInFt": 49,
+   "Geographic Location": "1133N 4310E"
+ },
+ {
+   "City Name": "PUERTO PLATA",
+   "Airport Name": "PUERTO PLATA",
+   "Country": "DOMINICAN REPUBLIC",
+   "elevationInFt": 16,
+   "Geographic Location": "1946N 7034W"
+ },
+ {
+   "City Name": "PUNTA CANA",
+   "Airport Name": "PUNTA CANA",
+   "Country": "DOMINICAN REPUBLIC",
+   "elevationInFt": 40,
+   "Geographic Location": "1834N 6822W"
+ },
+ {
+   "City Name": "SANTO DOMINGO",
+   "Airport Name": "DE LAS AMERICAS",
+   "Country": "DOMINICAN REPUBLIC",
+   "elevationInFt": 57,
+   "Geographic Location": "1826N 6940W"
+ },
+ {
+   "City Name": "GUAYAQUIL",
+   "Airport Name": "SIMON BOLIVAR",
+   "Country": "ECUADOR",
+   "elevationInFt": 17,
+   "Geographic Location": "0209S 7953W"
+ },
+ {
+   "City Name": "ALEXANDRIA",
+   "Airport Name": "ALEXANDRIA",
+   "Country": "EGYPT",
+   "elevationInFt": -4,
+   "Geographic Location": "3111N 2957E"
+ },
+ {
+   "City Name": "ASWAN",
+   "Airport Name": "ASWAN",
+   "Country": "EGYPT",
+   "elevationInFt": 656,
+   "Geographic Location": "2358N 3247E"
+ },
+ {
+   "City Name": "CAIRO",
+   "Airport Name": "CAIRO INTL.",
+   "Country": "EGYPT",
+   "elevationInFt": 381,
+   "Geographic Location": "3007N 3124E"
+ },
+ {
+   "City Name": "HURGHADA",
+   "Airport Name": "HURGHADA",
+   "Country": "EGYPT",
+   "elevationInFt": 52,
+   "Geographic Location": "2711N 3348E"
+ },
+ {
+   "City Name": "LUXOR",
+   "Airport Name": "LUXOR",
+   "Country": "EGYPT",
+   "elevationInFt": 288,
+   "Geographic Location": "2540N 3242E"
+ },
+ {
+   "City Name": "PORT SAID",
+   "Airport Name": "PORT SAID",
+   "Country": "EGYPT",
+   "elevationInFt": 6,
+   "Geographic Location": "2117N 3214E"
+ },
+ {
+   "City Name": "RAS EL NAKAB",
+   "Airport Name": "RAS EL NAKAB",
+   "Country": "EGYPT",
+   "elevationInFt": 2470,
+   "Geographic Location": "2936N 3447E"
+ },
+ {
+   "City Name": "RAS NASRANI",
+   "Airport Name": "SHARM EL-SHEIKH",
+   "Country": "EGYPT",
+   "elevationInFt": 163,
+   "Geographic Location": "2758N 3423E"
+ },
+ {
+   "City Name": "SAN SALVADOR",
+   "Airport Name": "EL SALVADOR INTL",
+   "Country": "EL SALVADOR",
+   "elevationInFt": 101,
+   "Geographic Location": "1326N 8903W"
+ },
+ {
+   "City Name": "ADDIS ABABA",
+   "Airport Name": "BOLE INTL.",
+   "Country": "ETHIOPIA",
+   "elevationInFt": 7625,
+   "Geographic Location": "0859N 3848E"
+ },
+ {
+   "City Name": "ASMARA",
+   "Airport Name": "ASMARA",
+   "Country": "ETHIOPIA",
+   "elevationInFt": 7617,
+   "Geographic Location": "1518N 3855E"
+ },
+ {
+   "City Name": "DIRE DAWA",
+   "Airport Name": "ABA TENNA DEJAZNATCH YILMA",
+   "Country": "ETHIOPIA",
+   "elevationInFt": 3827,
+   "Geographic Location": "0938N 4152E"
+ },
+ {
+   "City Name": "HELSINKI MALMI",
+   "Airport Name": "MALMI",
+   "Country": "FINLAND",
+   "elevationInFt": 57,
+   "Geographic Location": "6051N 2503E"
+ },
+ {
+   "City Name": "HELSINKI VANTAA",
+   "Airport Name": "VANTAA",
+   "Country": "FINLAND",
+   "elevationInFt": 167,
+   "Geographic Location": "6019N 2458E"
+ },
+ {
+   "City Name": "IVALO",
+   "Airport Name": "IVALO",
+   "Country": "FINLAND",
+   "elevationInFt": 475,
+   "Geographic Location": "6836N 2725E"
+ },
+ {
+   "City Name": "MARIEHAMN",
+   "Airport Name": "MARIEHAMN",
+   "Country": "FINLAND",
+   "elevationInFt": 17,
+   "Geographic Location": "6007N 1954E"
+ },
+ {
+   "City Name": "OULU",
+   "Airport Name": "OULU",
+   "Country": "FINLAND",
+   "elevationInFt": 47,
+   "Geographic Location": "6456N 2521E"
+ },
+ {
+   "City Name": "PORI",
+   "Airport Name": "PORI",
+   "Country": "FINLAND",
+   "elevationInFt": 44,
+   "Geographic Location": "6128N 2148E"
+ },
+ {
+   "City Name": "ROVANIEMI",
+   "Airport Name": "ROVANIEMI",
+   "Country": "FINLAND",
+   "elevationInFt": 645,
+   "Geographic Location": "6634N 2550E"
+ },
+ {
+   "City Name": "TAMPERE",
+   "Airport Name": "PIRKKALA",
+   "Country": "FINLAND",
+   "elevationInFt": 390,
+   "Geographic Location": "6125N 2335E"
+ },
+ {
+   "City Name": "TURKU",
+   "Airport Name": "TURKU",
+   "Country": "FINLAND",
+   "elevationInFt": 161,
+   "Geographic Location": "6031N 2216E"
+ },
+ {
+   "City Name": "ABBEVILLE",
+   "Airport Name": "ABBEVILLE",
+   "Country": "FRANCE",
+   "elevationInFt": 220,
+   "Geographic Location": "5009N 0150E"
+ },
+ {
+   "City Name": "AGLEN",
+   "Airport Name": "LA GARENNE",
+   "Country": "FRANCE",
+   "elevationInFt": 203,
+   "Geographic Location": "4411N 0035E"
+ },
+ {
+   "City Name": "AJACCIO",
+   "Airport Name": "DELL'ORO",
+   "Country": "FRANCE",
+   "elevationInFt": 16,
+   "Geographic Location": "4155N 0848E"
+ },
+ {
+   "City Name": "ANGERS",
+   "Airport Name": "AVRILLE",
+   "Country": "FRANCE",
+   "elevationInFt": 187,
+   "Geographic Location": "4730N 0034W"
+ },
+ {
+   "City Name": "BASLE",
+   "Airport Name": "MULHOUSE",
+   "Country": "FRANCE",
+   "elevationInFt": 883,
+   "Geographic Location": "4735N 0732E"
+ },
+ {
+   "City Name": "BASTIA",
+   "Airport Name": "PORETTA",
+   "Country": "FRANCE",
+   "elevationInFt": 26,
+   "Geographic Location": "4233N 0929E"
+ },
+ {
+   "City Name": "BERGERAC",
+   "Airport Name": "ROUMANIERE",
+   "Country": "FRANCE",
+   "elevationInFt": 167,
+   "Geographic Location": "4450N 0031E"
+ },
+ {
+   "City Name": "BEUVAIS",
+   "Airport Name": "TILLE",
+   "Country": "FRANCE",
+   "elevationInFt": 358,
+   "Geographic Location": "4927N 0207E"
+ },
+ {
+   "City Name": "BEZIERS",
+   "Airport Name": "VIAS",
+   "Country": "FRANCE",
+   "elevationInFt": 56,
+   "Geographic Location": "4319N 0321E"
+ },
+ {
+   "City Name": "BIARRITZ/BAYONE",
+   "Airport Name": "ANGLET",
+   "Country": "FRANCE",
+   "elevationInFt": 243,
+   "Geographic Location": "4328N 0132W"
+ },
+ {
+   "City Name": "BORDEAUX",
+   "Airport Name": "MERIGNAC",
+   "Country": "FRANCE",
+   "elevationInFt": 161,
+   "Geographic Location": "4450N 0043W"
+ },
+ {
+   "City Name": "BREST",
+   "Airport Name": "GUIPAVAS",
+   "Country": "FRANCE",
+   "elevationInFt": 325,
+   "Geographic Location": "4827N 0425W"
+ },
+ {
+   "City Name": "BRETIGNY-SUR-ORGE",
+   "Airport Name": "BRETIGNY-SUR-ORGE",
+   "Country": "FRANCE",
+   "elevationInFt": 269,
+   "Geographic Location": "4836N 0221E"
+ },
+ {
+   "City Name": "CAEN",
+   "Airport Name": "CARPIQUET",
+   "Country": "FRANCE",
+   "elevationInFt": 256,
+   "Geographic Location": "4910N 0027W"
+ },
+ {
+   "City Name": "CAHORS",
+   "Airport Name": "LALBENQUE",
+   "Country": "FRANCE",
+   "elevationInFt": 912,
+   "Geographic Location": "4421N 0129E"
+ },
+ {
+   "City Name": "CALAIS-DUNKERQUE",
+   "Airport Name": "CALAIS-DUNKERQUE",
+   "Country": "FRANCE",
+   "elevationInFt": 10,
+   "Geographic Location": "5058N 0157E"
+ },
+ {
+   "City Name": "CALVI",
+   "Airport Name": "ST. CATHERINE",
+   "Country": "FRANCE",
+   "elevationInFt": 210,
+   "Geographic Location": "4231N 0848E"
+ },
+ {
+   "City Name": "CAMBRAI",
+   "Airport Name": "EPINOY",
+   "Country": "FRANCE",
+   "elevationInFt": 256,
+   "Geographic Location": "5013N 0309E"
+ },
+ {
+   "City Name": "CANNES",
+   "Airport Name": "MANDELIEU",
+   "Country": "FRANCE",
+   "elevationInFt": 13,
+   "Geographic Location": "4333N 0657E"
+ },
+ {
+   "City Name": "CARCASSONNE",
+   "Airport Name": "SALVAZA",
+   "Country": "FRANCE",
+   "elevationInFt": 433,
+   "Geographic Location": "4313N 0219E"
+ },
+ {
+   "City Name": "CHAMBERY",
+   "Airport Name": "AIX LES BAINS",
+   "Country": "FRANCE",
+   "elevationInFt": 788,
+   "Geographic Location": "4538N 0553E"
+ },
+ {
+   "City Name": "CHATEAUROUX",
+   "Airport Name": "DEOLS",
+   "Country": "FRANCE",
+   "elevationInFt": 528,
+   "Geographic Location": "4652N 0143E"
+ },
+ {
+   "City Name": "CHERBOURG",
+   "Airport Name": "MAUPERTUS",
+   "Country": "FRANCE",
+   "elevationInFt": 456,
+   "Geographic Location": "4939N 0128W"
+ },
+ {
+   "City Name": "CLERMOUNT FERRAND",
+   "Airport Name": "AULNAT",
+   "Country": "FRANCE",
+   "elevationInFt": 1089,
+   "Geographic Location": "4547N 0310E"
+ },
+ {
+   "City Name": "COLMAR",
+   "Airport Name": "HOUSSEN",
+   "Country": "FRANCE",
+   "elevationInFt": 630,
+   "Geographic Location": "4807N 0722E"
+ },
+ {
+   "City Name": "DEAUVILLE",
+   "Airport Name": "ST. GATIEN",
+   "Country": "FRANCE",
+   "elevationInFt": 479,
+   "Geographic Location": "4922N 0010E"
+ },
+ {
+   "City Name": "DIEPPE",
+   "Airport Name": "ST. AUBIN",
+   "Country": "FRANCE",
+   "elevationInFt": 344,
+   "Geographic Location": "4953N 0105E"
+ },
+ {
+   "City Name": "DIJON",
+   "Airport Name": "LONGVIC",
+   "Country": "FRANCE",
+   "elevationInFt": 728,
+   "Geographic Location": "4716N 0506E"
+ },
+ {
+   "City Name": "DINARD",
+   "Airport Name": "PLEURTUIT-ST. MALO",
+   "Country": "FRANCE",
+   "elevationInFt": 217,
+   "Geographic Location": "4835N 0205W"
+ },
+ {
+   "City Name": "GRENOBLE",
+   "Airport Name": "ST. GEOIRS",
+   "Country": "FRANCE",
+   "elevationInFt": 1302,
+   "Geographic Location": "4522N 0520E"
+ },
+ {
+   "City Name": "HYERES",
+   "Airport Name": "LE PALYVESTRE",
+   "Country": "FRANCE",
+   "elevationInFt": 13,
+   "Geographic Location": "4306N 0609E"
+ },
+ {
+   "City Name": "LA ROCHELLE",
+   "Airport Name": "LALEU",
+   "Country": "FRANCE",
+   "elevationInFt": 72,
+   "Geographic Location": "4611N 0111W"
+ },
+ {
+   "City Name": "LANNION",
+   "Airport Name": "LANNION",
+   "Country": "FRANCE",
+   "elevationInFt": 292,
+   "Geographic Location": "4854N 0328W"
+ },
+ {
+   "City Name": "LE HAVRE",
+   "Airport Name": "OCTEVILLE",
+   "Country": "FRANCE",
+   "elevationInFt": 312,
+   "Geographic Location": "4932N 0005E"
+ },
+ {
+   "City Name": "LE MANS",
+   "Airport Name": "ARNAGE",
+   "Country": "FRANCE",
+   "elevationInFt": 194,
+   "Geographic Location": "4757N 0012E"
+ },
+ {
+   "City Name": "LE TOUQUET",
+   "Airport Name": "PARIS PLAGE",
+   "Country": "FRANCE",
+   "elevationInFt": 36,
+   "Geographic Location": "5031N 0138E"
+ },
+ {
+   "City Name": "LILLE",
+   "Airport Name": "LESQUIN",
+   "Country": "FRANCE",
+   "elevationInFt": 157,
+   "Geographic Location": "5034N 0305E"
+ },
+ {
+   "City Name": "LIMOGES",
+   "Airport Name": "BELLEGARDE",
+   "Country": "FRANCE",
+   "elevationInFt": 1299,
+   "Geographic Location": "4552N 0111E"
+ },
+ {
+   "City Name": "LYON",
+   "Airport Name": "BRON",
+   "Country": "FRANCE",
+   "elevationInFt": 659,
+   "Geographic Location": "4544N 0456E"
+ },
+ {
+   "City Name": "MARSEILLE",
+   "Airport Name": "PROVENCE",
+   "Country": "FRANCE",
+   "elevationInFt": 69,
+   "Geographic Location": "4326N 0513E"
+ },
+ {
+   "City Name": "METZ",
+   "Airport Name": "NANCY LORRAINE",
+   "Country": "FRANCE",
+   "elevationInFt": 869,
+   "Geographic Location": "4859N 0615E"
+ },
+ {
+   "City Name": "MONTPELLIER",
+   "Airport Name": "FREJORGUES",
+   "Country": "FRANCE",
+   "elevationInFt": 16,
+   "Geographic Location": "4335N 0358E"
+ },
+ {
+   "City Name": "MORLAIX",
+   "Airport Name": "PLOUJEAN",
+   "Country": "FRANCE",
+   "elevationInFt": 282,
+   "Geographic Location": "4836N 0349W"
+ },
+ {
+   "City Name": "NANCY",
+   "Airport Name": "ESSEY",
+   "Country": "FRANCE",
+   "elevationInFt": 753,
+   "Geographic Location": "4842N 0614E"
+ },
+ {
+   "City Name": "NANTES ATLANTIQUE",
+   "Airport Name": "NANTES ATLANTIQUE",
+   "Country": "FRANCE",
+   "elevationInFt": 89,
+   "Geographic Location": "4709N 0136W"
+ },
+ {
+   "City Name": "PARIS CHARLES DE GAULLE",
+   "Airport Name": "CHARLES-DE-GAULLE",
+   "Country": "FRANCE",
+   "elevationInFt": 387,
+   "Geographic Location": "4901N 0233E"
+ },
+ {
+   "City Name": "PARIS LE BOURGET",
+   "Airport Name": "LE BOURGET",
+   "Country": "FRANCE",
+   "elevationInFt": 217,
+   "Geographic Location": "4858N 0227E"
+ },
+ {
+   "City Name": "PARIS ORLY",
+   "Airport Name": "ORLY",
+   "Country": "FRANCE",
+   "elevationInFt": 292,
+   "Geographic Location": "4843N 0223E"
+ },
+ {
+   "City Name": "PAU PYRENEES",
+   "Airport Name": "PAU PYRENEES",
+   "Country": "FRANCE",
+   "elevationInFt": 617,
+   "Geographic Location": "4323N 0025W"
+ },
+ {
+   "City Name": "PERIGUEUX",
+   "Airport Name": "BASSILLAC",
+   "Country": "FRANCE",
+   "elevationInFt": 328,
+   "Geographic Location": "4512N 0049E"
+ },
+ {
+   "City Name": "PERPIGNAN",
+   "Airport Name": "RIVESALTES",
+   "Country": "FRANCE",
+   "elevationInFt": 144,
+   "Geographic Location": "4244N 0252E"
+ },
+ {
+   "City Name": "PONTOISE",
+   "Airport Name": "CORMEILLES EN VEXIN",
+   "Country": "FRANCE",
+   "elevationInFt": 325,
+   "Geographic Location": "4906N 0202E"
+ },
+ {
+   "City Name": "QUIMPER",
+   "Airport Name": "PLUGUFFAN",
+   "Country": "FRANCE",
+   "elevationInFt": 302,
+   "Geographic Location": "4759N 0410W"
+ },
+ {
+   "City Name": "REIMS",
+   "Airport Name": "CHAMPAGNE",
+   "Country": "FRANCE",
+   "elevationInFt": 312,
+   "Geographic Location": "4919N 0403E"
+ },
+ {
+   "City Name": "RENNES",
+   "Airport Name": "ST. JACQUES",
+   "Country": "FRANCE",
+   "elevationInFt": 121,
+   "Geographic Location": "4804N 0144W"
+ },
+ {
+   "City Name": "RODEZ",
+   "Airport Name": "MARCILLAC",
+   "Country": "FRANCE",
+   "elevationInFt": 1906,
+   "Geographic Location": "4425N 0229E"
+ },
+ {
+   "City Name": "ROUEN",
+   "Airport Name": "VALLEE DE SEINE",
+   "Country": "FRANCE",
+   "elevationInFt": 512,
+   "Geographic Location": "4923N 0111E"
+ },
+ {
+   "City Name": "ST. BRIEUC",
+   "Airport Name": "ARMOR",
+   "Country": "FRANCE",
+   "elevationInFt": 453,
+   "Geographic Location": "4832N 0251W"
+ },
+ {
+   "City Name": "ST. ETTIENNE",
+   "Airport Name": "BOUTHEON",
+   "Country": "FRANCE",
+   "elevationInFt": 1325,
+   "Geographic Location": "4532N 0418E"
+ },
+ {
+   "City Name": "ST. NAZAIRE",
+   "Airport Name": "MONTOIR",
+   "Country": "FRANCE",
+   "elevationInFt": 10,
+   "Geographic Location": "4719N 0209W"
+ },
+ {
+   "City Name": "ST. YAN",
+   "Airport Name": "ST. YAN",
+   "Country": "FRANCE",
+   "elevationInFt": 794,
+   "Geographic Location": "4624N 0401E"
+ },
+ {
+   "City Name": "STRASBOURG",
+   "Airport Name": "ENTZHEIM",
+   "Country": "FRANCE",
+   "elevationInFt": 502,
+   "Geographic Location": "4832N 0738E"
+ },
+ {
+   "City Name": "TARBES",
+   "Airport Name": "OSSUN-LOURDES",
+   "Country": "FRANCE",
+   "elevationInFt": 1243,
+   "Geographic Location": "4311N 0000E"
+ },
+ {
+   "City Name": "TOULOUSE BLAGNAC",
+   "Airport Name": "BLAGNAC",
+   "Country": "FRANCE",
+   "elevationInFt": 499,
+   "Geographic Location": "4337N 0123E"
+ },
+ {
+   "City Name": "TOULOUSE FRANCAZAL",
+   "Airport Name": "FRANCAZAL",
+   "Country": "FRANCE",
+   "elevationInFt": 535,
+   "Geographic Location": "4333N 0121E"
+ },
+ {
+   "City Name": "TOURS",
+   "Airport Name": "ST. SYMPHORIEN",
+   "Country": "FRANCE",
+   "elevationInFt": 354,
+   "Geographic Location": "4726N 0043E"
+ },
+ {
+   "City Name": "TOUSSUS LE NOBLE",
+   "Airport Name": "TOUSSUS LE NOBLE",
+   "Country": "FRANCE",
+   "elevationInFt": 538,
+   "Geographic Location": "4845N 0207E"
+ },
+ {
+   "City Name": "TROYES",
+   "Airport Name": "BARBEREY",
+   "Country": "FRANCE",
+   "elevationInFt": 394,
+   "Geographic Location": "4819N 0401E"
+ },
+ {
+   "City Name": "VALENCE",
+   "Airport Name": "CHABEUIL",
+   "Country": "FRANCE",
+   "elevationInFt": 531,
+   "Geographic Location": "4455N 0458E"
+ },
+ {
+   "City Name": "FRANCEVILLE",
+   "Airport Name": "MVENGE",
+   "Country": "GABON",
+   "elevationInFt": 1447,
+   "Geographic Location": "0139S 1326E"
+ },
+ {
+   "City Name": "LIBREVILLE",
+   "Airport Name": "LIBREVILLE",
+   "Country": "GABON",
+   "elevationInFt": 39,
+   "Geographic Location": "0027N 0925E"
+ },
+ {
+   "City Name": "PORT GENTIL",
+   "Airport Name": "PORT GENTIL",
+   "Country": "GABON",
+   "elevationInFt": 13,
+   "Geographic Location": "0043S 0845E"
+ },
+ {
+   "City Name": "BANJUL",
+   "Airport Name": "BANJUL",
+   "Country": "GAMBIA",
+   "elevationInFt": 95,
+   "Geographic Location": "1321N 1640W"
+ },
+ {
+   "City Name": "TBILISI",
+   "Airport Name": "NOVOALEKSEEVKA",
+   "Country": "GEORGIA",
+   "elevationInFt": 1572,
+   "Geographic Location": "4140N 4457E"
+ },
+ {
+   "City Name": "BERLIN GATOW",
+   "Airport Name": "GATOW",
+   "Country": "GERMANY",
+   "elevationInFt": 162,
+   "Geographic Location": "5229N 1308E"
+ },
+ {
+   "City Name": "BERLIN SCHOENEFIELD",
+   "Airport Name": "SCHOENEFIELD",
+   "Country": "GERMANY",
+   "elevationInFt": 155,
+   "Geographic Location": "5223N 1331E"
+ },
+ {
+   "City Name": "BERLIN TEGEL",
+   "Airport Name": "TEGEL",
+   "Country": "GERMANY",
+   "elevationInFt": 121,
+   "Geographic Location": "5234N 1317E"
+ },
+ {
+   "City Name": "BERLIN TEMPLEHOF",
+   "Airport Name": "TEMPLEHOF",
+   "Country": "GERMANY",
+   "elevationInFt": 164,
+   "Geographic Location": "5228N 1324E"
+ },
+ {
+   "City Name": "BRAUNSWEIG",
+   "Airport Name": "BRAUNSWEIG",
+   "Country": "GERMANY",
+   "elevationInFt": 291,
+   "Geographic Location": "5219N 1033E"
+ },
+ {
+   "City Name": "BREMEN",
+   "Airport Name": "BREMEN",
+   "Country": "GERMANY",
+   "elevationInFt": 13,
+   "Geographic Location": "5303N 0847E"
+ },
+ {
+   "City Name": "COLOGNE-BONN",
+   "Airport Name": "COLOGNE-BONN",
+   "Country": "GERMANY",
+   "elevationInFt": 300,
+   "Geographic Location": "5052N 0709E"
+ },
+ {
+   "City Name": "DORTMUND",
+   "Airport Name": "WICKEDE",
+   "Country": "GERMANY",
+   "elevationInFt": 417,
+   "Geographic Location": "5131N 0737E"
+ },
+ {
+   "City Name": "DRESDEN",
+   "Airport Name": "DRESDEN",
+   "Country": "GERMANY",
+   "elevationInFt": 755,
+   "Geographic Location": "5108N 1346E"
+ },
+ {
+   "City Name": "DUSSELDORF",
+   "Airport Name": "DUSSELDORF",
+   "Country": "GERMANY",
+   "elevationInFt": 147,
+   "Geographic Location": "5117N 0645E"
+ },
+ {
+   "City Name": "ERFURT",
+   "Airport Name": "ERFURT",
+   "Country": "GERMANY",
+   "elevationInFt": 1034,
+   "Geographic Location": "5059N 1058E"
+ },
+ {
+   "City Name": "FRANKFURT",
+   "Airport Name": "MAIN",
+   "Country": "GERMANY",
+   "elevationInFt": 365,
+   "Geographic Location": "5002N 0834E"
+ },
+ {
+   "City Name": "FRIEDRICHSHAFEN",
+   "Airport Name": "FRIEDRICHSHAFEN",
+   "Country": "GERMANY",
+   "elevationInFt": 1366,
+   "Geographic Location": "4740N 0931E"
+ },
+ {
+   "City Name": "HAMBURG FINKENWERDER",
+   "Airport Name": "FINKENWERDER",
+   "Country": "GERMANY",
+   "elevationInFt": 16,
+   "Geographic Location": "5332N 0950E"
+ },
+ {
+   "City Name": "HAMBURG",
+   "Airport Name": "HAMBURG",
+   "Country": "GERMANY",
+   "elevationInFt": 53,
+   "Geographic Location": "5338N 0959E"
+ },
+ {
+   "City Name": "HANNOVER",
+   "Airport Name": "HANNOVER",
+   "Country": "GERMANY",
+   "elevationInFt": 183,
+   "Geographic Location": "5228N 0941E"
+ },
+ {
+   "City Name": "INGOLSTADT",
+   "Airport Name": "INGOLSTADT",
+   "Country": "GERMANY",
+   "elevationInFt": 1202,
+   "Geographic Location": "4834N 1132E"
+ },
+ {
+   "City Name": "KASSEL-CALDEN",
+   "Airport Name": "KASSEL-CALDEN",
+   "Country": "GERMANY",
+   "elevationInFt": 907,
+   "Geographic Location": "5124N 0923E"
+ },
+ {
+   "City Name": "KIEL",
+   "Airport Name": "HOLTENAU",
+   "Country": "GERMANY",
+   "elevationInFt": 101,
+   "Geographic Location": "5423N 1009E"
+ },
+ {
+   "City Name": "LEIPZIG",
+   "Airport Name": "HALLE",
+   "Country": "GERMANY",
+   "elevationInFt": 466,
+   "Geographic Location": "5125N 1214E"
+ },
+ {
+   "City Name": "LUBECK",
+   "Airport Name": "BLANKENSEE",
+   "Country": "GERMANY",
+   "elevationInFt": 52,
+   "Geographic Location": "5348N 1043E"
+ },
+ {
+   "City Name": "MUNICH",
+   "Airport Name": "MUNICH",
+   "Country": "GERMANY",
+   "elevationInFt": 1486,
+   "Geographic Location": "4821N 1147E"
+ },
+ {
+   "City Name": "MUNSTER",
+   "Airport Name": "MUNSTER/OSNABRUCK",
+   "Country": "GERMANY",
+   "elevationInFt": 158,
+   "Geographic Location": "5208N 0741E"
+ },
+ {
+   "City Name": "NORDHOLZ",
+   "Airport Name": "NORDHOLZ",
+   "Country": "GERMANY",
+   "elevationInFt": 74,
+   "Geographic Location": "5346N 0840E"
+ },
+ {
+   "City Name": "NURNBERG",
+   "Airport Name": "NURNBERG",
+   "Country": "GERMANY",
+   "elevationInFt": 1045,
+   "Geographic Location": "4930N 1105E"
+ },
+ {
+   "City Name": "OBERPFAFFENHOFEN",
+   "Airport Name": "OBERPFAFFENHOFEN",
+   "Country": "GERMANY",
+   "elevationInFt": 1947,
+   "Geographic Location": "4805N 1117E"
+ },
+ {
+   "City Name": "PADERBORN",
+   "Airport Name": "PADERBORN",
+   "Country": "GERMANY",
+   "elevationInFt": 699,
+   "Geographic Location": "5137N 0837E"
+ },
+ {
+   "City Name": "SAARBRUCKEN",
+   "Airport Name": "ENSHEIM",
+   "Country": "GERMANY",
+   "elevationInFt": 1057,
+   "Geographic Location": "4913N 0707E"
+ },
+ {
+   "City Name": "STUTTGART",
+   "Airport Name": "STUTTGART",
+   "Country": "GERMANY",
+   "elevationInFt": 1300,
+   "Geographic Location": "4841N 0913E"
+ },
+ {
+   "City Name": "SYLT",
+   "Airport Name": "WESTERLAND",
+   "Country": "GERMANY",
+   "elevationInFt": 51,
+   "Geographic Location": "5455N 0821E"
+ },
+ {
+   "City Name": "ACCRA",
+   "Airport Name": "KOTOKA INTL.",
+   "Country": "GHANA",
+   "elevationInFt": 203,
+   "Geographic Location": "0536N 0010W"
+ },
+ {
+   "City Name": "KUMSAI",
+   "Airport Name": "KUMSAI",
+   "Country": "GHANA",
+   "elevationInFt": 942,
+   "Geographic Location": "0643N 0135W"
+ },
+ {
+   "City Name": "SUNYANI",
+   "Airport Name": "SUNYANI",
+   "Country": "GHANA",
+   "elevationInFt": 998,
+   "Geographic Location": "0722N 0220W"
+ },
+ {
+   "City Name": "TAKORADI",
+   "Airport Name": "TAKORADI",
+   "Country": "GHANA",
+   "elevationInFt": 21,
+   "Geographic Location": "0454N 0146W"
+ },
+ {
+   "City Name": "TAMALE",
+   "Airport Name": "TAMALE",
+   "Country": "GHANA",
+   "elevationInFt": 553,
+   "Geographic Location": "0934N 0052W"
+ },
+ {
+   "City Name": "GIBRALTAR",
+   "Airport Name": "GIBRALTAR",
+   "Country": "GIBRALTER",
+   "elevationInFt": 15,
+   "Geographic Location": "3609N 0521W"
+ },
+ {
+   "City Name": "ALEXANDROUPOLIS",
+   "Airport Name": "DIMOKRITOS",
+   "Country": "GREECE",
+   "elevationInFt": 24,
+   "Geographic Location": "4051N 2557E"
+ },
+ {
+   "City Name": "ANDRAVIDA",
+   "Airport Name": "ANDRAVIDA",
+   "Country": "GREECE",
+   "elevationInFt": 55,
+   "Geographic Location": "3756N 2117E"
+ },
+ {
+   "City Name": "ARAXOS",
+   "Airport Name": "ARAXOS",
+   "Country": "GREECE",
+   "elevationInFt": 50,
+   "Geographic Location": "3809N 2125E"
+ },
+ {
+   "City Name": "ATHENS",
+   "Airport Name": "CENTRAL",
+   "Country": "GREECE",
+   "elevationInFt": 68,
+   "Geographic Location": "3754N 2344E"
+ },
+ {
+   "City Name": "ELEFSIS",
+   "Airport Name": "ELEFSIS",
+   "Country": "GREECE",
+   "elevationInFt": 143,
+   "Geographic Location": "3804N 2333E"
+ },
+ {
+   "City Name": "HERAKLION",
+   "Airport Name": "NIKOS KAZANTZAKIS",
+   "Country": "GREECE",
+   "elevationInFt": 115,
+   "Geographic Location": "3520N 2511E"
+ },
+ {
+   "City Name": "IOANNINA",
+   "Airport Name": "IOANNINA",
+   "Country": "GREECE",
+   "elevationInFt": 1563,
+   "Geographic Location": "3942N 2049E"
+ },
+ {
+   "City Name": "KARPATHOS",
+   "Airport Name": "KARPATHOS",
+   "Country": "GREECE",
+   "elevationInFt": 62,
+   "Geographic Location": "3525N 2709E"
+ },
+ {
+   "City Name": "KAVALA",
+   "Airport Name": "MEGAS ALEXANDROS",
+   "Country": "GREECE",
+   "elevationInFt": 18,
+   "Geographic Location": "4055N 2437E"
+ },
+ {
+   "City Name": "KEFALLINIA",
+   "Airport Name": "KEFALLINIA",
+   "Country": "GREECE",
+   "elevationInFt": 60,
+   "Geographic Location": "3807N 2030E"
+ },
+ {
+   "City Name": "KERKYRA",
+   "Airport Name": "IOANNIS KAPODISTRIAS",
+   "Country": "GREECE",
+   "elevationInFt": 6,
+   "Geographic Location": "3936N 1955E"
+ },
+ {
+   "City Name": "KHIOS",
+   "Airport Name": "KHIOS",
+   "Country": "GREECE",
+   "elevationInFt": 18,
+   "Geographic Location": "3821N 2609E"
+ },
+ {
+   "City Name": "LIMNOS",
+   "Airport Name": "LIMNOS",
+   "Country": "GREECE",
+   "elevationInFt": 16,
+   "Geographic Location": "3955N 2514E"
+ },
+ {
+   "City Name": "MIKONOS",
+   "Airport Name": "MIKONOS",
+   "Country": "GREECE",
+   "elevationInFt": 405,
+   "Geographic Location": "3726N 2521E"
+ },
+ {
+   "City Name": "MITILINI",
+   "Airport Name": "MITILINI",
+   "Country": "GREECE",
+   "elevationInFt": 57,
+   "Geographic Location": "3904N 2636E"
+ },
+ {
+   "City Name": "RHODES DIAGORAS",
+   "Airport Name": "DIAGORAS",
+   "Country": "GREECE",
+   "elevationInFt": 14,
+   "Geographic Location": "3624N 2805E"
+ },
+ {
+   "City Name": "RHODES MARITSA",
+   "Airport Name": "MARITSA",
+   "Country": "GREECE",
+   "elevationInFt": 204,
+   "Geographic Location": "3623N 2807E"
+ },
+ {
+   "City Name": "SALONIKA",
+   "Airport Name": "MAKEDONIA",
+   "Country": "GREECE",
+   "elevationInFt": 22,
+   "Geographic Location": "4031N 2258E"
+ },
+ {
+   "City Name": "SAMOS",
+   "Airport Name": "SAMOS",
+   "Country": "GREECE",
+   "elevationInFt": 20,
+   "Geographic Location": "3742N 2655E"
+ },
+ {
+   "City Name": "SANTORINI",
+   "Airport Name": "SANTORINI",
+   "Country": "GREECE",
+   "elevationInFt": 124,
+   "Geographic Location": "3642N 2655E"
+ },
+ {
+   "City Name": "SKIATHOS",
+   "Airport Name": "SKIATHOS",
+   "Country": "GREECE",
+   "elevationInFt": 50,
+   "Geographic Location": "3911N 2330E"
+ },
+ {
+   "City Name": "ZAKINTHOS",
+   "Airport Name": "ZAKINTHOS",
+   "Country": "GREECE",
+   "elevationInFt": 10,
+   "Geographic Location": "3745N 2053E"
+ },
+ {
+   "City Name": "NARSARSUAQ",
+   "Airport Name": "NARSARSUAQ",
+   "Country": "GREENLAND",
+   "elevationInFt": 112,
+   "Geographic Location": "6110N 4526W"
+ },
+ {
+   "City Name": "SONDERSTROM",
+   "Airport Name": "KANGERLUSSUAQ",
+   "Country": "GREENLAND",
+   "elevationInFt": 165,
+   "Geographic Location": "6701N 5042W"
+ },
+ {
+   "City Name": "GUATEMALA",
+   "Airport Name": "LA AURORA",
+   "Country": "GUATEMALA",
+   "elevationInFt": 4952,
+   "Geographic Location": "1435N 9032W"
+ },
+ {
+   "City Name": "BISSAU",
+   "Airport Name": "OSVALDO VIEIRA",
+   "Country": "GUINE-BISSAU",
+   "elevationInFt": 129,
+   "Geographic Location": "1153N 1539W"
+ },
+ {
+   "City Name": "CONAKRY",
+   "Airport Name": "GBESSIA",
+   "Country": "GUINEE",
+   "elevationInFt": 72,
+   "Geographic Location": "0934N 1337W"
+ },
+ {
+   "City Name": "GEORGETOWN",
+   "Airport Name": "TIMEHRI INTL",
+   "Country": "GUYANA",
+   "elevationInFt": 95,
+   "Geographic Location": "0630N 5815W"
+ },
+ {
+   "City Name": "HONOLULU",
+   "Airport Name": "HONOLULU INTL.",
+   "Country": "HAWAIIAN ISLANDS",
+   "elevationInFt": 13,
+   "Geographic Location": "2120N 15756W"
+ },
+ {
+   "City Name": "SAN PEDRO SULA",
+   "Airport Name": "LA MESA",
+   "Country": "HONDURAS",
+   "elevationInFt": 90,
+   "Geographic Location": "1527N 8755W"
+ },
+ {
+   "City Name": "HONG KONG",
+   "Airport Name": "KAI TAK",
+   "Country": "HONG KONG",
+   "elevationInFt": 15,
+   "Geographic Location": "2219N 11412E"
+ },
+ {
+   "City Name": "BUDAPEST",
+   "Airport Name": "FERIHEGY",
+   "Country": "HUNGARY",
+   "elevationInFt": 495,
+   "Geographic Location": "4726N 1916E"
+ },
+ {
+   "City Name": "AKUREYI",
+   "Airport Name": "AKUREYI",
+   "Country": "ICELAND",
+   "elevationInFt": 6,
+   "Geographic Location": "6539N 1805W"
+ },
+ {
+   "City Name": "KEFLAVIK",
+   "Airport Name": "KEFLAVIK",
+   "Country": "ICELAND",
+   "elevationInFt": 171,
+   "Geographic Location": "6359N 2237W"
+ },
+ {
+   "City Name": "REYKJAVIK",
+   "Airport Name": "REYKJAVIK",
+   "Country": "ICELAND",
+   "elevationInFt": 45,
+   "Geographic Location": "6408N 2157W"
+ },
+ {
+   "City Name": "AHMEDABAD",
+   "Airport Name": "AHMEDABAD",
+   "Country": "INDIA",
+   "elevationInFt": 180,
+   "Geographic Location": "2304N 7238E"
+ },
+ {
+   "City Name": "BANGALORE",
+   "Airport Name": "BANGALORE",
+   "Country": "INDIA",
+   "elevationInFt": 3307,
+   "Geographic Location": "1257N 7740E"
+ },
+ {
+   "City Name": "BOMBAY",
+   "Airport Name": "JAWAHARIAL NEHRU INTL",
+   "Country": "INDIA",
+   "elevationInFt": 26,
+   "Geographic Location": "1905N 7252E"
+ },
+ {
+   "City Name": "CALCUTTA",
+   "Airport Name": "N.S. CHANDRA BOSE INTL.",
+   "Country": "INDIA",
+   "elevationInFt": 18,
+   "Geographic Location": "2239N 8827E"
+ },
+ {
+   "City Name": "DELHI",
+   "Airport Name": "DELHI INTL.",
+   "Country": "INDIA",
+   "elevationInFt": 744,
+   "Geographic Location": "2834N 7707E"
+ },
+ {
+   "City Name": "GOA",
+   "Airport Name": "DABOLIM",
+   "Country": "INDIA",
+   "elevationInFt": 184,
+   "Geographic Location": "1523N 7350E"
+ },
+ {
+   "City Name": "HYDERABAD",
+   "Airport Name": "BEGUMPET",
+   "Country": "INDIA",
+   "elevationInFt": 1741,
+   "Geographic Location": "1727N 7828E"
+ },
+ {
+   "City Name": "LUCKNOW",
+   "Airport Name": "LUCKNOW",
+   "Country": "INDIA",
+   "elevationInFt": 400,
+   "Geographic Location": "2646N 8053E"
+ },
+ {
+   "City Name": "MADRAS",
+   "Airport Name": "MADRAS INTL.",
+   "Country": "INDIA",
+   "elevationInFt": 34,
+   "Geographic Location": "1300N 8011E"
+ },
+ {
+   "City Name": "NAGPUR",
+   "Airport Name": "NAGPUR",
+   "Country": "INDIA",
+   "elevationInFt": 1012,
+   "Geographic Location": "2105N 7903E"
+ },
+ {
+   "City Name": "PORT BLAIR",
+   "Airport Name": "PORT BLAIR",
+   "Country": "INDIA",
+   "elevationInFt": 16,
+   "Geographic Location": "1139N 9244E"
+ },
+ {
+   "City Name": "TRIVANDRUM",
+   "Airport Name": "TRIVANDRUM",
+   "Country": "INDIA",
+   "elevationInFt": 13,
+   "Geographic Location": "0829N 7655E"
+ },
+ {
+   "City Name": "AMBON",
+   "Airport Name": "PATTIMURA",
+   "Country": "INDONESIA",
+   "elevationInFt": 33,
+   "Geographic Location": "0342S 12805E"
+ },
+ {
+   "City Name": "BALI",
+   "Airport Name": "BALI INTL.",
+   "Country": "INDONESIA",
+   "elevationInFt": 14,
+   "Geographic Location": "0845S 11510E"
+ },
+ {
+   "City Name": "BIAK",
+   "Airport Name": "KAISIEPO",
+   "Country": "INDONESIA",
+   "elevationInFt": 46,
+   "Geographic Location": "0112S 13606E"
+ },
+ {
+   "City Name": "JAKARTA HALIM PERDANAKUSUMA",
+   "Airport Name": "HALIM PERDANAKUSUMA",
+   "Country": "INDONESIA",
+   "elevationInFt": 86,
+   "Geographic Location": "0616S 10653E"
+ },
+ {
+   "City Name": "JAKARTA INTL",
+   "Airport Name": "SOERKARNO-HATTA INTL.",
+   "Country": "INDONESIA",
+   "elevationInFt": 34,
+   "Geographic Location": "0608S 10639E"
+ },
+ {
+   "City Name": "KUPANG",
+   "Airport Name": "EL TARI",
+   "Country": "INDONESIA",
+   "elevationInFt": 335,
+   "Geographic Location": "1010S 12340E"
+ },
+ {
+   "City Name": "MEDAN",
+   "Airport Name": "POLONIA",
+   "Country": "INDONESIA",
+   "elevationInFt": 90,
+   "Geographic Location": "0334N 9841E"
+ },
+ {
+   "City Name": "SURABAYA",
+   "Airport Name": "JUANDA",
+   "Country": "INDONESIA",
+   "elevationInFt": 9,
+   "Geographic Location": "0722S 11246E"
+ },
+ {
+   "City Name": "UJUNG PANDANG",
+   "Airport Name": "HASANUDDIN",
+   "Country": "INDONESIA",
+   "elevationInFt": 47,
+   "Geographic Location": "0504S 11933E"
+ },
+ {
+   "City Name": "SHIRAZ",
+   "Airport Name": "SHIRAZ INTL.",
+   "Country": "IRAN",
+   "elevationInFt": 4920,
+   "Geographic Location": "2932N 5235E"
+ },
+ {
+   "City Name": "TABRIZ",
+   "Airport Name": "TABRIZ",
+   "Country": "IRAN",
+   "elevationInFt": 4455,
+   "Geographic Location": "3808N 4614E"
+ },
+ {
+   "City Name": "TEHRAN",
+   "Airport Name": "MEHRABAD",
+   "Country": "IRAN",
+   "elevationInFt": 3962,
+   "Geographic Location": "3541N 5119E"
+ },
+ {
+   "City Name": "BAGHDAD",
+   "Airport Name": "SADDAM INTL.",
+   "Country": "IRAQ",
+   "elevationInFt": 113,
+   "Geographic Location": "3314N 4414E"
+ },
+ {
+   "City Name": "CONNAUGHT",
+   "Airport Name": "CONNAUGHT",
+   "Country": "IRELAND",
+   "elevationInFt": 665,
+   "Geographic Location": "5355N 0849W"
+ },
+ {
+   "City Name": "CORK",
+   "Airport Name": "CORK",
+   "Country": "IRELAND",
+   "elevationInFt": 502,
+   "Geographic Location": "5150N 0829W"
+ },
+ {
+   "City Name": "DONEGAL",
+   "Airport Name": "CARRICKFIN",
+   "Country": "IRELAND",
+   "elevationInFt": 26,
+   "Geographic Location": "5503N 0820W"
+ },
+ {
+   "City Name": "DUBLIN",
+   "Airport Name": "DUBLIN",
+   "Country": "IRELAND",
+   "elevationInFt": 242,
+   "Geographic Location": "5326N 0615W"
+ },
+ {
+   "City Name": "GALWAY",
+   "Airport Name": "CARNMORE",
+   "Country": "IRELAND",
+   "elevationInFt": 90,
+   "Geographic Location": "5318N 0856W"
+ },
+ {
+   "City Name": "KERRY",
+   "Airport Name": "FARRANFORE",
+   "Country": "IRELAND",
+   "elevationInFt": 100,
+   "Geographic Location": "5211N 0932W"
+ },
+ {
+   "City Name": "SHANNON",
+   "Airport Name": "SHANNON",
+   "Country": "IRELAND",
+   "elevationInFt": 47,
+   "Geographic Location": "5242N 0855W"
+ },
+ {
+   "City Name": "WATERFORD",
+   "Airport Name": "WATERFORD",
+   "Country": "IRELAND",
+   "elevationInFt": 119,
+   "Geographic Location": "5211N 0705W"
+ },
+ {
+   "City Name": "JERUSALEM",
+   "Airport Name": "ATAROT",
+   "Country": "ISRAEL",
+   "elevationInFt": 2485,
+   "Geographic Location": "3152N 3513E"
+ },
+ {
+   "City Name": "OVDA",
+   "Airport Name": "OVDA",
+   "Country": "ISRAEL",
+   "elevationInFt": 1492,
+   "Geographic Location": "2956N 3456E"
+ },
+ {
+   "City Name": "TEL AVIV",
+   "Airport Name": "BEN GURION INTL.",
+   "Country": "ISRAEL",
+   "elevationInFt": 135,
+   "Geographic Location": "3201N 3453E"
+ },
+ {
+   "City Name": "ALGHERO",
+   "Airport Name": "FERTILLIA",
+   "Country": "ITALY",
+   "elevationInFt": 88,
+   "Geographic Location": "4038N 0817E"
+ },
+ {
+   "City Name": "ANCONA",
+   "Airport Name": "FALCONARA",
+   "Country": "ITALY",
+   "elevationInFt": 50,
+   "Geographic Location": "4337N 1322E"
+ },
+ {
+   "City Name": "BARI",
+   "Airport Name": "PALESE MCCHIE",
+   "Country": "ITALY",
+   "elevationInFt": 176,
+   "Geographic Location": "4108N 1647E"
+ },
+ {
+   "City Name": "BERGAMO",
+   "Airport Name": "ORIO AL SERIO",
+   "Country": "ITALY",
+   "elevationInFt": 779,
+   "Geographic Location": "4540N 0942E"
+ },
+ {
+   "City Name": "BOLOGNA",
+   "Airport Name": "BOLOGNA",
+   "Country": "ITALY",
+   "elevationInFt": 125,
+   "Geographic Location": "4432N 1118E"
+ },
+ {
+   "City Name": "BRINDISI",
+   "Airport Name": "CASALE",
+   "Country": "ITALY",
+   "elevationInFt": 48,
+   "Geographic Location": "4039N 1757E"
+ },
+ {
+   "City Name": "CAGLIARI",
+   "Airport Name": "ELMAS",
+   "Country": "ITALY",
+   "elevationInFt": 12,
+   "Geographic Location": "3915N 0904E"
+ },
+ {
+   "City Name": "CATANIA",
+   "Airport Name": "FONTANAROSSA",
+   "Country": "ITALY",
+   "elevationInFt": 43,
+   "Geographic Location": "3728N 1504E"
+ },
+ {
+   "City Name": "FLORENCE",
+   "Airport Name": "PERETOLA",
+   "Country": "ITALY",
+   "elevationInFt": 136,
+   "Geographic Location": "4349N 1112E"
+ },
+ {
+   "City Name": "FORLI",
+   "Airport Name": "FORLI",
+   "Country": "ITALY",
+   "elevationInFt": 98,
+   "Geographic Location": "4412N 1204E"
+ },
+ {
+   "City Name": "GENOA",
+   "Airport Name": "SESTRI",
+   "Country": "ITALY",
+   "elevationInFt": 10,
+   "Geographic Location": "4425N 0850E"
+ },
+ {
+   "City Name": "LAMEZIA TERME",
+   "Airport Name": "LAMEZIA TERME",
+   "Country": "ITALY",
+   "elevationInFt": 40,
+   "Geographic Location": "3854N 1615E"
+ },
+ {
+   "City Name": "MILAN LINATE",
+   "Airport Name": "LINATE",
+   "Country": "ITALY",
+   "elevationInFt": 353,
+   "Geographic Location": "4527N 0917E"
+ },
+ {
+   "City Name": "MILAN MALPENSA",
+   "Airport Name": "MALPENSA",
+   "Country": "ITALY",
+   "elevationInFt": 767,
+   "Geographic Location": "4538N 0843E"
+ },
+ {
+   "City Name": "NAPLES",
+   "Airport Name": "NAPLES",
+   "Country": "ITALY",
+   "elevationInFt": 296,
+   "Geographic Location": "4053N 1417E"
+ },
+ {
+   "City Name": "OLBIA",
+   "Airport Name": "COSTA SMERALDA",
+   "Country": "ITALY",
+   "elevationInFt": 37,
+   "Geographic Location": "4054N 0931E"
+ },
+ {
+   "City Name": "PALERMO",
+   "Airport Name": "PUNTA RAISI",
+   "Country": "ITALY",
+   "elevationInFt": 64,
+   "Geographic Location": "3810N 1306E"
+ },
+ {
+   "City Name": "PARMA",
+   "Airport Name": "PARMA",
+   "Country": "ITALY",
+   "elevationInFt": 164,
+   "Geographic Location": "4450N 1018E"
+ },
+ {
+   "City Name": "PESCARA",
+   "Airport Name": "PESCARA",
+   "Country": "ITALY",
+   "elevationInFt": 48,
+   "Geographic Location": "4226N 1411E"
+ },
+ {
+   "City Name": "PISA",
+   "Airport Name": "PISA",
+   "Country": "ITALY",
+   "elevationInFt": 9,
+   "Geographic Location": "4341N 1024E"
+ },
+ {
+   "City Name": "ABIDJAN",
+   "Airport Name": "PORT BOUET",
+   "Country": "IVORY COAST",
+   "elevationInFt": 20,
+   "Geographic Location": "0515N 0356W"
+ },
+ {
+   "City Name": "YAMOUSSOUKRO",
+   "Airport Name": "YAMOUSSOUKRO",
+   "Country": "IVORY COAST",
+   "elevationInFt": 696,
+   "Geographic Location": "0654N 0522W"
+ },
+ {
+   "City Name": "KINGSTON",
+   "Airport Name": "KINGSTON",
+   "Country": "JAMAICA",
+   "elevationInFt": 10,
+   "Geographic Location": "1756N 7648W"
+ },
+ {
+   "City Name": "MONTEGO BAY",
+   "Airport Name": "SANGSTER INTL",
+   "Country": "JAMAICA",
+   "elevationInFt": 4,
+   "Geographic Location": "1830N 7755W"
+ },
+ {
+   "City Name": "CHITOSE",
+   "Airport Name": "CHITOSE AIPORT [NEW]",
+   "Country": "JAPAN",
+   "elevationInFt": 72,
+   "Geographic Location": "4246N 14142E"
+ },
+ {
+   "City Name": "FUKUOKA",
+   "Airport Name": "FUKUOKA",
+   "Country": "JAPAN",
+   "elevationInFt": 30,
+   "Geographic Location": "3335S 13027E"
+ },
+ {
+   "City Name": "HAKODATE",
+   "Airport Name": "HAKODATE",
+   "Country": "JAPAN",
+   "elevationInFt": 108,
+   "Geographic Location": "4146N 14049E"
+ },
+ {
+   "City Name": "IWAKUNI",
+   "Airport Name": "IWAKUNI",
+   "Country": "JAPAN",
+   "elevationInFt": 8,
+   "Geographic Location": "3408N 13214E"
+ },
+ {
+   "City Name": "KAGOSHIMA",
+   "Airport Name": "KAGOSHIMA",
+   "Country": "JAPAN",
+   "elevationInFt": 891,
+   "Geographic Location": "3148N 13043E"
+ },
+ {
+   "City Name": "NAGASAKI",
+   "Airport Name": "NAGASAKI",
+   "Country": "JAPAN",
+   "elevationInFt": 8,
+   "Geographic Location": "3255N 12955E"
+ },
+ {
+   "City Name": "NAGOYA",
+   "Airport Name": "NAGOYA",
+   "Country": "JAPAN",
+   "elevationInFt": 46,
+   "Geographic Location": "3515N 13656E"
+ },
+ {
+   "City Name": "OSAKA ITAMI",
+   "Airport Name": "ITAMI",
+   "Country": "JAPAN",
+   "elevationInFt": 39,
+   "Geographic Location": "3447N 13527E"
+ },
+ {
+   "City Name": "OSAKA KANSAI",
+   "Airport Name": "KANSAI INTL.",
+   "Country": "JAPAN",
+   "elevationInFt": 15,
+   "Geographic Location": "3425N 13515E"
+ },
+ {
+   "City Name": "SENDAI",
+   "Airport Name": "SENDAI",
+   "Country": "JAPAN",
+   "elevationInFt": 5,
+   "Geographic Location": "3808N 14055E"
+ },
+ {
+   "City Name": "TOKYO HANEDA",
+   "Airport Name": "HANEDA",
+   "Country": "JAPAN",
+   "elevationInFt": 15,
+   "Geographic Location": "3533N 13947E"
+ },
+ {
+   "City Name": "TOKYO NARITA",
+   "Airport Name": "NARITA",
+   "Country": "JAPAN",
+   "elevationInFt": 135,
+   "Geographic Location": "3546N 14023E"
+ },
+ {
+   "City Name": "TOKYO YOKOTA",
+   "Airport Name": "YOKOTA",
+   "Country": "JAPAN",
+   "elevationInFt": 457,
+   "Geographic Location": "3545N 13921E"
+ },
+ {
+   "City Name": "KISUMU",
+   "Airport Name": "KISUMU",
+   "Country": "KENYA",
+   "elevationInFt": 3796,
+   "Geographic Location": "0005S 3444E"
+ },
+ {
+   "City Name": "MALINDI",
+   "Airport Name": "MALINDI",
+   "Country": "KENYA",
+   "elevationInFt": 80,
+   "Geographic Location": "0313S 4006E"
+ },
+ {
+   "City Name": "MOMBASA",
+   "Airport Name": "MOI",
+   "Country": "KENYA",
+   "elevationInFt": 196,
+   "Geographic Location": "0402S 3936E"
+ },
+ {
+   "City Name": "NAIROBI",
+   "Airport Name": "JOMO KENYATTA",
+   "Country": "KENYA",
+   "elevationInFt": 5327,
+   "Geographic Location": "0119S 3656E"
+ },
+ {
+   "City Name": "RIGA",
+   "Airport Name": "RIGA INTL.",
+   "Country": "LATVIA",
+   "elevationInFt": 33,
+   "Geographic Location": "5655N 2358E"
+ },
+ {
+   "City Name": "MASERU",
+   "Airport Name": "MOSHOESHOE 1",
+   "Country": "LESOTHO",
+   "elevationInFt": 5351,
+   "Geographic Location": "2927S 2733E"
+ },
+ {
+   "City Name": "MONROVIA INTL",
+   "Airport Name": "ROBERTS INTL.",
+   "Country": "LIBERIA",
+   "elevationInFt": 31,
+   "Geographic Location": "0614N 1022W"
+ },
+ {
+   "City Name": "MONROVIA SPRIGGS PAYNE",
+   "Airport Name": "SPRIGGS PAYNE",
+   "Country": "LIBERIA",
+   "elevationInFt": 25,
+   "Geographic Location": "0617N 1046W"
+ },
+ {
+   "City Name": "BENGHAZI",
+   "Airport Name": "BENINA",
+   "Country": "LIBYA",
+   "elevationInFt": 433,
+   "Geographic Location": "3206N 2016E"
+ },
+ {
+   "City Name": "KUFRA",
+   "Airport Name": "KUFRA",
+   "Country": "LIBYA",
+   "elevationInFt": 1306,
+   "Geographic Location": "2412N 2320E"
+ },
+ {
+   "City Name": "SEBHA",
+   "Airport Name": "SEBHA INTL.",
+   "Country": "LIBYA",
+   "elevationInFt": 1428,
+   "Geographic Location": "2701N 1426E"
+ },
+ {
+   "City Name": "TRIPOLI",
+   "Airport Name": "TRIPOLI INTL.",
+   "Country": "LIBYA",
+   "elevationInFt": 263,
+   "Geographic Location": "3240N 1309E"
+ },
+ {
+   "City Name": "VILNIUS",
+   "Airport Name": "VILNIUS",
+   "Country": "LITHUNIA",
+   "elevationInFt": 646,
+   "Geographic Location": "5438N 2517E"
+ },
+ {
+   "City Name": "LUXEMBOURG",
+   "Airport Name": "LUXEMBOURG",
+   "Country": "LUXEMBOURG",
+   "elevationInFt": 1234,
+   "Geographic Location": "5051N 0309E"
+ },
+ {
+   "City Name": "ANTANANARIVO",
+   "Airport Name": "IVATO",
+   "Country": "MADAGASCAR",
+   "elevationInFt": 4196,
+   "Geographic Location": "1848S 4729E"
+ },
+ {
+   "City Name": "MAHAJANGA",
+   "Airport Name": "AMBOROVY",
+   "Country": "MADAGASCAR",
+   "elevationInFt": 85,
+   "Geographic Location": "1540S 4621E"
+ },
+ {
+   "City Name": "ST. DENNIS",
+   "Airport Name": "GILLOT",
+   "Country": "MADAGASCAR",
+   "elevationInFt": 66,
+   "Geographic Location": "2053S 5531E"
+ },
+ {
+   "City Name": "TOAMASINA",
+   "Airport Name": "TOAMASINA",
+   "Country": "MADAGASCAR",
+   "elevationInFt": 20,
+   "Geographic Location": "1807S 4924E"
+ },
+ {
+   "City Name": "FUNCHAL",
+   "Airport Name": "FUNCHAL",
+   "Country": "MADEIRA",
+   "elevationInFt": 190,
+   "Geographic Location": "3241N 1646W"
+ },
+ {
+   "City Name": "PORTO SANTO",
+   "Airport Name": "PORTO SANTO",
+   "Country": "MADEIRA",
+   "elevationInFt": 320,
+   "Geographic Location": "3304N 1621W"
+ },
+ {
+   "City Name": "BLANTYRE",
+   "Airport Name": "CHILEKA",
+   "Country": "MALAWI",
+   "elevationInFt": 2555,
+   "Geographic Location": "1541S 3458E"
+ },
+ {
+   "City Name": "KARONGA",
+   "Airport Name": "KARONGA",
+   "Country": "MALAWI",
+   "elevationInFt": 1765,
+   "Geographic Location": "0957S 3353E"
+ },
+ {
+   "City Name": "LILONGWE",
+   "Airport Name": "KAMUZU INTL.",
+   "Country": "MALAWI",
+   "elevationInFt": 4035,
+   "Geographic Location": "1347S 3347E"
+ },
+ {
+   "City Name": "MZUZU",
+   "Airport Name": "MZUZU",
+   "Country": "MALAWI",
+   "elevationInFt": 4115,
+   "Geographic Location": "1126S 3401E"
+ },
+ {
+   "City Name": "ALOR SETAR",
+   "Airport Name": "SULTAN ABDUL HALIM",
+   "Country": "MALAYSIA & BRUNEI",
+   "elevationInFt": 15,
+   "Geographic Location": "0612N 10024E"
+ },
+ {
+   "City Name": "BRUNEI INTL.",
+   "Airport Name": "BANDAR SERI BEGAWAN",
+   "Country": "MALAYSIA & BRUNEI",
+   "elevationInFt": 73,
+   "Geographic Location": "0457N 11456E"
+ },
+ {
+   "City Name": "JOHOR BAHRU",
+   "Airport Name": "JOHOR BAHRU",
+   "Country": "MALAYSIA & BRUNEI",
+   "elevationInFt": 135,
+   "Geographic Location": "0138N 10340E"
+ },
+ {
+   "City Name": "KOTA BHARU",
+   "Airport Name": "SULTAN ISMAIL PETRA",
+   "Country": "MALAYSIA & BRUNEI",
+   "elevationInFt": 16,
+   "Geographic Location": "0610N 10218E"
+ },
+ {
+   "City Name": "KOTA KINBALU",
+   "Airport Name": "KOTA KINBALU",
+   "Country": "MALAYSIA & BRUNEI",
+   "elevationInFt": 10,
+   "Geographic Location": "0556N 11603E"
+ },
+ {
+   "City Name": "KUALA LUMPUR",
+   "Airport Name": "SIMPANG",
+   "Country": "MALAYSIA & BRUNEI",
+   "elevationInFt": 111,
+   "Geographic Location": "0307N 10142E"
+ },
+ {
+   "City Name": "KUALA LUMPUR INTL.",
+   "Airport Name": "KUALA LUMPUR INTL.",
+   "Country": "MALAYSIA & BRUNEI",
+   "elevationInFt": 89,
+   "Geographic Location": "0308N 10133E"
+ },
+ {
+   "City Name": "LABUAN",
+   "Airport Name": "LABUAN",
+   "Country": "MALAYSIA & BRUNEI",
+   "elevationInFt": 101,
+   "Geographic Location": "0518N 11515E"
+ },
+ {
+   "City Name": "MALE INTL.",
+   "Airport Name": "MALE INTL.",
+   "Country": "MALAYSIA & BRUNEI",
+   "elevationInFt": 4,
+   "Geographic Location": "0411N 7332E"
+ },
+ {
+   "City Name": "MIRI",
+   "Airport Name": "MIRI",
+   "Country": "MALAYSIA & BRUNEI",
+   "elevationInFt": 55,
+   "Geographic Location": "0420N 11359E"
+ },
+ {
+   "City Name": "PENANG INTL.",
+   "Airport Name": "PENANG INTL.",
+   "Country": "MALAYSIA & BRUNEI",
+   "elevationInFt": 11,
+   "Geographic Location": "0518N 10017E"
+ },
+ {
+   "City Name": "SIBU",
+   "Airport Name": "SIBU",
+   "Country": "MALAYSIA & BRUNEI",
+   "elevationInFt": 116,
+   "Geographic Location": "0216N 11159E"
+ },
+ {
+   "City Name": "TAWAU",
+   "Airport Name": "TAWAU",
+   "Country": "MALAYSIA & BRUNEI",
+   "elevationInFt": 74,
+   "Geographic Location": "0416N 11753E"
+ },
+ {
+   "City Name": "BAMAKO",
+   "Airport Name": "SENOU",
+   "Country": "MALI",
+   "elevationInFt": 1247,
+   "Geographic Location": "1232N 0757W"
+ },
+ {
+   "City Name": "MOPTI",
+   "Airport Name": "BARBE",
+   "Country": "MALI",
+   "elevationInFt": 905,
+   "Geographic Location": "1430N 0405W"
+ },
+ {
+   "City Name": "NIORO",
+   "Airport Name": "NIORO",
+   "Country": "MALI",
+   "elevationInFt": 778,
+   "Geographic Location": "1514N 0935W"
+ },
+ {
+   "City Name": "TOMBOUCTOU",
+   "Airport Name": "TOMBOUCTOU",
+   "Country": "MALI",
+   "elevationInFt": 863,
+   "Geographic Location": "1644N 0300W"
+ },
+ {
+   "City Name": "LUQA",
+   "Airport Name": "LUQA",
+   "Country": "MALTA",
+   "elevationInFt": 300,
+   "Geographic Location": "3552N 1429E"
+ },
+ {
+   "City Name": "NOUADHIBOU",
+   "Airport Name": "NOUADHIBOU",
+   "Country": "MAURITANIA",
+   "elevationInFt": 16,
+   "Geographic Location": "2056N 1702W"
+ },
+ {
+   "City Name": "NOUAKCHOTT",
+   "Airport Name": "NOUAKCHOTT",
+   "Country": "MAURITANIA",
+   "elevationInFt": 7,
+   "Geographic Location": "1806N 1557W"
+ },
+ {
+   "City Name": "PLAISANCE",
+   "Airport Name": "PLAISANCE INTL.",
+   "Country": "MAURITIUS",
+   "elevationInFt": 186,
+   "Geographic Location": "2026S 5741E"
+ },
+ {
+   "City Name": "ACAPULCO",
+   "Airport Name": "ACAPULCO INTL",
+   "Country": "MEXICO",
+   "elevationInFt": 16,
+   "Geographic Location": "1645N 9945W"
+ },
+ {
+   "City Name": "CAMPECHE",
+   "Airport Name": "CAMPECHE",
+   "Country": "MEXICO",
+   "elevationInFt": 33,
+   "Geographic Location": "1949N 9030W"
+ },
+ {
+   "City Name": "CANCUN",
+   "Airport Name": "CANCUN",
+   "Country": "MEXICO",
+   "elevationInFt": 23,
+   "Geographic Location": "2102N 8653W"
+ },
+ {
+   "City Name": "CHETUMAL",
+   "Airport Name": "CHETUMAL",
+   "Country": "MEXICO",
+   "elevationInFt": 39,
+   "Geographic Location": "1830N 8819W"
+ },
+ {
+   "City Name": "COZUMEL",
+   "Airport Name": "COZUMEL",
+   "Country": "MEXICO",
+   "elevationInFt": 16,
+   "Geographic Location": "2031N 8656W"
+ },
+ {
+   "City Name": "GUADALAJARA",
+   "Airport Name": "DOM MIGEL HIDALGO",
+   "Country": "MEXICO",
+   "elevationInFt": 5012,
+   "Geographic Location": "2031N 10319W"
+ },
+ {
+   "City Name": "IXTAPA-ZIHUATANEJO",
+   "Airport Name": "IXTAPA-ZIHUATANEJO",
+   "Country": "MEXICO",
+   "elevationInFt": 20,
+   "Geographic Location": "1736N 10128W"
+ },
+ {
+   "City Name": "MERIDA",
+   "Airport Name": "MERIDA",
+   "Country": "MEXICO",
+   "elevationInFt": 34,
+   "Geographic Location": "3206N 8940W"
+ },
+ {
+   "City Name": "MEXICO CITY",
+   "Airport Name": "B. JUAREZ INTL",
+   "Country": "MEXICO",
+   "elevationInFt": 7341,
+   "Geographic Location": "3193N 9904W"
+ },
+ {
+   "City Name": "TAMPICO",
+   "Airport Name": "TAMPICO",
+   "Country": "MEXICO",
+   "elevationInFt": 80,
+   "Geographic Location": "2217N 9752W"
+ },
+ {
+   "City Name": "AGADIR",
+   "Airport Name": "AL MASSIRAH",
+   "Country": "MOROCCO",
+   "elevationInFt": 230,
+   "Geographic Location": "3020N 0925W"
+ },
+ {
+   "City Name": "AL HOCEIMA",
+   "Airport Name": "COTE DU RIF",
+   "Country": "MOROCCO",
+   "elevationInFt": 89,
+   "Geographic Location": "3511N 0350W"
+ },
+ {
+   "City Name": "CASABLANCA ANFA",
+   "Airport Name": "ANFA",
+   "Country": "MOROCCO",
+   "elevationInFt": 203,
+   "Geographic Location": "3333N 0740W"
+ },
+ {
+   "City Name": "CASABLANCA INTL",
+   "Airport Name": "MOHAMED V",
+   "Country": "MOROCCO",
+   "elevationInFt": 656,
+   "Geographic Location": "3322N 0735W"
+ },
+ {
+   "City Name": "LAAYOUNE",
+   "Airport Name": "HASSAN IST",
+   "Country": "MOROCCO",
+   "elevationInFt": 207,
+   "Geographic Location": "2710N 1313W"
+ },
+ {
+   "City Name": "MARRAKECH",
+   "Airport Name": "MENARA",
+   "Country": "MOROCCO",
+   "elevationInFt": 1535,
+   "Geographic Location": "3137 0803W"
+ },
+ {
+   "City Name": "OUARZAZATE",
+   "Airport Name": "OUARZAZATE",
+   "Country": "MOROCCO",
+   "elevationInFt": 3737,
+   "Geographic Location": "3056N 0654W"
+ },
+ {
+   "City Name": "OUJDA",
+   "Airport Name": "ANGAD",
+   "Country": "MOROCCO",
+   "elevationInFt": 1535,
+   "Geographic Location": "3447N 0156W"
+ },
+ {
+   "City Name": "RABAT",
+   "Airport Name": "SALE",
+   "Country": "MOROCCO",
+   "elevationInFt": 276,
+   "Geographic Location": "3403N 0645W"
+ },
+ {
+   "City Name": "TANGIER",
+   "Airport Name": "BOUKHALF",
+   "Country": "MOROCCO",
+   "elevationInFt": 62,
+   "Geographic Location": "3543N 0555W"
+ },
+ {
+   "City Name": "TETOUAN",
+   "Airport Name": "SANIA RAMEL",
+   "Country": "MOROCCO",
+   "elevationInFt": 33,
+   "Geographic Location": "3535N 0519W"
+ },
+ {
+   "City Name": "BEIRA",
+   "Airport Name": "BEIRA",
+   "Country": "MOZAMBIQUE",
+   "elevationInFt": 33,
+   "Geographic Location": "1948S 3454E"
+ },
+ {
+   "City Name": "INHAMBANE",
+   "Airport Name": "INHAMBANE",
+   "Country": "MOZAMBIQUE",
+   "elevationInFt": 30,
+   "Geographic Location": "2352S 3525E"
+ },
+ {
+   "City Name": "MAPUTO",
+   "Airport Name": "MAPUTO",
+   "Country": "MOZAMBIQUE",
+   "elevationInFt": 144,
+   "Geographic Location": "2556S 3234E"
+ },
+ {
+   "City Name": "NAMPULA",
+   "Airport Name": "NAMPULA",
+   "Country": "MOZAMBIQUE",
+   "elevationInFt": 1444,
+   "Geographic Location": "1506S 3917E"
+ },
+ {
+   "City Name": "TETE",
+   "Airport Name": "CHINGODZI",
+   "Country": "MOZAMBIQUE",
+   "elevationInFt": 525,
+   "Geographic Location": "1606S 3338E"
+ },
+ {
+   "City Name": "VILANKULU",
+   "Airport Name": "VILANKULU",
+   "Country": "MOZAMBIQUE",
+   "elevationInFt": 46,
+   "Geographic Location": "2201S 3519E"
+ },
+ {
+   "City Name": "KATHMANDU",
+   "Airport Name": "TRIBHUVAN",
+   "Country": "NEPAL",
+   "elevationInFt": 4390,
+   "Geographic Location": "2742S 8522E"
+ },
+ {
+   "City Name": "AMSTERDAM",
+   "Airport Name": "SCHIPOL",
+   "Country": "NETHERLANDS",
+   "elevationInFt": -11,
+   "Geographic Location": "5218N 0446E"
+ },
+ {
+   "City Name": "EELDE",
+   "Airport Name": "GRONINGEN",
+   "Country": "NETHERLANDS",
+   "elevationInFt": 17,
+   "Geographic Location": "5308N 0635E"
+ },
+ {
+   "City Name": "EINDHOVEN",
+   "Airport Name": "EINDHOVEN",
+   "Country": "NETHERLANDS",
+   "elevationInFt": 74,
+   "Geographic Location": "5127N 0523E"
+ },
+ {
+   "City Name": "LELYSTAD",
+   "Airport Name": "LELYSTAD",
+   "Country": "NETHERLANDS",
+   "elevationInFt": -13,
+   "Geographic Location": "5228N 0532E"
+ },
+ {
+   "City Name": "MAASTRICHT",
+   "Airport Name": "MAASTRICHT",
+   "Country": "NETHERLANDS",
+   "elevationInFt": 376,
+   "Geographic Location": "5055N 0547E"
+ },
+ {
+   "City Name": "ROTTERDAM",
+   "Airport Name": "ROTTERDAM",
+   "Country": "NETHERLANDS",
+   "elevationInFt": -14,
+   "Geographic Location": "5157N 0426E"
+ },
+ {
+   "City Name": "AUCKLAND",
+   "Airport Name": "AUCKLAND INTL.",
+   "Country": "NEW ZEALAND",
+   "elevationInFt": 23,
+   "Geographic Location": "3701S 17447E"
+ },
+ {
+   "City Name": "CHRISTCHURCH",
+   "Airport Name": "CHRISTCHURCH INTL.",
+   "Country": "NEW ZEALAND",
+   "elevationInFt": 123,
+   "Geographic Location": "4329S 17232E"
+ },
+ {
+   "City Name": "WELLINGTON",
+   "Airport Name": "WELLINGTON INTL.",
+   "Country": "NEW ZEALAND",
+   "elevationInFt": 40,
+   "Geographic Location": "4120S 17448E"
+ },
+ {
+   "City Name": "AGADES",
+   "Airport Name": "SUD",
+   "Country": "NIGER",
+   "elevationInFt": 1656,
+   "Geographic Location": "1658N 0759E"
+ },
+ {
+   "City Name": "NIAMEY",
+   "Airport Name": "NIAMEY",
+   "Country": "NIGER",
+   "elevationInFt": 728,
+   "Geographic Location": "1329N 0210E"
+ },
+ {
+   "City Name": "ZINDER",
+   "Airport Name": "ZINDER",
+   "Country": "NIGER",
+   "elevationInFt": 1510,
+   "Geographic Location": "1347N 0859E"
+ },
+ {
+   "City Name": "CALABAR",
+   "Airport Name": "CALABAR",
+   "Country": "NIGERIA",
+   "elevationInFt": 211,
+   "Geographic Location": "0459N 0821E"
+ },
+ {
+   "City Name": "ENUGU",
+   "Airport Name": "ENUGU",
+   "Country": "NIGERIA",
+   "elevationInFt": 466,
+   "Geographic Location": "0628N 0734E"
+ },
+ {
+   "City Name": "IBADAN",
+   "Airport Name": "IBADAN (NEW)",
+   "Country": "NIGERIA",
+   "elevationInFt": 725,
+   "Geographic Location": "0722N 0359E"
+ },
+ {
+   "City Name": "ILORIN",
+   "Airport Name": "ILORIN",
+   "Country": "NIGERIA",
+   "elevationInFt": 1125,
+   "Geographic Location": "0826N 0430E"
+ },
+ {
+   "City Name": "JOS",
+   "Airport Name": "JOS",
+   "Country": "NIGERIA",
+   "elevationInFt": 4232,
+   "Geographic Location": "0938N 0852E"
+ },
+ {
+   "City Name": "KADUNA",
+   "Airport Name": "KADUNA (NEW)",
+   "Country": "NIGERIA",
+   "elevationInFt": 2073,
+   "Geographic Location": "1042N 0719E"
+ },
+ {
+   "City Name": "KANO",
+   "Airport Name": "MALLAM AMINU INTL.",
+   "Country": "NIGERIA",
+   "elevationInFt": 1565,
+   "Geographic Location": "1203N 0832E"
+ },
+ {
+   "City Name": "LAGOS",
+   "Airport Name": "MURTALA MUHAMMED",
+   "Country": "NIGERIA",
+   "elevationInFt": 135,
+   "Geographic Location": "0635N 0319E"
+ },
+ {
+   "City Name": "MAIDUGURI",
+   "Airport Name": "MAIDUGURI",
+   "Country": "NIGERIA",
+   "elevationInFt": 1102,
+   "Geographic Location": "1151N 1305E"
+ },
+ {
+   "City Name": "PORT HAIRCOURT",
+   "Airport Name": "PORT HAIRCOURT",
+   "Country": "NIGERIA",
+   "elevationInFt": 81,
+   "Geographic Location": "0501N 0657E"
+ },
+ {
+   "City Name": "SOKOTO",
+   "Airport Name": "SOKOTO",
+   "Country": "NIGERIA",
+   "elevationInFt": 1006,
+   "Geographic Location": "1255N 0512E"
+ },
+ {
+   "City Name": "YOLA",
+   "Airport Name": "YOLA",
+   "Country": "NIGERIA",
+   "elevationInFt": 599,
+   "Geographic Location": "0916N 1226E"
+ },
+ {
+   "City Name": "ALESUND",
+   "Airport Name": "VIGRA",
+   "Country": "NORWAY",
+   "elevationInFt": 71,
+   "Geographic Location": "6234N 0607E"
+ },
+ {
+   "City Name": "BERGEN",
+   "Airport Name": "FLESLAND",
+   "Country": "NORWAY",
+   "elevationInFt": 165,
+   "Geographic Location": "6018N 0513E"
+ },
+ {
+   "City Name": "FLORO",
+   "Airport Name": "FLORO",
+   "Country": "NORWAY",
+   "elevationInFt": 31,
+   "Geographic Location": "6135N 0502E"
+ },
+ {
+   "City Name": "HARSTAD NARVIK",
+   "Airport Name": "EVENES",
+   "Country": "NORWAY",
+   "elevationInFt": 85,
+   "Geographic Location": "6830N 1641E"
+ },
+ {
+   "City Name": "HAUGESUND",
+   "Airport Name": "KARMONY",
+   "Country": "NORWAY",
+   "elevationInFt": 77,
+   "Geographic Location": "5921N 0513E"
+ },
+ {
+   "City Name": "KIRKENES",
+   "Airport Name": "HOYBUKTMOEN",
+   "Country": "NORWAY",
+   "elevationInFt": 299,
+   "Geographic Location": "6944N 2954E"
+ },
+ {
+   "City Name": "KRISTIANSAND KJEVIK",
+   "Airport Name": "KJEVIK",
+   "Country": "NORWAY",
+   "elevationInFt": 57,
+   "Geographic Location": "5812N 0805E"
+ },
+ {
+   "City Name": "KRISTIANSAND KVERNBERGET",
+   "Airport Name": "KVERNBERGET",
+   "Country": "NORWAY",
+   "elevationInFt": 204,
+   "Geographic Location": "6307N 0750E"
+ },
+ {
+   "City Name": "OSLO FORNEBU",
+   "Airport Name": "FORNEBU",
+   "Country": "NORWAY",
+   "elevationInFt": 54,
+   "Geographic Location": "5954N 1037E"
+ },
+ {
+   "City Name": "OSLO GARDERMOEN",
+   "Airport Name": "GARDERMOEN",
+   "Country": "NORWAY",
+   "elevationInFt": 672,
+   "Geographic Location": "6012N 1105E"
+ },
+ {
+   "City Name": "STAVANGER",
+   "Airport Name": "SOLA",
+   "Country": "NORWAY",
+   "elevationInFt": 29,
+   "Geographic Location": "5853N 0538E"
+ },
+ {
+   "City Name": "TORP",
+   "Airport Name": "TORP",
+   "Country": "NORWAY",
+   "elevationInFt": 285,
+   "Geographic Location": "5911N 1016E"
+ },
+ {
+   "City Name": "TROMSO",
+   "Airport Name": "TROMSO",
+   "Country": "NORWAY",
+   "elevationInFt": 29,
+   "Geographic Location": "6941N 1855E"
+ },
+ {
+   "City Name": "MUSCAT",
+   "Airport Name": "SEEB",
+   "Country": "OMAN",
+   "elevationInFt": 48,
+   "Geographic Location": "2336N 5817E"
+ },
+ {
+   "City Name": "SALALAH",
+   "Airport Name": "SALALAH",
+   "Country": "OMAN",
+   "elevationInFt": 73,
+   "Geographic Location": "1702N 5406E"
+ },
+ {
+   "City Name": "ISLAMABAD",
+   "Airport Name": "CHAKLALA",
+   "Country": "PAKISTAN",
+   "elevationInFt": 1668,
+   "Geographic Location": "3337N 7306E"
+ },
+ {
+   "City Name": "KARACHI",
+   "Airport Name": "KARACHI",
+   "Country": "PAKISTAN",
+   "elevationInFt": 100,
+   "Geographic Location": "2454N 6709E"
+ },
+ {
+   "City Name": "LAHORE",
+   "Airport Name": "LAHORE",
+   "Country": "PAKISTAN",
+   "elevationInFt": 700,
+   "Geographic Location": "3131N 7424E"
+ },
+ {
+   "City Name": "NAWABSHAH",
+   "Airport Name": "NAWABSHAH",
+   "Country": "PAKISTAN",
+   "elevationInFt": 93,
+   "Geographic Location": "2613N 6823E"
+ },
+ {
+   "City Name": "PORT MORESBY",
+   "Airport Name": "JACKSONS",
+   "Country": "PAPUA NEW GUINEA",
+   "elevationInFt": 126,
+   "Geographic Location": "0927S 14713E"
+ },
+ {
+   "City Name": "MACTAN",
+   "Airport Name": "LAPU LAPU",
+   "Country": "PHILIPPINES",
+   "elevationInFt": 33,
+   "Geographic Location": "1018N 12358E"
+ },
+ {
+   "City Name": "MANILA INTL.",
+   "Airport Name": "MANILA INTL.",
+   "Country": "PHILIPPINES",
+   "elevationInFt": 75,
+   "Geographic Location": "1431N 12101E"
+ },
+ {
+   "City Name": "GDANSK",
+   "Airport Name": "GDANSK",
+   "Country": "POLAND",
+   "elevationInFt": 487,
+   "Geographic Location": "5423N 1828E"
+ },
+ {
+   "City Name": "KRAKOW",
+   "Airport Name": "KRAKOW",
+   "Country": "POLAND",
+   "elevationInFt": 791,
+   "Geographic Location": "5005N 1947E"
+ },
+ {
+   "City Name": "POZNAN",
+   "Airport Name": "POZNAN",
+   "Country": "POLAND",
+   "elevationInFt": 308,
+   "Geographic Location": "5225N 1650E"
+ },
+ {
+   "City Name": "WARSAW",
+   "Airport Name": "OKECIE",
+   "Country": "POLAND",
+   "elevationInFt": 361,
+   "Geographic Location": "5210N 2058E"
+ },
+ {
+   "City Name": "FARO",
+   "Airport Name": "FARO",
+   "Country": "PORTUGAL",
+   "elevationInFt": 24,
+   "Geographic Location": "3701N 0758W"
+ },
+ {
+   "City Name": "LISBON",
+   "Airport Name": "LISBON",
+   "Country": "PORTUGAL",
+   "elevationInFt": 374,
+   "Geographic Location": "3846N 0908W"
+ },
+ {
+   "City Name": "OPORTO",
+   "Airport Name": "FRANCISCO SA CARNEIRO",
+   "Country": "PORTUGAL",
+   "elevationInFt": 228,
+   "Geographic Location": "4114N 0841W"
+ },
+ {
+   "City Name": "SAN JUAN",
+   "Airport Name": "LUIS MUNOZ MARIN INTL",
+   "Country": "PUERTO RICO",
+   "elevationInFt": 10,
+   "Geographic Location": "1826N 6600W"
+ },
+ {
+   "City Name": "DOHA",
+   "Airport Name": "DOHA",
+   "Country": "QATAR",
+   "elevationInFt": 35,
+   "Geographic Location": "2516N 5134E"
+ },
+ {
+   "City Name": "BUCHAREST BANEASA",
+   "Airport Name": "BANEASA",
+   "Country": "ROMANIA",
+   "elevationInFt": 295,
+   "Geographic Location": "4430N 2606E"
+ },
+ {
+   "City Name": "BUCHAREST OTOPENI",
+   "Airport Name": "OTOPENI",
+   "Country": "ROMANIA",
+   "elevationInFt": 312,
+   "Geographic Location": "4434N 2606E"
+ },
+ {
+   "City Name": "CONSTANTA",
+   "Airport Name": "KOGAINICEANU",
+   "Country": "ROMANIA",
+   "elevationInFt": 354,
+   "Geographic Location": "4422N 2829E"
+ },
+ {
+   "City Name": "TIMISOARA",
+   "Airport Name": "GIARMATA",
+   "Country": "ROMANIA",
+   "elevationInFt": 348,
+   "Geographic Location": "4549N 2120E"
+ },
+ {
+   "City Name": "KHABARAOVSK",
+   "Airport Name": "NOVY",
+   "Country": "RUSSIA",
+   "elevationInFt": 246,
+   "Geographic Location": "4832N 13511E"
+ },
+ {
+   "City Name": "MOSCOW SHREMETIEVO",
+   "Airport Name": "SHEREMETIEVO",
+   "Country": "RUSSIA",
+   "elevationInFt": 627,
+   "Geographic Location": "5558N 3725E"
+ },
+ {
+   "City Name": "MOSCOW VNUKOVO",
+   "Airport Name": "VNUKOVO",
+   "Country": "RUSSIA",
+   "elevationInFt": 686,
+   "Geographic Location": "5536N 3717E"
+ },
+ {
+   "City Name": "NOVOSIBIRSK",
+   "Airport Name": "TOLMACHEVO",
+   "Country": "RUSSIA",
+   "elevationInFt": 364,
+   "Geographic Location": "5501N 8240E"
+ },
+ {
+   "City Name": "ORENBURG",
+   "Airport Name": "TSENTRALNY",
+   "Country": "RUSSIA",
+   "elevationInFt": 387,
+   "Geographic Location": "5148N 5527E"
+ },
+ {
+   "City Name": "SAMARA",
+   "Airport Name": "KURUMOCH",
+   "Country": "RUSSIA",
+   "elevationInFt": 479,
+   "Geographic Location": "3530N 5010E"
+ },
+ {
+   "City Name": "ST. PETERSBURG",
+   "Airport Name": "PULKOVO",
+   "Country": "RUSSIA",
+   "elevationInFt": 79,
+   "Geographic Location": "5948N 3016E"
+ },
+ {
+   "City Name": "TVER",
+   "Airport Name": "MIGALOVO",
+   "Country": "RUSSIA",
+   "elevationInFt": 469,
+   "Geographic Location": "5649N 3545E"
+ },
+ {
+   "City Name": "YAKUTSK",
+   "Airport Name": "YAKUTSK",
+   "Country": "RUSSIA",
+   "elevationInFt": 325,
+   "Geographic Location": "6205N 12946E"
+ },
+ {
+   "City Name": "SAO TOME",
+   "Airport Name": "SAO TOME",
+   "Country": "SAO TOME & PRINCIPE",
+   "elevationInFt": 33,
+   "Geographic Location": "0023N 0643E"
+ },
+ {
+   "City Name": "ABHA",
+   "Airport Name": "ABHA",
+   "Country": "SAUDI ARABIA",
+   "elevationInFt": 6858,
+   "Geographic Location": "1814N 4239E"
+ },
+ {
+   "City Name": "AL JOUF",
+   "Airport Name": "AL JOUF",
+   "Country": "SAUDI ARABIA",
+   "elevationInFt": 2261,
+   "Geographic Location": "2947N 4006E"
+ },
+ {
+   "City Name": "ARAR",
+   "Airport Name": "BADANAH",
+   "Country": "SAUDI ARABIA",
+   "elevationInFt": 1813,
+   "Geographic Location": "3054N 4108E"
+ },
+ {
+   "City Name": "DHARAN",
+   "Airport Name": "DHARAN",
+   "Country": "SAUDI ARABIA",
+   "elevationInFt": 84,
+   "Geographic Location": "2617N 5010E"
+ },
+ {
+   "City Name": "GASSIM",
+   "Airport Name": "GASSIM",
+   "Country": "SAUDI ARABIA",
+   "elevationInFt": 2126,
+   "Geographic Location": "2618N 4346E"
+ },
+ {
+   "City Name": "HAFR-AL-BATIN",
+   "Airport Name": "HAFR-AL-BATIN",
+   "Country": "SAUDI ARABIA",
+   "elevationInFt": 1175,
+   "Geographic Location": "2820N 4607E"
+ },
+ {
+   "City Name": "HAIL",
+   "Airport Name": "HAIL",
+   "Country": "SAUDI ARABIA",
+   "elevationInFt": 3331,
+   "Geographic Location": "2726N 4141E"
+ },
+ {
+   "City Name": "JEDDAH",
+   "Airport Name": "KING ABDULAZIZ",
+   "Country": "SAUDI ARABIA",
+   "elevationInFt": 48,
+   "Geographic Location": "2141N 3909E"
+ },
+ {
+   "City Name": "MADINAH",
+   "Airport Name": "MADINAH",
+   "Country": "SAUDI ARABIA",
+   "elevationInFt": 2150,
+   "Geographic Location": "2433N 3942E"
+ },
+ {
+   "City Name": "RIYADH",
+   "Airport Name": "KING KHALID INTL.",
+   "Country": "SAUDI ARABIA",
+   "elevationInFt": 2049,
+   "Geographic Location": "2458N 4643E"
+ },
+ {
+   "City Name": "TAIF",
+   "Airport Name": "TAIF",
+   "Country": "SAUDI ARABIA",
+   "elevationInFt": 4848,
+   "Geographic Location": "2129N 4033E"
+ },
+ {
+   "City Name": "TURAIF",
+   "Airport Name": "TURAIF",
+   "Country": "SAUDI ARABIA",
+   "elevationInFt": 2803,
+   "Geographic Location": "3142N 3843E"
+ },
+ {
+   "City Name": "WEJH",
+   "Airport Name": "WEJH",
+   "Country": "SAUDI ARABIA",
+   "elevationInFt": 66,
+   "Geographic Location": "2612N 3629E"
+ },
+ {
+   "City Name": "DAKAR",
+   "Airport Name": "YOFF",
+   "Country": "SENEGAL",
+   "elevationInFt": 89,
+   "Geographic Location": "1445N 1730W"
+ },
+ {
+   "City Name": "SEYCHLLES",
+   "Airport Name": "SEYCHELLES INTL.",
+   "Country": "SEYCHELLES",
+   "elevationInFt": 10,
+   "Geographic Location": "0440S 5531E"
+ },
+ {
+   "City Name": "FREETOWN",
+   "Airport Name": "LUNGI",
+   "Country": "SIERRA LEONE",
+   "elevationInFt": 84,
+   "Geographic Location": "0837N 1312W"
+ },
+ {
+   "City Name": "SINGAPORE CHANGI",
+   "Airport Name": "CHANGI",
+   "Country": "SINGAPORE",
+   "elevationInFt": 23,
+   "Geographic Location": "0122N 10359E"
+ },
+ {
+   "City Name": "SINGAPORE PAYA LEBAR",
+   "Airport Name": "PAYA LEBAR",
+   "Country": "SINGAPORE",
+   "elevationInFt": 65,
+   "Geographic Location": "0121N 10354E"
+ },
+ {
+   "City Name": "BRATISLAVA",
+   "Airport Name": "IVANKA",
+   "Country": "SLOVAK REPUBLIC",
+   "elevationInFt": 436,
+   "Geographic Location": "4810N 1713E"
+ },
+ {
+   "City Name": "KOSICE",
+   "Airport Name": "KOSICE",
+   "Country": "SLOVAK REPUBLIC",
+   "elevationInFt": 755,
+   "Geographic Location": "4840N 2115E"
+ },
+ {
+   "City Name": "POPRAD",
+   "Airport Name": "TATRY",
+   "Country": "SLOVAK REPUBLIC",
+   "elevationInFt": 2349,
+   "Geographic Location": "4904N 2015E"
+ },
+ {
+   "City Name": "LJUBLJANA",
+   "Airport Name": "LJUBLJANA",
+   "Country": "SLOVENIA",
+   "elevationInFt": 1274,
+   "Geographic Location": "4613N 1428E"
+ },
+ {
+   "City Name": "MARIBOR",
+   "Airport Name": "MARIBOR",
+   "Country": "SLOVENIA",
+   "elevationInFt": 876,
+   "Geographic Location": "4629N 1541E"
+ },
+ {
+   "City Name": "KISMAYU",
+   "Airport Name": "KISMAYU",
+   "Country": "SOMALIA REPUBLIC",
+   "elevationInFt": 50,
+   "Geographic Location": "0021S 4228E"
+ },
+ {
+   "City Name": "MOGADISHU",
+   "Airport Name": "MOGADISHU",
+   "Country": "SOMALIA REPUBLIC",
+   "elevationInFt": 27,
+   "Geographic Location": "0200N 4518E"
+ },
+ {
+   "City Name": "BEAUFORT WEST",
+   "Airport Name": "BEAUFORT WEST",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 2929,
+   "Geographic Location": "3218S 2240E"
+ },
+ {
+   "City Name": "BETHLEHEM",
+   "Airport Name": "BETHLEHEM",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 5545,
+   "Geographic Location": "2815S 2820E"
+ },
+ {
+   "City Name": "BISHO",
+   "Airport Name": "BISHO",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 1950,
+   "Geographic Location": "3254S 2717E"
+ },
+ {
+   "City Name": "BLOEMFONTEIN",
+   "Airport Name": "J.B.M. HERZOG",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 4458,
+   "Geographic Location": "2906S 2618E"
+ },
+ {
+   "City Name": "CAPE TOWN",
+   "Airport Name": "D.F. MALAN",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 151,
+   "Geographic Location": "3358S 1836E"
+ },
+ {
+   "City Name": "DURBAN LOUIS BOTHA",
+   "Airport Name": "LOUIS BOTHA",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 25,
+   "Geographic Location": "2958S 3057E"
+ },
+ {
+   "City Name": "DURBAN VIRGINIA",
+   "Airport Name": "VIRGINIA",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 20,
+   "Geographic Location": "2946S 3104E"
+ },
+ {
+   "City Name": "EAST LONDON",
+   "Airport Name": "EAST LONDON",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 431,
+   "Geographic Location": "3302S 2749E"
+ },
+ {
+   "City Name": "FICKSBURG",
+   "Airport Name": "FICKSBURG",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 5315,
+   "Geographic Location": "2850S 2755E"
+ },
+ {
+   "City Name": "GEORGE",
+   "Airport Name": "P.W. BOTHA",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 649,
+   "Geographic Location": "3400S 2222E"
+ },
+ {
+   "City Name": "GIYANI",
+   "Airport Name": "GIYANI",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 1575,
+   "Geographic Location": "2317S 3039E"
+ },
+ {
+   "City Name": "GRAHAMSTOWN",
+   "Airport Name": "GRAHAMSTOWN",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 2135,
+   "Geographic Location": "3317S 2630E"
+ },
+ {
+   "City Name": "GRAND CENTRAL",
+   "Airport Name": "GRAND CENTRAL",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 5327,
+   "Geographic Location": "2559S 2809E"
+ },
+ {
+   "City Name": "GROOTFONTEIN",
+   "Airport Name": "GROOTFONTEIN",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 4618,
+   "Geographic Location": "1936S 1808E"
+ },
+ {
+   "City Name": "HEIDELBERG",
+   "Airport Name": "HEIDELBERG",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 5119,
+   "Geographic Location": "2631S 2822E"
+ },
+ {
+   "City Name": "HEILBRON",
+   "Airport Name": "HEILBRON",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 5200,
+   "Geographic Location": "2717S 2759E"
+ },
+ {
+   "City Name": "JOHANNESBURG INTL",
+   "Airport Name": "JAN SMUTS",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 5557,
+   "Geographic Location": "2608S 2815E"
+ },
+ {
+   "City Name": "JOHANNESBURG RAND",
+   "Airport Name": "RAND",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 5474,
+   "Geographic Location": "2614S 2809E"
+ },
+ {
+   "City Name": "KEETMANSHOOP",
+   "Airport Name": "KEETMANSHOOP",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 3507,
+   "Geographic Location": "2632S 1807E"
+ },
+ {
+   "City Name": "KIGALI",
+   "Airport Name": "RWANDA",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 4892,
+   "Geographic Location": "0158S 3008E"
+ },
+ {
+   "City Name": "KIMBERLEY",
+   "Airport Name": "B.J. VORSTER",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 3949,
+   "Geographic Location": "2848S 2446E"
+ },
+ {
+   "City Name": "KLEINSEE",
+   "Airport Name": "KLEINSEE",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 265,
+   "Geographic Location": "2941S 1706E"
+ },
+ {
+   "City Name": "KOMATIPOORT",
+   "Airport Name": "KOMATIPOORT",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 500,
+   "Geographic Location": "2526S 3156E"
+ },
+ {
+   "City Name": "KROONSTAD",
+   "Airport Name": "KROONSTAD",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 4700,
+   "Geographic Location": "2740S 2719E"
+ },
+ {
+   "City Name": "LADYSMITH",
+   "Airport Name": "LADYSMITH",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 3546,
+   "Geographic Location": "2835S 2945E"
+ },
+ {
+   "City Name": "LANSERIA",
+   "Airport Name": "LANSERIA",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 4517,
+   "Geographic Location": "2555S 2756E"
+ },
+ {
+   "City Name": "LICHTENBURG",
+   "Airport Name": "LICHTENBURG",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 4875,
+   "Geographic Location": "2610S 2611E"
+ },
+ {
+   "City Name": "LUDERITZ",
+   "Airport Name": "LUDERITZ",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 426,
+   "Geographic Location": "2641S 1515E"
+ },
+ {
+   "City Name": "LYDENBURG",
+   "Airport Name": "LYDENBURG",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 4820,
+   "Geographic Location": "2506S 3025E"
+ },
+ {
+   "City Name": "MALELANE",
+   "Airport Name": "MALELANE",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 1155,
+   "Geographic Location": "2528S 3134E"
+ },
+ {
+   "City Name": "MARGATE",
+   "Airport Name": "MARGATE",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 495,
+   "Geographic Location": "3051S 3021E"
+ },
+ {
+   "City Name": "MESSINA",
+   "Airport Name": "MESSINA",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 1881,
+   "Geographic Location": "2222S 2959E"
+ },
+ {
+   "City Name": "MMABATHO",
+   "Airport Name": "MMABATHO",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 4187,
+   "Geographic Location": "2548S 2533E"
+ },
+ {
+   "City Name": "NELSPRUIT",
+   "Airport Name": "NELSPRUIT",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 2800,
+   "Geographic Location": "2530S 3055E"
+ },
+ {
+   "City Name": "NEWCASTLE SA",
+   "Airport Name": "NEWCASTLE",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 4105,
+   "Geographic Location": "2746S 2959E"
+ },
+ {
+   "City Name": "OTJIWARONGO",
+   "Airport Name": "OTJIWARONGO",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 3592,
+   "Geographic Location": "1753S 1558E"
+ },
+ {
+   "City Name": "PHALABORWA",
+   "Airport Name": "HENDRICK VAN ECK",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 1427,
+   "Geographic Location": "2356S 3109E"
+ },
+ {
+   "City Name": "PIET RETIEF",
+   "Airport Name": "PIET RETIEF",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 4420,
+   "Geographic Location": "2700S 3050E"
+ },
+ {
+   "City Name": "PIETERMARITZBURG",
+   "Airport Name": "PIETERMARITZBURG",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 2425,
+   "Geographic Location": "2939S 3024E"
+ },
+ {
+   "City Name": "PIETERSBURG",
+   "Airport Name": "PIETERSBURG (CIVIL)",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 4354,
+   "Geographic Location": "2355S 2929E"
+ },
+ {
+   "City Name": "PILANESBERG",
+   "Airport Name": "SUN CITY",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 3410,
+   "Geographic Location": "2520S 2710E"
+ },
+ {
+   "City Name": "PLETTENBERG BAY",
+   "Airport Name": "PLETTENBERG BAY",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 456,
+   "Geographic Location": "3405S 2319E"
+ },
+ {
+   "City Name": "PORT ELIZABETH",
+   "Airport Name": "PORT ELIZABETH",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 225,
+   "Geographic Location": "3359S 2537E"
+ },
+ {
+   "City Name": "PRETORIA",
+   "Airport Name": "WONDERBROOM",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 4095,
+   "Geographic Location": "2539S 2813E"
+ },
+ {
+   "City Name": "QUEENSTOWN",
+   "Airport Name": "QUEENSTOWN",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 3637,
+   "Geographic Location": "3155S 2653E"
+ },
+ {
+   "City Name": "RICHARDS BAY",
+   "Airport Name": "RICHARDS BAY",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 108,
+   "Geographic Location": "2844S 3206E"
+ },
+ {
+   "City Name": "SISHEN",
+   "Airport Name": "SISHEN",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 3848,
+   "Geographic Location": "2739S 2300E"
+ },
+ {
+   "City Name": "THABA NCHU",
+   "Airport Name": "THABA NCHU",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 4931,
+   "Geographic Location": "2919S 2649E"
+ },
+ {
+   "City Name": "ULUNDI",
+   "Airport Name": "ULUNDI",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 1723,
+   "Geographic Location": "2819S 3125E"
+ },
+ {
+   "City Name": "UPINGTON",
+   "Airport Name": "PIERRE VAN RYNEVELD",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 2790,
+   "Geographic Location": "2824S 2116E"
+ },
+ {
+   "City Name": "VEREENIGING",
+   "Airport Name": "VEREENIGING",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 4846,
+   "Geographic Location": "2635S 2758E"
+ },
+ {
+   "City Name": "VICTORIA WEST",
+   "Airport Name": "VICTORIA WEST",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 4122,
+   "Geographic Location": "3124S 2309E"
+ },
+ {
+   "City Name": "VRYHEID",
+   "Airport Name": "VRYHEID",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 3800,
+   "Geographic Location": "2747S 3048E"
+ },
+ {
+   "City Name": "WELKOM",
+   "Airport Name": "WELKOM",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 4399,
+   "Geographic Location": "2800S 2640E"
+ },
+ {
+   "City Name": "WINDHOEK EROS",
+   "Airport Name": "EROS",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 5584,
+   "Geographic Location": "2237S 1705E"
+ },
+ {
+   "City Name": "WINDHOEK INTL",
+   "Airport Name": "WINDHOEK INTL.",
+   "Country": "SOUTH AFRICA",
+   "elevationInFt": 5640,
+   "Geographic Location": "2229S 1728E"
+ },
+ {
+   "City Name": "CHEJU",
+   "Airport Name": "CHEJU INTL.",
+   "Country": "SOUTH KOREA",
+   "elevationInFt": 118,
+   "Geographic Location": "3330N 12630E"
+ },
+ {
+   "City Name": "PUSAN",
+   "Airport Name": "KIMHAE INTL.",
+   "Country": "SOUTH KOREA",
+   "elevationInFt": 13,
+   "Geographic Location": "3511N 12856E"
+ },
+ {
+   "City Name": "SEOUL",
+   "Airport Name": "KIMPO INTL.",
+   "Country": "SOUTH KOREA",
+   "elevationInFt": 58,
+   "Geographic Location": "3733N 12648E"
+ },
+ {
+   "City Name": "ALICANTE",
+   "Airport Name": "ALICANTE",
+   "Country": "SPAIN",
+   "elevationInFt": 141,
+   "Geographic Location": "3817N 0034W"
+ },
+ {
+   "City Name": "ALMERIA",
+   "Airport Name": "ALMERIA",
+   "Country": "SPAIN",
+   "elevationInFt": 72,
+   "Geographic Location": "3651N 0222W"
+ },
+ {
+   "City Name": "ASTURIAS",
+   "Airport Name": "ASTURIAS",
+   "Country": "SPAIN",
+   "elevationInFt": 417,
+   "Geographic Location": "4334N 0602W"
+ },
+ {
+   "City Name": "BARCELONA",
+   "Airport Name": "BARCELONA",
+   "Country": "SPAIN",
+   "elevationInFt": 13,
+   "Geographic Location": "4118N 0205W"
+ },
+ {
+   "City Name": "BILBAO",
+   "Airport Name": "BILBAO",
+   "Country": "SPAIN",
+   "elevationInFt": 138,
+   "Geographic Location": "4318N 0256W"
+ },
+ {
+   "City Name": "CORDOBA",
+   "Airport Name": "CORDOBA",
+   "Country": "SPAIN",
+   "elevationInFt": 295,
+   "Geographic Location": "3751N 0451W"
+ },
+ {
+   "City Name": "GERONA",
+   "Airport Name": "GERONA",
+   "Country": "SPAIN",
+   "elevationInFt": 469,
+   "Geographic Location": "4154N 0246E"
+ },
+ {
+   "City Name": "GRANDA",
+   "Airport Name": "GRANDA",
+   "Country": "SPAIN",
+   "elevationInFt": 1860,
+   "Geographic Location": "3711N 0347W"
+ },
+ {
+   "City Name": "IBIZA",
+   "Airport Name": "IBIZA",
+   "Country": "SPAIN",
+   "elevationInFt": 23,
+   "Geographic Location": "3852N 0122E"
+ },
+ {
+   "City Name": "JEREZ",
+   "Airport Name": "JEREZ",
+   "Country": "SPAIN",
+   "elevationInFt": 92,
+   "Geographic Location": "3645N 0604W"
+ },
+ {
+   "City Name": "LA CORUNA",
+   "Airport Name": "LA CORUNA",
+   "Country": "SPAIN",
+   "elevationInFt": 328,
+   "Geographic Location": "4318N 0823W"
+ },
+ {
+   "City Name": "MADRID BARAJAS",
+   "Airport Name": "BARAJAS",
+   "Country": "SPAIN",
+   "elevationInFt": 1999,
+   "Geographic Location": "4029N 0334W"
+ },
+ {
+   "City Name": "MADRID GETAFE",
+   "Airport Name": "GETAFE",
+   "Country": "SPAIN",
+   "elevationInFt": 2028,
+   "Geographic Location": "4018N 0343W"
+ },
+ {
+   "City Name": "MALAGA",
+   "Airport Name": "MALAGA",
+   "Country": "SPAIN",
+   "elevationInFt": 52,
+   "Geographic Location": "3640N 0430W"
+ },
+ {
+   "City Name": "MINORCA",
+   "Airport Name": "MINORCA",
+   "Country": "SPAIN",
+   "elevationInFt": 290,
+   "Geographic Location": "3952N 0413E"
+ },
+ {
+   "City Name": "PALMA",
+   "Airport Name": "PALMA",
+   "Country": "SPAIN",
+   "elevationInFt": 32,
+   "Geographic Location": "3933N 0244E"
+ },
+ {
+   "City Name": "PAMPLONA",
+   "Airport Name": "PAMPLONA",
+   "Country": "SPAIN",
+   "elevationInFt": 1506,
+   "Geographic Location": "4246N 0139W"
+ },
+ {
+   "City Name": "REUS",
+   "Airport Name": "REUS",
+   "Country": "SPAIN",
+   "elevationInFt": 233,
+   "Geographic Location": "4109N 0110E"
+ },
+ {
+   "City Name": "SALAMANCA",
+   "Airport Name": "SALAMANCA",
+   "Country": "SPAIN",
+   "elevationInFt": 2602,
+   "Geographic Location": "4057N 0530W"
+ },
+ {
+   "City Name": "SAN SEBASTIAN",
+   "Airport Name": "SAN SEBASTIAN",
+   "Country": "SPAIN",
+   "elevationInFt": 16,
+   "Geographic Location": "4321N 0147W"
+ },
+ {
+   "City Name": "SANTANDER",
+   "Airport Name": "SANTANDER",
+   "Country": "SPAIN",
+   "elevationInFt": 20,
+   "Geographic Location": "4326N 0349W"
+ },
+ {
+   "City Name": "SANTIAGO",
+   "Airport Name": "SANTIAGO",
+   "Country": "SPAIN",
+   "elevationInFt": 1214,
+   "Geographic Location": "4254N 0825W"
+ },
+ {
+   "City Name": "SEVILLE",
+   "Airport Name": "SEVILLE",
+   "Country": "SPAIN",
+   "elevationInFt": 112,
+   "Geographic Location": "3725N 0554W"
+ },
+ {
+   "City Name": "VALENCIA",
+   "Airport Name": "VALENCIA",
+   "Country": "SPAIN",
+   "elevationInFt": 226,
+   "Geographic Location": "3929N 0029W"
+ },
+ {
+   "City Name": "VIGO",
+   "Airport Name": "VIGO",
+   "Country": "SPAIN",
+   "elevationInFt": 860,
+   "Geographic Location": "4214N 0838W"
+ },
+ {
+   "City Name": "VITORIA",
+   "Airport Name": "VITORIA",
+   "Country": "SPAIN",
+   "elevationInFt": 1682,
+   "Geographic Location": "4253N 0243W"
+ },
+ {
+   "City Name": "COLOMBO INTL",
+   "Airport Name": "KATUNAYAKE",
+   "Country": "SRI LANKA",
+   "elevationInFt": 30,
+   "Geographic Location": "0711N 7953E"
+ },
+ {
+   "City Name": "COLOMBO RATMALANA",
+   "Airport Name": "RATMALANA",
+   "Country": "SRI LANKA",
+   "elevationInFt": 22,
+   "Geographic Location": "0649N 7953E"
+ },
+ {
+   "City Name": "JAFFNA",
+   "Airport Name": "JAFFNA",
+   "Country": "SRI LANKA",
+   "elevationInFt": 33,
+   "Geographic Location": "0948N 8004E"
+ },
+ {
+   "City Name": "GENEINA",
+   "Airport Name": "GENEINA",
+   "Country": "SUDAN",
+   "elevationInFt": 2650,
+   "Geographic Location": "1329N 2227E"
+ },
+ {
+   "City Name": "JUBA",
+   "Airport Name": "JUBA",
+   "Country": "SUDAN",
+   "elevationInFt": 1509,
+   "Geographic Location": "0452N 3136E"
+ },
+ {
+   "City Name": "KHARTOUM",
+   "Airport Name": "KHARTOUM",
+   "Country": "SUDAN",
+   "elevationInFt": 1261,
+   "Geographic Location": "1535N 3233E"
+ },
+ {
+   "City Name": "MATSAPHA",
+   "Airport Name": "MANZINI",
+   "Country": "SWAZILAND",
+   "elevationInFt": 2075,
+   "Geographic Location": "2631S 3119E"
+ },
+ {
+   "City Name": "ANGELHOLM",
+   "Airport Name": "ANGELHOLM",
+   "Country": "SWEDEN",
+   "elevationInFt": 65,
+   "Geographic Location": "5617N 1251E"
+ },
+ {
+   "City Name": "BORLANGE",
+   "Airport Name": "BORLANGE",
+   "Country": "SWEDEN",
+   "elevationInFt": 503,
+   "Geographic Location": "6025N 1531E"
+ },
+ {
+   "City Name": "GOTHENBURG",
+   "Airport Name": "SAVE",
+   "Country": "SWEDEN",
+   "elevationInFt": 66,
+   "Geographic Location": "5747N 1152E"
+ },
+ {
+   "City Name": "JONKOPING",
+   "Airport Name": "JONKOPING",
+   "Country": "SWEDEN",
+   "elevationInFt": 741,
+   "Geographic Location": "5746N 1404E"
+ },
+ {
+   "City Name": "KALMAR",
+   "Airport Name": "KALMAR",
+   "Country": "SWEDEN",
+   "elevationInFt": 21,
+   "Geographic Location": "5641N 1617E"
+ },
+ {
+   "City Name": "KARLSTAD",
+   "Airport Name": "KARLSTAD",
+   "Country": "SWEDEN",
+   "elevationInFt": 152,
+   "Geographic Location": "5922N 1328E"
+ },
+ {
+   "City Name": "MALMO",
+   "Airport Name": "STURUP",
+   "Country": "SWEDEN",
+   "elevationInFt": 236,
+   "Geographic Location": "5533N 1322E"
+ },
+ {
+   "City Name": "MORA",
+   "Airport Name": "SILJAN",
+   "Country": "SWEDEN",
+   "elevationInFt": 633,
+   "Geographic Location": "6058N 1431E"
+ },
+ {
+   "City Name": "NORKOPING",
+   "Airport Name": "KUNGSANGEN",
+   "Country": "SWEDEN",
+   "elevationInFt": 17,
+   "Geographic Location": "5835N 1615E"
+ },
+ {
+   "City Name": "OREBRO",
+   "Airport Name": "OREBRO",
+   "Country": "SWEDEN",
+   "elevationInFt": 187,
+   "Geographic Location": "5914N 1503E"
+ },
+ {
+   "City Name": "STOCKHOLM ARLANDA",
+   "Airport Name": "ARLANDA",
+   "Country": "SWEDEN",
+   "elevationInFt": 123,
+   "Geographic Location": "5939N 1755E"
+ },
+ {
+   "City Name": "STOCKHOLM BROMA",
+   "Airport Name": "BROMMA",
+   "Country": "SWEDEN",
+   "elevationInFt": 46,
+   "Geographic Location": "5921N 1757E"
+ },
+ {
+   "City Name": "SUNDSVALL",
+   "Airport Name": "HARNOSAND",
+   "Country": "SWEDEN",
+   "elevationInFt": 13,
+   "Geographic Location": "6232N 1727E"
+ },
+ {
+   "City Name": "UMEA",
+   "Airport Name": "UMEA",
+   "Country": "SWEDEN",
+   "elevationInFt": 22,
+   "Geographic Location": "6348N 2017E"
+ },
+ {
+   "City Name": "VISBY",
+   "Airport Name": "VISBY",
+   "Country": "SWEDEN",
+   "elevationInFt": 167,
+   "Geographic Location": "5740N 1821E"
+ },
+ {
+   "City Name": "BERNE",
+   "Airport Name": "BELP",
+   "Country": "SWITZERLAND",
+   "elevationInFt": 1673,
+   "Geographic Location": "4655N 0730E"
+ },
+ {
+   "City Name": "GENEVA",
+   "Airport Name": "GENEVA",
+   "Country": "SWITZERLAND",
+   "elevationInFt": 1411,
+   "Geographic Location": "4614N 0607E"
+ },
+ {
+   "City Name": "SION",
+   "Airport Name": "SION",
+   "Country": "SWITZERLAND",
+   "elevationInFt": 1581,
+   "Geographic Location": "4613N 0720E"
+ },
+ {
+   "City Name": "ZURICH",
+   "Airport Name": "ZURICH",
+   "Country": "SWITZERLAND",
+   "elevationInFt": 1416,
+   "Geographic Location": "4728N 0833E"
+ },
+ {
+   "City Name": "DAMASCUS",
+   "Airport Name": "DAMASCUS INTL.",
+   "Country": "SYRIA",
+   "elevationInFt": 2020,
+   "Geographic Location": "3325N 3631E"
+ },
+ {
+   "City Name": "KAOHSIUNG INTL.",
+   "Airport Name": "KAOHSIUNG INTL.",
+   "Country": "TAIWAN",
+   "elevationInFt": 31,
+   "Geographic Location": "2235N 12021E"
+ },
+ {
+   "City Name": "TAIPEI INTL.",
+   "Airport Name": "CHIANG KAI SHEK",
+   "Country": "TAIWAN",
+   "elevationInFt": 73,
+   "Geographic Location": "2505N 12113E"
+ },
+ {
+   "City Name": "DAR ES SALAAM",
+   "Airport Name": "DAR ES SALAAM",
+   "Country": "TANZANIA",
+   "elevationInFt": 4550,
+   "Geographic Location": "0653S 3912E"
+ },
+ {
+   "City Name": "KILIMANJARO",
+   "Airport Name": "KILIMANJARO",
+   "Country": "TANZANIA",
+   "elevationInFt": 2932,
+   "Geographic Location": "0326S 3704E"
+ },
+ {
+   "City Name": "MTWARA",
+   "Airport Name": "MTWARA",
+   "Country": "TANZANIA",
+   "elevationInFt": 371,
+   "Geographic Location": "1020S 4011E"
+ },
+ {
+   "City Name": "MWANZA",
+   "Airport Name": "MWANZA",
+   "Country": "TANZANIA",
+   "elevationInFt": 3763,
+   "Geographic Location": "0227S 3256E"
+ },
+ {
+   "City Name": "PEMBA",
+   "Airport Name": "KARUME",
+   "Country": "TANZANIA",
+   "elevationInFt": 80,
+   "Geographic Location": "0515S 3949E"
+ },
+ {
+   "City Name": "TABORA",
+   "Airport Name": "TABORA",
+   "Country": "TANZANIA",
+   "elevationInFt": 3868,
+   "Geographic Location": "0505S 3250E"
+ },
+ {
+   "City Name": "TANGA",
+   "Airport Name": "TANGA",
+   "Country": "TANZANIA",
+   "elevationInFt": 128,
+   "Geographic Location": "0506S 3904E"
+ },
+ {
+   "City Name": "ZANZIBAR",
+   "Airport Name": "KISAUNI",
+   "Country": "TANZANIA",
+   "elevationInFt": 54,
+   "Geographic Location": "0613S 3913E"
+ },
+ {
+   "City Name": "N'DJAMENA",
+   "Airport Name": "N'DJAMENA",
+   "Country": "TCHAD",
+   "elevationInFt": 968,
+   "Geographic Location": "1208N 1502E"
+ },
+ {
+   "City Name": "BANGKOK",
+   "Airport Name": "BANGKOK",
+   "Country": "THAILAND",
+   "elevationInFt": 9,
+   "Geographic Location": "1355N 10037E"
+ },
+ {
+   "City Name": "CHIANG MAI",
+   "Airport Name": "CHIANG MAI",
+   "Country": "THAILAND",
+   "elevationInFt": 1035,
+   "Geographic Location": "1846N 9858E"
+ },
+ {
+   "City Name": "PHUKET",
+   "Airport Name": "PHUKET",
+   "Country": "THAILAND",
+   "elevationInFt": 82,
+   "Geographic Location": "0807N 9819E"
+ },
+ {
+   "City Name": "SONGKHLA",
+   "Airport Name": "HAT YAI INTL.",
+   "Country": "THAILAND",
+   "elevationInFt": 90,
+   "Geographic Location": "0656N 10025E"
+ },
+ {
+   "City Name": "SURAT THANI",
+   "Airport Name": "SURAT THANI",
+   "Country": "THAILAND",
+   "elevationInFt": 19,
+   "Geographic Location": "0908N 9908E"
+ },
+ {
+   "City Name": "LOME",
+   "Airport Name": "TOKOIN",
+   "Country": "TOGO",
+   "elevationInFt": 72,
+   "Geographic Location": "0610N 0115E"
+ },
+ {
+   "City Name": "PORT OF SPAIN",
+   "Airport Name": "PIARCO",
+   "Country": "TRINIDAD & TOBAGO",
+   "elevationInFt": 57,
+   "Geographic Location": "1036N 6121W"
+ },
+ {
+   "City Name": "SCARBOROUGH",
+   "Airport Name": "CROWN POINT",
+   "Country": "TRINIDAD & TOBAGO",
+   "elevationInFt": 36,
+   "Geographic Location": "1109N 6050W"
+ },
+ {
+   "City Name": "JERBA",
+   "Airport Name": "ZARZIS",
+   "Country": "TUNISIA",
+   "elevationInFt": 16,
+   "Geographic Location": "3352N 1047E"
+ },
+ {
+   "City Name": "MONASTIR",
+   "Airport Name": "HABIB BOURGUIBA INTL",
+   "Country": "TUNISIA",
+   "elevationInFt": 7,
+   "Geographic Location": "3545N 1045E"
+ },
+ {
+   "City Name": "SFAX",
+   "Airport Name": "THYNA",
+   "Country": "TUNISIA",
+   "elevationInFt": 85,
+   "Geographic Location": "3443N 1041E"
+ },
+ {
+   "City Name": "TOZEUR",
+   "Airport Name": "NEFTA",
+   "Country": "TUNISIA",
+   "elevationInFt": 285,
+   "Geographic Location": "3356N 0807E"
+ },
+ {
+   "City Name": "TUNIS",
+   "Airport Name": "CARTHAGE",
+   "Country": "TUNISIA",
+   "elevationInFt": 20,
+   "Geographic Location": "3651N 1014E"
+ },
+ {
+   "City Name": "ADANA",
+   "Airport Name": "SAKIRPASA",
+   "Country": "TURKEY",
+   "elevationInFt": 66,
+   "Geographic Location": "3659N 3517E"
+ },
+ {
+   "City Name": "ANKARA",
+   "Airport Name": "ESENBOGA",
+   "Country": "TURKEY",
+   "elevationInFt": 3125,
+   "Geographic Location": "4007N 3300E"
+ },
+ {
+   "City Name": "DALAMAN",
+   "Airport Name": "MUGLA",
+   "Country": "TURKEY",
+   "elevationInFt": 20,
+   "Geographic Location": "3642N 2847E"
+ },
+ {
+   "City Name": "ISTANBUL",
+   "Airport Name": "ATATURK",
+   "Country": "TURKEY",
+   "elevationInFt": 158,
+   "Geographic Location": "4059N 2849E"
+ },
+ {
+   "City Name": "IZMIR",
+   "Airport Name": "ADNAN MENDERES",
+   "Country": "TURKEY",
+   "elevationInFt": 412,
+   "Geographic Location": "3818N 2710E"
+ },
+ {
+   "City Name": "ASHKHABAD",
+   "Airport Name": "ASHKHABAD",
+   "Country": "TURKMENISTAN",
+   "elevationInFt": 689,
+   "Geographic Location": "3759N 5821E"
+ },
+ {
+   "City Name": "ENTEBBE",
+   "Airport Name": "ENTEBBE",
+   "Country": "UGANDA",
+   "elevationInFt": 3782,
+   "Geographic Location": "0003N 3226E"
+ },
+ {
+   "City Name": "KIEV",
+   "Airport Name": "BORISPOL",
+   "Country": "UKRAINE",
+   "elevationInFt": 427,
+   "Geographic Location": "5021N 3053E"
+ },
+ {
+   "City Name": "LVOV",
+   "Airport Name": "LVOV",
+   "Country": "UKRAINE",
+   "elevationInFt": 1070,
+   "Geographic Location": "4948N 2358E"
+ },
+ {
+   "City Name": "ODESSA",
+   "Airport Name": "ODESSA",
+   "Country": "UKRAINE",
+   "elevationInFt": 171,
+   "Geographic Location": "4626N 3041E"
+ },
+ {
+   "City Name": "ABU DHABI",
+   "Airport Name": "ABU DHABI INTL",
+   "Country": "UNITED ARAB EMIRATES",
+   "elevationInFt": 88,
+   "Geographic Location": "2426N 5439E"
+ },
+ {
+   "City Name": "ABU DHABI",
+   "Airport Name": "BATEEN",
+   "Country": "UNITED ARAB EMIRATES",
+   "elevationInFt": 15,
+   "Geographic Location": "2426N 5427E"
+ },
+ {
+   "City Name": "DUBAI",
+   "Airport Name": "DUBAI",
+   "Country": "UNITED ARAB EMIRATES",
+   "elevationInFt": 34,
+   "Geographic Location": "2515N 5521E"
+ },
+ {
+   "City Name": "FUJAIRAH",
+   "Airport Name": "FUJAIRAH INTL.",
+   "Country": "UNITED ARAB EMIRATES",
+   "elevationInFt": 152,
+   "Geographic Location": "2506N 5620E"
+ },
+ {
+   "City Name": "RAS AL KHAIMAH",
+   "Airport Name": "RAS AL KHAIMAH",
+   "Country": "UNITED ARAB EMIRATES",
+   "elevationInFt": 102,
+   "Geographic Location": "2537N 5556E"
+ },
+ {
+   "City Name": "SHARJAH",
+   "Airport Name": "SHARJAH INTL.",
+   "Country": "UNITED ARAB EMIRATES",
+   "elevationInFt": 111,
+   "Geographic Location": "2520N 5531E"
+ },
+ {
+   "City Name": "ABERDEEN",
+   "Airport Name": "ABERDEEN",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 215,
+   "Geographic Location": "5712N 0212W"
+ },
+ {
+   "City Name": "ALDERNEY",
+   "Airport Name": "ALDERNEY",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 291,
+   "Geographic Location": "4942N 0213W"
+ },
+ {
+   "City Name": "ASCENSION IS.",
+   "Airport Name": "WIDEAWAKE",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 273,
+   "Geographic Location": "0758S 1424W"
+ },
+ {
+   "City Name": "BARROW",
+   "Airport Name": "WALNEY ISLAND",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 47,
+   "Geographic Location": "5408N 0316W"
+ },
+ {
+   "City Name": "BEDFORD",
+   "Airport Name": "BEDFORD",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 293,
+   "Geographic Location": "5214N 0028W"
+ },
+ {
+   "City Name": "BELFAST",
+   "Airport Name": "ALDERGROVE",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 267,
+   "Geographic Location": "5439N 0614W"
+ },
+ {
+   "City Name": "BELFAST",
+   "Airport Name": "CITY",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 15,
+   "Geographic Location": "5437N 0552W"
+ },
+ {
+   "City Name": "BEMBRIDGE",
+   "Airport Name": "BEMBRIDGE",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 55,
+   "Geographic Location": "5041N 0106W"
+ },
+ {
+   "City Name": "BENBECULA",
+   "Airport Name": "BENBECULA",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 19,
+   "Geographic Location": "5729N 0722W"
+ },
+ {
+   "City Name": "BIGGIN HILL",
+   "Airport Name": "BIGGIN HILL",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 600,
+   "Geographic Location": "5119N 0002E"
+ },
+ {
+   "City Name": "BIRMINGHAM UK",
+   "Airport Name": "BIRMINGHAM",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 325,
+   "Geographic Location": "5227N 0145W"
+ },
+ {
+   "City Name": "BLACKBUSHE",
+   "Airport Name": "BLACKBUSHE",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 329,
+   "Geographic Location": "5119N 0051W"
+ },
+ {
+   "City Name": "BLACKPOOL",
+   "Airport Name": "BLACKPOOL",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 34,
+   "Geographic Location": "5346N 0302W"
+ },
+ {
+   "City Name": "BOURNEMOUTH",
+   "Airport Name": "BOURNEMOUTH",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 36,
+   "Geographic Location": "5047N 0150W"
+ },
+ {
+   "City Name": "BRISTOL",
+   "Airport Name": "BRISTOL",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 620,
+   "Geographic Location": "5123N 0243W"
+ },
+ {
+   "City Name": "CAMBRIDGE",
+   "Airport Name": "CAMBRIDGE",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 50,
+   "Geographic Location": "5212N 0011E"
+ },
+ {
+   "City Name": "CARDIFF",
+   "Airport Name": "CARDIFF",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 220,
+   "Geographic Location": "5124N 0321W"
+ },
+ {
+   "City Name": "CARLISLE",
+   "Airport Name": "CARLISLE",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 190,
+   "Geographic Location": "5456N 0249W"
+ },
+ {
+   "City Name": "COVENTRY",
+   "Airport Name": "COVENTRY",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 281,
+   "Geographic Location": "5222N 0129W"
+ },
+ {
+   "City Name": "CRANFIELD",
+   "Airport Name": "CRANFIELD",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 364,
+   "Geographic Location": "5204N 0037W"
+ },
+ {
+   "City Name": "DUNDEE",
+   "Airport Name": "DUNDEE",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 13,
+   "Geographic Location": "5627N 0301W"
+ },
+ {
+   "City Name": "EAST MIDLANDS",
+   "Airport Name": "EAST MIDLANDS",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 310,
+   "Geographic Location": "5250N 0119W"
+ },
+ {
+   "City Name": "EDINBURGH",
+   "Airport Name": "EDINBURGH",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 135,
+   "Geographic Location": "5557N 0322W"
+ },
+ {
+   "City Name": "EXETER",
+   "Airport Name": "EXETER",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 102,
+   "Geographic Location": "5044N 0325W"
+ },
+ {
+   "City Name": "GLASGOW",
+   "Airport Name": "GLASGOW",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 26,
+   "Geographic Location": "5552N 0426W"
+ },
+ {
+   "City Name": "GLOUCESTERSHIRE",
+   "Airport Name": "GLOUCESTERSHIRE",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 95,
+   "Geographic Location": "5154N 0210W"
+ },
+ {
+   "City Name": "GUERNSEY",
+   "Airport Name": "GUERNSEY",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 336,
+   "Geographic Location": "4926N 0236W"
+ },
+ {
+   "City Name": "HUMBERSIDE",
+   "Airport Name": "HUMBERSIDE",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 122,
+   "Geographic Location": "5335N 0021W"
+ },
+ {
+   "City Name": "INVERNESS",
+   "Airport Name": "DALCROSS",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 31,
+   "Geographic Location": "5732N 0403W"
+ },
+ {
+   "City Name": "ISLAY",
+   "Airport Name": "ISLAY",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 54,
+   "Geographic Location": "5541N 0615W"
+ },
+ {
+   "City Name": "ISLE OF MAN",
+   "Airport Name": "RONALDSWAY",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 55,
+   "Geographic Location": "5404N 0438W"
+ },
+ {
+   "City Name": "JERSEY",
+   "Airport Name": "JERSEY",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 277,
+   "Geographic Location": "4913N 0212W"
+ },
+ {
+   "City Name": "KIRKWALL",
+   "Airport Name": "KIRKWALL",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 50,
+   "Geographic Location": "5858N 0254W"
+ },
+ {
+   "City Name": "LEEDS BRADFORD",
+   "Airport Name": "LEEDS BRADFORD",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 681,
+   "Geographic Location": "5352N 0140W"
+ },
+ {
+   "City Name": "LIVERPOOL",
+   "Airport Name": "LIVERPOOL",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 81,
+   "Geographic Location": "5321N 0253W"
+ },
+ {
+   "City Name": "LONDON CITY",
+   "Airport Name": "CITY",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 16,
+   "Geographic Location": "5130N 0003E"
+ },
+ {
+   "City Name": "LONDON GATWICK",
+   "Airport Name": "GATWICK",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 202,
+   "Geographic Location": "5109N 0011W"
+ },
+ {
+   "City Name": "LONDON HEATHROW",
+   "Airport Name": "HEATHROW",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 80,
+   "Geographic Location": "5129N 0028W"
+ },
+ {
+   "City Name": "LONDON STANSTED",
+   "Airport Name": "STANSTED",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 347,
+   "Geographic Location": "5153N 0014E"
+ },
+ {
+   "City Name": "LUTON",
+   "Airport Name": "LUTON",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 526,
+   "Geographic Location": "5153N 0022W"
+ },
+ {
+   "City Name": "LYDD",
+   "Airport Name": "LYDD",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 11,
+   "Geographic Location": "5057N 0056E"
+ },
+ {
+   "City Name": "MANCHESTER",
+   "Airport Name": "MANCHESTER",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 256,
+   "Geographic Location": "5321N 0216W"
+ },
+ {
+   "City Name": "MANSTON",
+   "Airport Name": "MANSTON",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 178,
+   "Geographic Location": "5120N 0121E"
+ },
+ {
+   "City Name": "NEWCASTLE",
+   "Airport Name": "NEWCASTLE",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 266,
+   "Geographic Location": "5502N 0141W"
+ },
+ {
+   "City Name": "OXFORD",
+   "Airport Name": "KIDLINGTON",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 270,
+   "Geographic Location": "5150N 0119W"
+ },
+ {
+   "City Name": "PLYMOUTH",
+   "Airport Name": "CITY",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 474,
+   "Geographic Location": "5025N 0406W"
+ },
+ {
+   "City Name": "PRESTWICK",
+   "Airport Name": "PRESTWICK",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 66,
+   "Geographic Location": "5530N 0435W"
+ },
+ {
+   "City Name": "SOUTHAMPTOM",
+   "Airport Name": "EASTLEIGH",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 44,
+   "Geographic Location": "5057N 0121W"
+ },
+ {
+   "City Name": "SOUTHEND",
+   "Airport Name": "SOUTHEND",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 48,
+   "Geographic Location": "5134N 0042E"
+ },
+ {
+   "City Name": "STORNOWAY",
+   "Airport Name": "STORNOWAY",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 25,
+   "Geographic Location": "5813N 0620W"
+ },
+ {
+   "City Name": "SUMBURGH",
+   "Airport Name": "SUMBURGH",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 18,
+   "Geographic Location": "5953N 0118W"
+ },
+ {
+   "City Name": "SWANSEA",
+   "Airport Name": "SWANSEA",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 296,
+   "Geographic Location": "5136N 0404W"
+ },
+ {
+   "City Name": "TEESIDE",
+   "Airport Name": "TEESIDE",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 120,
+   "Geographic Location": "5431N 0125W"
+ },
+ {
+   "City Name": "TIREE",
+   "Airport Name": "TIREE",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 38,
+   "Geographic Location": "5630N 0652W"
+ },
+ {
+   "City Name": "UNST",
+   "Airport Name": "UNST",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 62,
+   "Geographic Location": "6045N 0051W"
+ },
+ {
+   "City Name": "WICK",
+   "Airport Name": "WICK",
+   "Country": "UNITED KINGDOM",
+   "elevationInFt": 125,
+   "Geographic Location": "5827N 0306W"
+ },
+ {
+   "City Name": "ALBUQUERQUE",
+   "Airport Name": "ALBUQUERQUE",
+   "Country": "UNITED STATES",
+   "elevationInFt": 5352,
+   "Geographic Location": "3503N 10636W"
+ },
+ {
+   "City Name": "ATLANTA",
+   "Airport Name": "WM. B. HARTSFIELD",
+   "Country": "UNITED STATES",
+   "elevationInFt": 1026,
+   "Geographic Location": "3338N 8426W"
+ },
+ {
+   "City Name": "ATLANTIC CITY",
+   "Airport Name": "ATLANTIC CITY",
+   "Country": "UNITED STATES",
+   "elevationInFt": 76,
+   "Geographic Location": "3927N 7435W"
+ },
+ {
+   "City Name": "BALTIMORE",
+   "Airport Name": "WASHINGTON INTL",
+   "Country": "UNITED STATES",
+   "elevationInFt": 146,
+   "Geographic Location": "3911N 7640W"
+ },
+ {
+   "City Name": "BANGOR",
+   "Airport Name": "BANGOR INTL",
+   "Country": "UNITED STATES",
+   "elevationInFt": 192,
+   "Geographic Location": "4448N 4850W"
+ },
+ {
+   "City Name": "BEDFORD",
+   "Airport Name": "BEDFORD",
+   "Country": "UNITED STATES",
+   "elevationInFt": 133,
+   "Geographic Location": "4228N 7117W"
+ },
+ {
+   "City Name": "BIRMINGHAM US",
+   "Airport Name": "BIRMINGHAM INTL",
+   "Country": "UNITED STATES",
+   "elevationInFt": 644,
+   "Geographic Location": "3334N 8645W"
+ },
+ {
+   "City Name": "BOSTON",
+   "Airport Name": "LOGAN INTL",
+   "Country": "UNITED STATES",
+   "elevationInFt": 20,
+   "Geographic Location": "4222N 7100W"
+ },
+ {
+   "City Name": "BUFFALO",
+   "Airport Name": "BUFFALO",
+   "Country": "UNITED STATES",
+   "elevationInFt": 724,
+   "Geographic Location": "4256N 7844W"
+ },
+ {
+   "City Name": "BURLINGTON",
+   "Airport Name": "BURLINGTON",
+   "Country": "UNITED STATES",
+   "elevationInFt": 334,
+   "Geographic Location": "4428N 7309W"
+ },
+ {
+   "City Name": "CASPER",
+   "Airport Name": "NATRONA COUNTY INTL",
+   "Country": "UNITED STATES",
+   "elevationInFt": 5348,
+   "Geographic Location": "4254N 10628W"
+ },
+ {
+   "City Name": "CENTRAL FLORIDA REGIONAL",
+   "Airport Name": "SANFORD",
+   "Country": "UNITED STATES",
+   "elevationInFt": 55,
+   "Geographic Location": "2847N 8114W"
+ },
+ {
+   "City Name": "CHARLESTON",
+   "Airport Name": "CHARLESTON",
+   "Country": "UNITED STATES",
+   "elevationInFt": 45,
+   "Geographic Location": "3254N 8002W"
+ },
+ {
+   "City Name": "CHARLOTTE",
+   "Airport Name": "DOUGLAS",
+   "Country": "UNITED STATES",
+   "elevationInFt": 749,
+   "Geographic Location": "3531N 8056W"
+ },
+ {
+   "City Name": "CHATTANOOGA",
+   "Airport Name": "LOVELL FIELD",
+   "Country": "UNITED STATES",
+   "elevationInFt": 682,
+   "Geographic Location": "3502N 8512W"
+ },
+ {
+   "City Name": "CHEYENNE",
+   "Airport Name": "CHEYENNE",
+   "Country": "UNITED STATES",
+   "elevationInFt": 6156,
+   "Geographic Location": "4109N 10449W"
+ },
+ {
+   "City Name": "CHICAGO",
+   "Airport Name": "CHICAGO O'HARE",
+   "Country": "UNITED STATES",
+   "elevationInFt": 667,
+   "Geographic Location": "4159N 8754W"
+ },
+ {
+   "City Name": "CINCINNATI",
+   "Airport Name": "NORTHERN KENTUCKY INTL",
+   "Country": "UNITED STATES",
+   "elevationInFt": 891,
+   "Geographic Location": "3903N 8440W"
+ },
+ {
+   "City Name": "CLEARWATER",
+   "Airport Name": "CLEARWATER",
+   "Country": "UNITED STATES",
+   "elevationInFt": 11,
+   "Geographic Location": "2755N 8241W"
+ },
+ {
+   "City Name": "CLEVELAND",
+   "Airport Name": "CLEVELAND",
+   "Country": "UNITED STATES",
+   "elevationInFt": 792,
+   "Geographic Location": "4125N 8151W"
+ },
+ {
+   "City Name": "COLARADO SPRINGS",
+   "Airport Name": "CITY OF COLARADO",
+   "Country": "UNITED STATES",
+   "elevationInFt": 6172,
+   "Geographic Location": "3849N 10443W"
+ },
+ {
+   "City Name": "COLUMBIA",
+   "Airport Name": "COLUMBIA MET",
+   "Country": "UNITED STATES",
+   "elevationInFt": 236,
+   "Geographic Location": "3357N 8107W"
+ },
+ {
+   "City Name": "COLUMBUS",
+   "Airport Name": "PORT COLUMBUS",
+   "Country": "UNITED STATES",
+   "elevationInFt": 816,
+   "Geographic Location": "4000N 8253W"
+ },
+ {
+   "City Name": "DALLAS",
+   "Airport Name": "DALLAS FORT WORTH",
+   "Country": "UNITED STATES",
+   "elevationInFt": 603,
+   "Geographic Location": "3254N 9702W"
+ },
+ {
+   "City Name": "DALLAS",
+   "Airport Name": "LOVE FIELD",
+   "Country": "UNITED STATES",
+   "elevationInFt": 487,
+   "Geographic Location": "3251N 9651W"
+ },
+ {
+   "City Name": "DENVER",
+   "Airport Name": "DENVER INTL",
+   "Country": "UNITED STATES",
+   "elevationInFt": 5431,
+   "Geographic Location": "3951N 10440W"
+ },
+ {
+   "City Name": "DES MOINES",
+   "Airport Name": "DES MOINES",
+   "Country": "UNITED STATES",
+   "elevationInFt": 957,
+   "Geographic Location": "4132N 9339W"
+ },
+ {
+   "City Name": "DETROIT WAYNE",
+   "Airport Name": "WAYNE",
+   "Country": "UNITED STATES",
+   "elevationInFt": 639,
+   "Geographic Location": "4213N 8321W"
+ },
+ {
+   "City Name": "DETROIT WILLOW RUN",
+   "Airport Name": "WILLOW RUN",
+   "Country": "UNITED STATES",
+   "elevationInFt": 716,
+   "Geographic Location": "4214N 8332W"
+ },
+ {
+   "City Name": "DULUTH",
+   "Airport Name": "DULUTH INTL",
+   "Country": "UNITED STATES",
+   "elevationInFt": 1428,
+   "Geographic Location": "4650N 9211W"
+ },
+ {
+   "City Name": "EVERETT",
+   "Airport Name": "SNOHOMISH COUNTY",
+   "Country": "UNITED STATES",
+   "elevationInFt": 606,
+   "Geographic Location": "4754N 12217W"
+ },
+ {
+   "City Name": "FARGO",
+   "Airport Name": "HECTOR INTL",
+   "Country": "UNITED STATES",
+   "elevationInFt": 900,
+   "Geographic Location": "4655N 9649W"
+ },
+ {
+   "City Name": "FORT LAUDERDALE",
+   "Airport Name": "FORT LAUDERDALE",
+   "Country": "UNITED STATES",
+   "elevationInFt": 11,
+   "Geographic Location": "2604N 8009W"
+ },
+ {
+   "City Name": "FRESNO",
+   "Airport Name": "FRESNO",
+   "Country": "UNITED STATES",
+   "elevationInFt": 332,
+   "Geographic Location": "3647N 11943W"
+ },
+ {
+   "City Name": "GRAND JUNCTION",
+   "Airport Name": "WALKER FIELD",
+   "Country": "UNITED STATES",
+   "elevationInFt": 4858,
+   "Geographic Location": "3907N 10832W"
+ },
+ {
+   "City Name": "GREAT FALLS",
+   "Airport Name": "GREAT FALLS",
+   "Country": "UNITED STATES",
+   "elevationInFt": 3674,
+   "Geographic Location": "4729N 11122W"
+ },
+ {
+   "City Name": "HOUSTON",
+   "Airport Name": "HOUSTON INTL",
+   "Country": "UNITED STATES",
+   "elevationInFt": 98,
+   "Geographic Location": "2959N 9520W"
+ },
+ {
+   "City Name": "HUNTSVILLE",
+   "Airport Name": "HUNTSVILLE",
+   "Country": "UNITED STATES",
+   "elevationInFt": 629,
+   "Geographic Location": "3438N 8646W"
+ },
+ {
+   "City Name": "INDIANAPOLIS",
+   "Airport Name": "INDIANAPOLIS INTL",
+   "Country": "UNITED STATES",
+   "elevationInFt": 797,
+   "Geographic Location": "3944N 8617W"
+ },
+ {
+   "City Name": "JACKSONVILLE",
+   "Airport Name": "JACKSONVILLE INTL",
+   "Country": "UNITED STATES",
+   "elevationInFt": 30,
+   "Geographic Location": "3029N 8141W"
+ },
+ {
+   "City Name": "KANSAS CITY INTL",
+   "Airport Name": "KANSAS CITY INTL",
+   "Country": "UNITED STATES",
+   "elevationInFt": 1025,
+   "Geographic Location": "3918N 9444W"
+ },
+ {
+   "City Name": "KNOXVILLE",
+   "Airport Name": "KNOXVILLE",
+   "Country": "UNITED STATES",
+   "elevationInFt": 981,
+   "Geographic Location": "3549N 8400W"
+ },
+ {
+   "City Name": "LAS VEGAS",
+   "Airport Name": "LAS VEGAS",
+   "Country": "UNITED STATES",
+   "elevationInFt": 2174,
+   "Geographic Location": "3605N 11509W"
+ },
+ {
+   "City Name": "LONG BEACH",
+   "Airport Name": "LONG BEACH",
+   "Country": "UNITED STATES",
+   "elevationInFt": 58,
+   "Geographic Location": "3349N 11809W"
+ },
+ {
+   "City Name": "LOS ANGELES",
+   "Airport Name": "LOS ANGELES INTL",
+   "Country": "UNITED STATES",
+   "elevationInFt": 126,
+   "Geographic Location": "3356N 11824W"
+ },
+ {
+   "City Name": "LOUISVILLE",
+   "Airport Name": "STANDIFORD FIELD",
+   "Country": "UNITED STATES",
+   "elevationInFt": 497,
+   "Geographic Location": "3811N 8544W"
+ },
+ {
+   "City Name": "MEMPHIS INTL",
+   "Airport Name": "MEMPHIS INTL",
+   "Country": "UNITED STATES",
+   "elevationInFt": 332,
+   "Geographic Location": "3504N 8958W"
+ },
+ {
+   "City Name": "MIAMI",
+   "Airport Name": "MIAMI INTL",
+   "Country": "UNITED STATES",
+   "elevationInFt": 10,
+   "Geographic Location": "2548N 8017W"
+ },
+ {
+   "City Name": "MILWAUKEE",
+   "Airport Name": "MILWAUKEE",
+   "Country": "UNITED STATES",
+   "elevationInFt": 723,
+   "Geographic Location": "4257N 8754W"
+ },
+ {
+   "City Name": "MINNEAPOLIS",
+   "Airport Name": "MINNEAPOLIS",
+   "Country": "UNITED STATES",
+   "elevationInFt": 841,
+   "Geographic Location": "4453N 9313W"
+ },
+ {
+   "City Name": "MONTGOMERY",
+   "Airport Name": "MONTGOMERY",
+   "Country": "UNITED STATES",
+   "elevationInFt": 221,
+   "Geographic Location": "3218N 8624W"
+ },
+ {
+   "City Name": "MOSES LAKE",
+   "Airport Name": "GRANT COUNTY",
+   "Country": "UNITED STATES",
+   "elevationInFt": 1185,
+   "Geographic Location": "4712N 11919W"
+ },
+ {
+   "City Name": "NASHVILLE",
+   "Airport Name": "NASHVILLE",
+   "Country": "UNITED STATES",
+   "elevationInFt": 597,
+   "Geographic Location": "3608N 8641W"
+ },
+ {
+   "City Name": "NEW ORLEANS",
+   "Airport Name": "NEW ORLEANS",
+   "Country": "UNITED STATES",
+   "elevationInFt": 4,
+   "Geographic Location": "2959N 9016W"
+ },
+ {
+   "City Name": "NEW YORK JOHN F. KENNEDY",
+   "Airport Name": "JOHN F. KENNEDY",
+   "Country": "UNITED STATES",
+   "elevationInFt": 12,
+   "Geographic Location": "4039N 7374W"
+ },
+ {
+   "City Name": "NEW YORK LA GUARDIA",
+   "Airport Name": "LA GUARDIA",
+   "Country": "UNITED STATES",
+   "elevationInFt": 22,
+   "Geographic Location": "4047N 7352W"
+ },
+ {
+   "City Name": "NEWARK",
+   "Airport Name": "NEWARK INTL",
+   "Country": "UNITED STATES",
+   "elevationInFt": 18,
+   "Geographic Location": "4043N 7410W"
+ },
+ {
+   "City Name": "NEWBURGH",
+   "Airport Name": "STEWART",
+   "Country": "UNITED STATES",
+   "elevationInFt": 471,
+   "Geographic Location": "4130N 7406W"
+ },
+ {
+   "City Name": "NEWPORT NEWS",
+   "Airport Name": "WILLIAMSBURG INTL",
+   "Country": "UNITED STATES",
+   "elevationInFt": 41,
+   "Geographic Location": "3708N 7630W"
+ },
+ {
+   "City Name": "NIAGARA FALLS",
+   "Airport Name": "NIAGARA FALLS",
+   "Country": "UNITED STATES",
+   "elevationInFt": 590,
+   "Geographic Location": "4306N 7857W"
+ },
+ {
+   "City Name": "NORFOLK",
+   "Airport Name": "NORFOLK INTL",
+   "Country": "UNITED STATES",
+   "elevationInFt": 27,
+   "Geographic Location": "3654N 7612W"
+ },
+ {
+   "City Name": "OAKLAND",
+   "Airport Name": "OAKLAND",
+   "Country": "UNITED STATES",
+   "elevationInFt": 6,
+   "Geographic Location": "3744N 12213W"
+ },
+ {
+   "City Name": "OMAHA",
+   "Airport Name": "EPPLEY",
+   "Country": "UNITED STATES",
+   "elevationInFt": 983,
+   "Geographic Location": "4118N 9554W"
+ },
+ {
+   "City Name": "ONTARIO",
+   "Airport Name": "ONTARIO INTL",
+   "Country": "UNITED STATES",
+   "elevationInFt": 942,
+   "Geographic Location": "3403N 11736W"
+ },
+ {
+   "City Name": "ORLANDO",
+   "Airport Name": "ORLANDO",
+   "Country": "UNITED STATES",
+   "elevationInFt": 96,
+   "Geographic Location": "2826N 8119W"
+ },
+ {
+   "City Name": "PHILADELPHIA",
+   "Airport Name": "PHILADELPHIA",
+   "Country": "UNITED STATES",
+   "elevationInFt": 21,
+   "Geographic Location": "3953N 7514W"
+ },
+ {
+   "City Name": "PHOENIX",
+   "Airport Name": "SKY HARBOR",
+   "Country": "UNITED STATES",
+   "elevationInFt": 1132,
+   "Geographic Location": "3326N 11201W"
+ },
+ {
+   "City Name": "PITTSBURGH",
+   "Airport Name": "PITTSBURGH",
+   "Country": "UNITED STATES",
+   "elevationInFt": 1203,
+   "Geographic Location": "4030N 8014W"
+ },
+ {
+   "City Name": "PORTLAND",
+   "Airport Name": "PORTLAND INTL",
+   "Country": "UNITED STATES",
+   "elevationInFt": 26,
+   "Geographic Location": "4535N 12236W"
+ },
+ {
+   "City Name": "PORTLAND",
+   "Airport Name": "PORTLAND INTL JETPORT",
+   "Country": "UNITED STATES",
+   "elevationInFt": 74,
+   "Geographic Location": "4339N 7018W"
+ },
+ {
+   "City Name": "PRESSQUE ISLE",
+   "Airport Name": "NORTHERN MAINE REGIONAL",
+   "Country": "UNITED STATES",
+   "elevationInFt": 534,
+   "Geographic Location": "4641N 6803W"
+ },
+ {
+   "City Name": "PUEBLO MEMORIAL",
+   "Airport Name": "PUEBLO MEMORIAL",
+   "Country": "UNITED STATES",
+   "elevationInFt": 4726,
+   "Geographic Location": "3817N 10430W"
+ },
+ {
+   "City Name": "RENO",
+   "Airport Name": "CANNON INTL",
+   "Country": "UNITED STATES",
+   "elevationInFt": 4412,
+   "Geographic Location": "2930N 11946W"
+ },
+ {
+   "City Name": "RICHMOND",
+   "Airport Name": "RICHMOND",
+   "Country": "UNITED STATES",
+   "elevationInFt": 168,
+   "Geographic Location": "3730N 7719W"
+ },
+ {
+   "City Name": "SACRAMENTO",
+   "Airport Name": "METROPLOLITAN",
+   "Country": "UNITED STATES",
+   "elevationInFt": 24,
+   "Geographic Location": "3842N 12136W"
+ },
+ {
+   "City Name": "SALT LAKE CITY",
+   "Airport Name": "SALT LAKE CITY",
+   "Country": "UNITED STATES",
+   "elevationInFt": 4227,
+   "Geographic Location": "4047N 11158W"
+ },
+ {
+   "City Name": "SAN ANTONIO",
+   "Airport Name": "SAN ANTONIO INTL",
+   "Country": "UNITED STATES",
+   "elevationInFt": 809,
+   "Geographic Location": "2932N 9828W"
+ },
+ {
+   "City Name": "SAN DIEGO",
+   "Airport Name": "SAN DIEGO",
+   "Country": "UNITED STATES",
+   "elevationInFt": 15,
+   "Geographic Location": "3244N 11711W"
+ },
+ {
+   "City Name": "SAN FRANCISCO",
+   "Airport Name": "SAN FRANCISCO",
+   "Country": "UNITED STATES",
+   "elevationInFt": 11,
+   "Geographic Location": "3737N 12223W"
+ },
+ {
+   "City Name": "SAVANNAH",
+   "Airport Name": "SAVANNAH",
+   "Country": "UNITED STATES",
+   "elevationInFt": 51,
+   "Geographic Location": "3208N 8112W"
+ },
+ {
+   "City Name": "SEATTLE",
+   "Airport Name": "TACOMA",
+   "Country": "UNITED STATES",
+   "elevationInFt": 429,
+   "Geographic Location": "4727N 12218W"
+ },
+ {
+   "City Name": "SEATTLE BOEING FIELD",
+   "Airport Name": "KING COUNTY INTL",
+   "Country": "UNITED STATES",
+   "elevationInFt": 18,
+   "Geographic Location": "4732N 12218W"
+ },
+ {
+   "City Name": "SIOUX FALLS",
+   "Airport Name": "SIOUX FALLS",
+   "Country": "UNITED STATES",
+   "elevationInFt": 1428,
+   "Geographic Location": "4335N 9644W"
+ },
+ {
+   "City Name": "SPOKANE INTL",
+   "Airport Name": "SPOKANE INTL",
+   "Country": "UNITED STATES",
+   "elevationInFt": 2372,
+   "Geographic Location": "4738N 11732W"
+ },
+ {
+   "City Name": "ST. LOUIS",
+   "Airport Name": "ST. LOUIS INTL",
+   "Country": "UNITED STATES",
+   "elevationInFt": 605,
+   "Geographic Location": "3845N 9022W"
+ },
+ {
+   "City Name": "SYRACUSE",
+   "Airport Name": "HANCOCK INTL",
+   "Country": "UNITED STATES",
+   "elevationInFt": 421,
+   "Geographic Location": "4307N 7606W"
+ },
+ {
+   "City Name": "TAMPA",
+   "Airport Name": "TAMPA INTL",
+   "Country": "UNITED STATES",
+   "elevationInFt": 27,
+   "Geographic Location": "2758N 8232W"
+ },
+ {
+   "City Name": "WASHINGTON DULLES",
+   "Airport Name": "DULLES",
+   "Country": "UNITED STATES",
+   "elevationInFt": 313,
+   "Geographic Location": "3857N 7727W"
+ },
+ {
+   "City Name": "WASHINGTON NATIONAL",
+   "Airport Name": "NATIONAL",
+   "Country": "UNITED STATES",
+   "elevationInFt": 16,
+   "Geographic Location": "3851N 7702W"
+ },
+ {
+   "City Name": "WEST PALM BEACH",
+   "Airport Name": "WEST PALM BEACH",
+   "Country": "UNITED STATES",
+   "elevationInFt": 19,
+   "Geographic Location": "2641N 8006W"
+ },
+ {
+   "City Name": "WILMINGTON",
+   "Airport Name": "NEW HANOVER COUNTY",
+   "Country": "UNITED STATES",
+   "elevationInFt": 32,
+   "Geographic Location": "3416N 7754W"
+ },
+ {
+   "City Name": "WINDSOR LOCKS",
+   "Airport Name": "WINDSOR LOCKS",
+   "Country": "UNITED STATES",
+   "elevationInFt": 174,
+   "Geographic Location": "4156N 7241W"
+ },
+ {
+   "City Name": "MONTEVIDEO",
+   "Airport Name": "CARRASCO",
+   "Country": "URUGUAY",
+   "elevationInFt": 104,
+   "Geographic Location": "3450S 5602W"
+ },
+ {
+   "City Name": "SAMARKAND",
+   "Airport Name": "SAMARKAND",
+   "Country": "UZBEKISTAN",
+   "elevationInFt": 2224,
+   "Geographic Location": "3942N 6656E"
+ },
+ {
+   "City Name": "TASHKENT",
+   "Airport Name": "YUZHNYY",
+   "Country": "UZBEKISTAN",
+   "elevationInFt": 1414,
+   "Geographic Location": "4115N 6917E"
+ },
+ {
+   "City Name": "CARACAS",
+   "Airport Name": "SIMON BOLIVAR",
+   "Country": "VENEZUELA",
+   "elevationInFt": 235,
+   "Geographic Location": "1036N 6659W"
+ },
+ {
+   "City Name": "MARACAIBO",
+   "Airport Name": "LA CHINITA",
+   "Country": "VENEZUELA",
+   "elevationInFt": 213,
+   "Geographic Location": "1034N 7144W"
+ },
+ {
+   "City Name": "MARGARITA",
+   "Airport Name": "DEL CARIBE",
+   "Country": "VENEZUELA",
+   "elevationInFt": 89,
+   "Geographic Location": "1055N 6358W"
+ },
+ {
+   "City Name": "DANANG",
+   "Airport Name": "DANANG",
+   "Country": "VIETNAM",
+   "elevationInFt": 33,
+   "Geographic Location": "1603N 10812E"
+ },
+ {
+   "City Name": "HANOI",
+   "Airport Name": "NOIBAI",
+   "Country": "VIETNAM",
+   "elevationInFt": 39,
+   "Geographic Location": "2113N 10548E"
+ },
+ {
+   "City Name": "HOCHIMINH",
+   "Airport Name": "TANSONNHAT",
+   "Country": "VIETNAM",
+   "elevationInFt": 33,
+   "Geographic Location": "1049N 10639E"
+ },
+ {
+   "City Name": "ST. LUCIA",
+   "Airport Name": "HEWANORRA INTL",
+   "Country": "WINDWARD ISLANDS",
+   "elevationInFt": 11,
+   "Geographic Location": "1345N 6057W"
+ },
+ {
+   "City Name": "ADEN",
+   "Airport Name": "ADEN",
+   "Country": "YEMEN ARAB REPUBLIC",
+   "elevationInFt": 12,
+   "Geographic Location": "1250N 4502E"
+ },
+ {
+   "City Name": "HODEIDAH",
+   "Airport Name": "HODEIDAH",
+   "Country": "YEMEN ARAB REPUBLIC",
+   "elevationInFt": 41,
+   "Geographic Location": "1445N 4259E"
+ },
+ {
+   "City Name": "SANAA",
+   "Airport Name": "SANAA INTL.",
+   "Country": "YEMEN ARAB REPUBLIC",
+   "elevationInFt": 7237,
+   "Geographic Location": "1529N 4413E"
+ },
+ {
+   "City Name": "TAIZ",
+   "Airport Name": "GANED",
+   "Country": "YEMEN ARAB REPUBLIC",
+   "elevationInFt": 4600,
+   "Geographic Location": "1341N 4408E"
+ },
+ {
+   "City Name": "BELGRADE",
+   "Airport Name": "BELGRADE",
+   "Country": "YUGOSLAVIA",
+   "elevationInFt": 335,
+   "Geographic Location": "4449N 2019E"
+ },
+ {
+   "City Name": "MOSTAR",
+   "Airport Name": "MOSTAR",
+   "Country": "YUGOSLAVIA",
+   "elevationInFt": 174,
+   "Geographic Location": "4317N 1751E"
+ },
+ {
+   "City Name": "OHRID",
+   "Airport Name": "OHRID",
+   "Country": "YUGOSLAVIA",
+   "elevationInFt": 2313,
+   "Geographic Location": "4111N 2045E"
+ },
+ {
+   "City Name": "PODGORICA",
+   "Airport Name": "PODGORICA",
+   "Country": "YUGOSLAVIA",
+   "elevationInFt": 118,
+   "Geographic Location": "4222N 1915E"
+ },
+ {
+   "City Name": "SARAJEVO",
+   "Airport Name": "SARAJEVO",
+   "Country": "YUGOSLAVIA",
+   "elevationInFt": 1700,
+   "Geographic Location": "4349N 1820E"
+ },
+ {
+   "City Name": "SKOPJE",
+   "Airport Name": "SKOPJE",
+   "Country": "YUGOSLAVIA",
+   "elevationInFt": 781,
+   "Geographic Location": "4158N 2138E"
+ },
+ {
+   "City Name": "TIVAT",
+   "Airport Name": "TIVAT",
+   "Country": "YUGOSLAVIA",
+   "elevationInFt": 20,
+   "Geographic Location": "4224N 1844E"
+ },
+ {
+   "City Name": "KINSHASA",
+   "Airport Name": "NDJILI",
+   "Country": "ZAIRE",
+   "elevationInFt": 1027,
+   "Geographic Location": "0423S 1526E"
+ },
+ {
+   "City Name": "KISANGANI",
+   "Airport Name": "BANGOKA",
+   "Country": "ZAIRE",
+   "elevationInFt": 1417,
+   "Geographic Location": "0029N 2520E"
+ },
+ {
+   "City Name": "LUBUMBASHI",
+   "Airport Name": "BARRER LUANO",
+   "Country": "ZAIRE",
+   "elevationInFt": 4295,
+   "Geographic Location": "1135S 2731E"
+ },
+ {
+   "City Name": "MBUJI-MAYI",
+   "Airport Name": "MBUJI-MAYI",
+   "Country": "ZAIRE",
+   "elevationInFt": 2221,
+   "Geographic Location": "0607S 2336E"
+ },
+ {
+   "City Name": "KASAMA",
+   "Airport Name": "KASAMA",
+   "Country": "ZAMBIA",
+   "elevationInFt": 4542,
+   "Geographic Location": "1013S 3108E"
+ },
+ {
+   "City Name": "LIVINGSTONE",
+   "Airport Name": "LIVINGSTONE",
+   "Country": "ZAMBIA",
+   "elevationInFt": 3250,
+   "Geographic Location": "1749S 2549E"
+ },
+ {
+   "City Name": "LUSAKA",
+   "Airport Name": "LUSAKA INTL.",
+   "Country": "ZAMBIA",
+   "elevationInFt": 3779,
+   "Geographic Location": "1520S 2827E"
+ },
+ {
+   "City Name": "MANSA",
+   "Airport Name": "MANSA",
+   "Country": "ZAMBIA",
+   "elevationInFt": 4100,
+   "Geographic Location": "1108S 2852E"
+ },
+ {
+   "City Name": "MONGU ",
+   "Airport Name": "MONGU",
+   "Country": "ZAMBIA",
+   "elevationInFt": 3465,
+   "Geographic Location": "1514S 2309E"
+ },
+ {
+   "City Name": "N'DOLA",
+   "Airport Name": "N'DOLA",
+   "Country": "ZAMBIA",
+   "elevationInFt": 4167,
+   "Geographic Location": "1300S 2839E"
+ },
+ {
+   "City Name": "BULAWAYO",
+   "Airport Name": "BULAWAYO",
+   "Country": "ZIMBABWAE",
+   "elevationInFt": 4366,
+   "Geographic Location": "2001S 2838E"
+ },
+ {
+   "City Name": "CHIREDZI",
+   "Airport Name": "BUFFALO RANGE",
+   "Country": "ZIMBABWAE",
+   "elevationInFt": 1421,
+   "Geographic Location": "2101S 3135E"
+ },
+ {
+   "City Name": "HARARE",
+   "Airport Name": "CHARLES PRINCE",
+   "Country": "ZIMBABWAE",
+   "elevationInFt": 4850,
+   "Geographic Location": "1745S 3055E"
+ },
+ {
+   "City Name": "HARARE",
+   "Airport Name": "HARARE INTL.",
+   "Country": "ZIMBABWAE",
+   "elevationInFt": 4901,
+   "Geographic Location": "1756S 3106E"
+ },
+ {
+   "City Name": "HWANGE",
+   "Airport Name": "NATIONAL PARK",
+   "Country": "ZIMBABWAE",
+   "elevationInFt": 3542,
+   "Geographic Location": "1838S 2700E"
+ },
+ {
+   "City Name": "KARIBA",
+   "Airport Name": "KARIBA",
+   "Country": "ZIMBABWAE",
+   "elevationInFt": 1706,
+   "Geographic Location": "1631S 2853E"
+ },
+ {
+   "City Name": "MASVINGO",
+   "Airport Name": "MASVINGO",
+   "Country": "ZIMBABWAE",
+   "elevationInFt": 3956,
+   "Geographic Location": "2004S 3052E"
+ },
+ {
+   "City Name": "VICTORIA FALLS",
+   "Airport Name": "VICTORIA FALLS",
+   "Country": "ZIMBABWAE",
+   "elevationInFt": 3490,
+   "Geographic Location": "1806S 2550E"
+ }
+]

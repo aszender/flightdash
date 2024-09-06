@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+body, html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card-img-top {
+    height: 150px;
+    object-fit: cover;
+}
+
+.container h2 {
+    text-align: center;
+}

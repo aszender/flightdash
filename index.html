@@ -1,0 +1,153 @@
+<!doctype html>
+<html class="no-js" lang="">
+<head>
+  <meta charset="utf-8">
+  <title>ICS 128 | Final | Andres Gonzalez</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <link rel="stylesheet" href="css/style.css">
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+  <script type="text/javascript">
+    (function() {
+      emailjs.init("_KCrh5ZHT7MTmLvbH");
+    })();
+  </script>
+
+</head>
+
+<body>
+
+  <!-- Navigation Bar -->
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">Flight Dashboard</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#" id="homeLink">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#" id="shoppingCartLink">Shoping Cart</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Main Content Area -->
+  <div class="container mt-4">
+    <!-- Map Section -->
+    <div id="map" style="height: 500px;"></div>
+
+    <!-- Filter Dropdown -->
+    <div class="row mt-4">
+      <div class="col-md-4">
+        <select id="planeTypeFilter" class="form-select">
+          <option value="">All Plane Types</option>
+          <option value="Boeing 777">Boeing 777</option>
+          <option value="Boeing 787">Boeing 787</option>
+          <option value="Airbus A350">Airbus A350</option>
+          <option value="Airbus A330">Airbus A330</option>
+          <option value="Boeing 737">Boeing 737</option>
+        </select>
+      </div>
+    </div>
+
+    <!-- Flight Catalog Section -->
+    <div id="flight-catalog" class="row row-cols-1 row-cols-md-3 g-4 mt-4">
+      <!-- Dynamic flight cards will be injected here -->
+    </div>
+  </div>
+
+  <!-- Checkout Modal -->
+  <div class="modal fade" id="checkoutModal" tabindex="-1" aria-labelledby="checkoutModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="checkoutModalLabel">Checkout</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <form id="checkoutForm">
+            <!-- Step 1: Booking Details -->
+            <div id="step1">
+              <h6>Booking Details</h6>
+              <!-- Display selected flights and total cost -->
+              <div id="bookingDetails"></div>
+              <button type="button" class="btn btn-primary mt-3" onclick="goToStep2()">Next</button>
+            </div>
+            <!-- Step 2: Passenger Details -->
+            <div id="step2" style="display:none;">
+              <h6>Passenger Details</h6>
+              <div class="mb-3">
+                <label for="passengerName" class="form-label">Name</label>
+                <input type="text" class="form-control" id="passengerName" required>
+              </div>
+              <div class="mb-3">
+                <label for="passengerEmail" class="form-label">Email</label>
+                <input type="email" class="form-control" id="passengerEmail" required>
+              </div>
+              <div class="mb-3">
+                <label for="passengerPhone" class="form-label">Phone</label>
+                <input type="tel" class="form-control" id="passengerPhone" required>
+              </div>
+              <!-- Back and Next Buttons -->
+              <button type="button" class="btn btn-secondary btn-block" onclick="goToStep1()">Back</button>
+              <button type="button" class="btn btn-primary btn-block" onclick="goToStep3()">Next</button>
+            </div>
+            <!-- Step 3: Confirm Order -->
+            <div id="step3" style="display:none;">
+              <h6>Confirm Order</h6>
+              <!-- Display final confirmation details -->
+              <div id="confirmationDetails"></div>
+              <!-- Back and Confirm Button -->
+              <button type="button" class="btn btn-secondary btn-block" onclick="goToStep2()">Back</button>
+              <button type="submit" class="btn btn-success">Confirm Booking</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- Offcanvas Cart -->
+  <div class="offcanvas offcanvas-end" tabindex="-1" id="cartCanvas" aria-labelledby="cartCanvasLabel">
+    <div class="offcanvas-header">
+      <h5 class="offcanvas-title" id="cartCanvasLabel">Your Cart</h5>
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+      <!-- Cart items will be dynamically added here -->
+      <p>No items in the cart yet.</p>
+    </div>
+  </div>
+
+
+<!-- footer -->
+<footer class="bg-primary text-white text-center pt-4 pb-4">
+  <div class="container text-center">
+    <div class="row">
+      <div class="col-md-12">
+        <h6>Flight Company Cost Dashboard</h6>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- Bootstrap Javasript -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script src="scripts/project.js"></script>
+</body>
+</html>

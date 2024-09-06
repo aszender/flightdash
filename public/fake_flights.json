@@ -1,0 +1,110 @@
+[
+    {
+        "speed_kph": 784,
+        "type_of_plane": "Boeing 777",
+        "seats_remaining": 6,
+        "price_per_km": 29,
+        "extraFuelCharge": 0.54,
+        "maxTakeOffAlt": 3531,
+        "plane_image": "../images/boeing-777.jpeg"
+    },
+    {
+        "speed_kph": 495,
+        "type_of_plane": "Boeing 787",
+        "seats_remaining": 16,
+        "price_per_km": 13,
+        "extraFuelCharge": 2.21,
+        "maxTakeOffAlt": 3572,
+        "plane_image": "../images/boeing-787.jpg"
+    },
+    {
+        "speed_kph": 555,
+        "type_of_plane": "Airbus A350",
+        "seats_remaining": 20,
+        "price_per_km": 20,
+        "extraFuelCharge": 5.65,
+        "maxTakeOffAlt": 3432,
+        "plane_image": "../images/airbus-a350.jpg"
+    },
+    {
+        "speed_kph": 541,
+        "type_of_plane": "Boeing 777",
+        "seats_remaining": 5,
+        "price_per_km": 10,
+        "extraFuelCharge": 4.03,
+        "maxTakeOffAlt": 4909,
+        "plane_image": "../images/boeing-777.jpeg"
+    },
+    {
+        "speed_kph": 439,
+        "type_of_plane": "Boeing 787",
+        "seats_remaining": 4,
+        "price_per_km": 29,
+        "extraFuelCharge": 5.15,
+        "maxTakeOffAlt": 5409,
+        "plane_image": "../images/boeing-787.jpg"
+    },
+    {
+        "speed_kph": 529,
+        "type_of_plane": "Boeing 777",
+        "seats_remaining": 17,
+        "price_per_km": 15,
+        "extraFuelCharge": 8.32,
+        "maxTakeOffAlt": 8106,
+        "plane_image": "../images/boeing-777.jpeg"
+    },
+    {
+        "speed_kph": 840,
+        "type_of_plane": "Airbus A330",
+        "seats_remaining": 2,
+        "price_per_km": 26,
+        "extraFuelCharge": 6.09,
+        "maxTakeOffAlt": 5779,
+        "plane_image": "../images/airbus-a330.jpg"
+    },
+    {
+        "speed_kph": 530,
+        "type_of_plane": "Airbus A350",
+        "seats_remaining": 8,
+        "price_per_km": 24,
+        "extraFuelCharge": 2.22,
+        "maxTakeOffAlt": 15000,
+        "plane_image": "../images/airbus-a350.jpg"
+    },
+    {
+        "speed_kph": 593,
+        "type_of_plane": "Airbus A330",
+        "seats_remaining": 14,
+        "price_per_km": 28,
+        "extraFuelCharge": 2.06,
+        "maxTakeOffAlt": 15000,
+        "plane_image": "../images/airbus-a330.jpg"
+    },
+    {
+        "speed_kph": 762,
+        "type_of_plane": "Boeing 777",
+        "seats_remaining": 15,
+        "price_per_km": 17,
+        "extraFuelCharge": 6.4,
+        "maxTakeOffAlt": 4189,
+        "plane_image": "../images/boeing-777.jpeg"
+    },
+    {
+        "speed_kph": 516,
+        "type_of_plane": "Boeing 787",
+        "seats_remaining": 17,
+        "price_per_km": 14,
+        "extraFuelCharge": 0.83,
+        "maxTakeOffAlt": 7618,
+        "plane_image": "../images/boeing-787.jpg"
+    },
+    {
+        "speed_kph": 491,
+        "type_of_plane": "Boeing 737",
+        "seats_remaining": 17,
+        "price_per_km": 30,
+        "extraFuelCharge": 0.13,
+        "maxTakeOffAlt": 3562,
+        "plane_image": "../images/boeing-737.jpeg"
+    }
+]
